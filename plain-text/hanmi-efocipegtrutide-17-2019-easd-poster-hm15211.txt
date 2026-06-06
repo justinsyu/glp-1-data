@@ -1,0 +1,372 @@
+# Neuroprotective effects of HM15211, a novel long-acting GLP-1/GIP/Glucagon triple agonist in the neurodegenerative disease models
+
+Hanmi logo
+
+**607-P**
+
+Won Ki Kim¹, Jong Suk Lee¹, Jeong A Kim¹, Sang-Hyun Lee¹, Sung Min Bae¹, In Young Choi¹, and Young Hoon Kim¹
+¹Hanmi Pharm. Co., Ltd, Seoul, South of Korea
+
+## BACKGROUND
+
+* Neuroprotective effects of GLP-1¹, glucagon² and GIP³
+
+```mermaid
+graph TD
+    HM15211((HM15211))
+    HM15211 --> Pancreas
+    HM15211 --> GI_tract[GI tract]
+    HM15211 --> Adipose_tissue[Adipose tissue]
+    HM15211 --> Bone
+    HM15211 --> Heart
+    HM15211 --> Brain
+    
+    subgraph Peripheral_contributions [Peripheral contributions]
+        Pancreas
+        GI_tract
+        Adipose_tissue
+        Bone
+        Heart
+    end
+
+    Peripheral_contributions <--> Peripheral_CNS_Crosstalk[Peripheral-CNS Crosstalk]
+    Peripheral_CNS_Crosstalk <--> Brain
+
+    subgraph Brain_Effects [Brain]
+        Brain --> Neuroprotection
+        Neuroprotection --> N1[↑ Neurite outgrowth]
+        Neuroprotection --> N2[↑ Progenitor proliferation]
+        Neuroprotection --> N3[↓ inflammation]
+        Neuroprotection --> N4[↓ Glutamate neurotoxicity]
+        Neuroprotection --> N5[↑ Progenitor proliferation]
+        Neuroprotection --> N6[↓ inflammation]
+    end
+```
+
+## AIMS
+
+* This study investigated whether HM15211 has neuroprotective effects in neurodegenerative disease models 1) Chronic MPTP/probenecid PD model, 2) AD progression in diabetic model, and 3) the relapsing-remitting experimental autoimmune encephalomyelitis (EAE) model of MS.
+
+## METHODS
+
+* Chronic Parkinson’s disease mice model was induced by 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) in combination with probenecid intraperitoneal injection, twice a week for 5 weeks and HM15211 was subcutaneously administered once a week for 6 weeks.
+
+* db/db mice are well-established diabetic model. It has been reported that db/db mice increase amyloid beta 1-42. Thus we chose db/db mice to elucidate the prophylactic effect of HM15211 on the development of Alzheimer’s disease. Six weeks old db/db mice were subcutaneously treated with HM15211, once every two days for 12 weeks.
+
+* The relapsing-remitting EAE mouse model established by injecting SJL mice with an emulsion of PLP139-151 in complete Freund's adjuvant, followed by administration of pertussis toxin. To evaluate the prophylactic effects of HM15211 on EAE model, the mice were subcutaneously treated with HM15211 from day 1.
+
+```mermaid
+graph TD
+    subgraph PD_Model [1) Chronic MPTP/probenecid PD model]
+        A1[D-2] --> B1[D0]
+        B1 --> C1[5w]
+        C1 --> D1[6w]
+        B1 -- "Training for behavior test" --> C1
+        B1 -- "MPTP/P (twice a week)" --> C1
+        B1 -- "HM15211 (QW)" --> D1
+        D1 --> E1[Sacrifice]
+        C1 -- "Behavior tests" --> D1
+    end
+
+    subgraph AD_Model [2) AD progression in diabetic model]
+        A2[D0] --> B2[12w]
+        A2 -- "HM15211 (Q2D for 12 weeks)" --> B2
+        B2 --> C2[Sacrifice]
+    end
+
+    subgraph EAE_Model [3) The relapsing-remitting EAE model]
+        A3[D0] --> B3[D1]
+        B3 --> C3[D9]
+        C3 --> D3[D24]
+        A3 -- "PLP CFA" --> B3
+        B3 -- "PTX (<2hr)" --> C3
+        B3 -- "HM15211 (Q2D)" --> D3
+        C3 -- "Onset" --> D3
+        D3 -- "Remission / Relapse" --> E3[Sacrifice]
+    end
+```
+
+## RESULTS
+
+### Functional evaluation in MPTP/P-induced chronic Parkinson’s diseases (PD) mice model
+
+**Figure 1. Motor function restoring effects of HM15211**
+
+| Test                                  | Vehicle | MPTP/P | MPTP/P + HM15211 |
+| ------------------------------------- | ------- | ------ | ---------------- |
+| (a) Traction test (score 0-3)         | 3       | 1.5    | 2.5              |
+| (b) Pole test (T-total, s)            | 10      | 35     | 20               |
+| (c) Rotarod test (falling latency, s) | 140     | 60     | 110              |
+
+
+\*p<0.05, \*\*p<0.01, \*\*\*p<0.001 vs. MPTP/P by One-way ANOVA
+
+⮚ HM15211 administration restored MPTP/P-induced motor function impairment in (a) traction test, (b) pole test and (c) rotarod test.
+
+### Neuroprotection in chronic PD mice
+
+**Figure 2. Dopaminergic neuroprotection by HM15211**
+
+(a) Dopaminergic neuron staining (TH; tyrosine hydroxylase) (b) TH+ cell number
+
+Dopaminergic neuron staining images showing Striatum and Substantia nigra for Vehicle, MPTP/P, and MPTP/P + HM15211 groups
+
+| Group            | TH+ cells in substantia nigra |
+| ---------------- | ----------------------------- |
+| Vehicle          | 160                           |
+| MPTP/P           | 80                            |
+| MPTP/P + HM15211 | 130                           |
+
+
+(c) α-synuclein
+
+| Group            | α-synuclein (ng/ml) |
+| ---------------- | ------------------- |
+| Vehicle          | 2                   |
+| MPTP/P           | 7                   |
+| MPTP/P + HM15211 | 4.5                 |
+
+
+\*p<0.05, \*\*p<0.01, \*\*\*p<0.001 vs. MPTP/P by One-way ANOVA
+
+⮚ HM15211 protected MPTP/P-induced dopaminergic neuronal cell damage in the striatum and the substantia nigra (a, b) and also effectively inhibited the α-synuclein toxicity, which was induced by MPTP/P (c).
+
+### Mechanisms of neuroprotection in chronic PD mice
+
+**Figure 3. Anti-inflammatory effects of HM15211**
+
+(a) Microglia staining (Iba1)
+
+Microglia staining images of Striatum for Vehicle, MPTP/P, and MPTP/P + HM15211 groups
+
+(b) Iba1+ area
+
+| Group            | Iba1+ area in Striatum (% vs. vehicle) |
+| ---------------- | -------------------------------------- |
+| Vehicle          | 100                                    |
+| MPTP/P           | 320                                    |
+| MPTP/P + HM15211 | 180                                    |
+
+
+(c) IFN-γ (d) IL-10
+
+| Group            | IFN-γ (pg/ml) | IL-10 (pg/ml) |
+| ---------------- | ------------- | ------------- |
+| Vehicle          | 40            | 1800          |
+| MPTP/P           | 160           | 800           |
+| MPTP/P + HM15211 | 80            | 1400          |
+
+
+\*p<0.05, \*\*p<0.01, \*\*\*p<0.001 vs. MPTP/P by One-way ANOVA
+
+⮚ In striatum of MPTP/P-induced chronic PD mouse model, HM15211 reduced the area covered by microglia (a, b) and reversed the induction of IFN-γ (c) and the reduction of IL-10 (d) levels. lba1 : Ionized calcium binding adaptor molecule 1
+
+### Alzheimer diseases’ pathological resolution in db/db mice
+
+**Figure 4. Inhibited accumulation of Aβ₁₋₄₂ and AGE by HM15211**
+
+(a) Aβ₁₋₄₂ (b) AGE
+
+| Group           | Aβ1-42 (% vs. vehicle) | AGE (μg/ml) |
+| --------------- | ---------------------- | ----------- |
+| db/m vehicle    | 100                    | 0.8         |
+| db/db vehicle   | 140                    | 1.3         |
+| db/db + HM15211 | 110                    | 1.0         |
+
+
+\*p<0.05, \*\*p<0.01, \*\*\*p<0.001 vs. db/db (18w) vehicle by One-way ANOVA
+
+⮚ HM15211 prevented the accumulation of Aβ₁₋₄₂ in cortex (a). Also, HM15211 effectively decreased the AGE (Advanced glycation end product), which is a factor in worsening of neurodegenerative disease. Aβ₁₋₄₂ : Amyloid beta₁₋₄₂
+
+### Mechanisms of neuroprotection in db/db mice
+
+**Figure 5. Reduced inflammation and oxidative stress by HM15211**
+
+(a) Reduction of activated microglia in cortex and hippocampus
+
+Microglia staining images of Cortex, Hippo_CA1, and Hippo_DG for db/m vehicle, db/db vehicle, and db/db + HM15211 groups
+
+(b) IL-1β (c) IFN-γ (d) HNE protein adduct
+
+| Group           | IL-1β (pg/ml) | IFN-γ (pg/ml) | HNE protein adduct (μg/ml) |
+| --------------- | ------------- | ------------- | -------------------------- |
+| db/m vehicle    | 35            | 4             | 60                         |
+| db/db vehicle   | 60            | 12            | 105                        |
+| db/db + HM15211 | 45            | 6             | 75                         |
+
+
+\*p<0.05, \*\*p<0.01, \*\*\*p<0.001 vs. db/db (18w) vehicle by One-way ANOVA
+
+⮚ HM15211 reduced activated microglia in cortex and hippocampus of db/db mice brain (a). Also, HM15211 decreased of IL-1β (b), IFN-γ (c) and HNE protein adduct (d) levels of db/db mice cortex.
+
+### Neuroprotective effects in EAE mouse model of MS
+
+**Figure 6. Preventive effects of HM15211 in EAE mouse model**
+
+(a) Reduction of the EAE score
+
+| Time (days) | Vehicle | EAE | EAE + HM15211 |
+| ----------- | ------- | --- | ------------- |
+| 1           | 0       | 0   | 0             |
+| 9           | 0       | 0.5 | 0.2           |
+| 11          | 0       | 3.5 | 1.5           |
+| 13          | 0       | 4.2 | 2.0           |
+| 15          | 0       | 3.8 | 1.8           |
+| 17          | 0       | 4.5 | 2.2           |
+| 19          | 0       | 4.0 | 2.0           |
+| 21          | 0       | 4.2 | 2.1           |
+| 23          | 0       | 4.0 | 2.0           |
+| 25          | 0       | 4.1 | 2.1           |
+
+
+| Group         | Cumulative clinical score (9 \~ 24 dpi) |
+| ------------- | --------------------------------------- |
+| EAE           | 65                                      |
+| EAE + HM15211 | 25                                      |
+
+
+The diseases onset phase : 9~24 days post-immunization (d.p.i.)
+
+(b) Reduction of demyelination in spinal cord (Luxol fast blue staining)
+
+Luxol fast blue staining images of spinal cord for Vehicle, EAE, and EAE + HM15211 groups
+
+| Group         | Demyelination score |
+| ------------- | ------------------- |
+| Vehicle       | 0.0                 |
+| EAE           | 1.4                 |
+| EAE + HM15211 | 0.4                 |
+
+
+(c) Enhancement of Treg cell population (d) Induction of IL-10 mRNA level
+
+| Group         | CD4+Foxp3+ cells (%) | IL-10 mRNA (Fold induction) |
+| ------------- | -------------------- | --------------------------- |
+| Naive         | 15                   | 1                           |
+| EAE           | 18                   | 2.5                         |
+| EAE + HM15211 | 24                   | 5.5                         |
+
+
+\*\*p<0.01, \*\*\*p<0.001 vs. EAE group by One-way ANOVA
+
+⮚ HM15211 administration significantly reduced the EAE clinical score (a) and inhibited demyelination in spinal cord, compared to vehicle (b). Also, HM15211 increased the percentage of splenic Treg cells (c) and upregulated anti-inflammatory cytokines, IL-10 (d)
+
+## CONCLUSIONS
+
+* HM15211 inhibited the increase of α-synuclein in MPTP/Probenecid-induced chronic Parkinson’s disease, restoring motor function.
+
+* HM15211 reversed pathological characters of Alzheimer’s disease such as the Aβ₁₋₄₂ and AGE accumulations in aged db/db mice.
+
+* HM15211 reduced EAE clinical score and demyelination in spinal cord in the relapsing-remitting experimental autoimmune encephalomyelitis (EAE) model of MS.
+
+* These neuroprotective effects of HM15211 are derived from anti-inflammatory properties in the neurodegenerative animal models.
+
+* In conclusion, HM15211, a novel long-acting GLP-1 / GIP / Glucagon tri-agonist, might have therapeutic potential for neurodegenerative diseases.
+
+## REFERENCES
+
+1. Yazhou Li et al., Proc Natl Acad Sci U S A. Jan 27;106(4):1285-90 (2009)
+
+2. Rami Abu Fanne et al., Am J Physiol Regul Integr Comp Physiol 301: R668– R673 (2011)
+
+3. Yanwei Li et al., Neuropharmacology . 101, 255e263 (2016)
+
+European Association for the Study of Diabetes (EASD) 55ᵗʰ Annual Meeting, Barcelona, Spain, 16 - 20 September 2019
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_1.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_2.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_3.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_4.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_5.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_6.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_7.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_8.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_9.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_10.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_11.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_12.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_13.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_14.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_15.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_16.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_17.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_18.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_19.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_20.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_21.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_22.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_23.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_24.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_25.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_26.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_27.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_28.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_29.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/img_p0_30.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_8_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_7_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_9_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_10_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_11_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_chart_12_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/17.2019_EASD_Poster_HM15211_images/page_1_image_5_v2.jpg' | relative_url }})

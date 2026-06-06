@@ -1,0 +1,1751 @@
+---
+layout: document
+title: Multi-target engagement effect of a novel long-acting Glucagon/GIP/GLP-1 triple
+  agonist (HM15211) in animal model of NASH
+permalink: /company-documents/hanmi-efocipegtrutide-2021-easd-oral-presentation-efocipegtrutide/
+company: Hanmi Pharmaceutical
+company_slug: hanmi
+program: Efocipegtrutide / HM15211
+program_slug: efocipegtrutide
+indication: MASH
+year: ''
+conference: ''
+document_type: Presentation/Poster
+source_file: 2021_EASD_Oral_presentation_efocipegtrutide.pdf
+pdf_url: /companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide.pdf
+plain_text_url: /plain-text/hanmi-efocipegtrutide-2021-easd-oral-presentation-efocipegtrutide.txt
+description: Parsed presentation/poster source document for Hanmi Pharmaceutical.
+---
+
+Abstract #191
+
+EASD 2021 57th ANNUAL MEETING, 27 September - 1 October 2021, #EASD2021, easd.org
+
+# Multi-target engagement effect of a novel long-acting Glucagon/GIP/GLP-1 triple agonist (HM15211) in animal model of NASH
+
+**<u>Jae Hyuk Choi</u>**, Jong Suk Lee, Jung Kuk Kim, Hyunjoo Kwon, Eun Jin Park, Jong soo Lee, Dae Jin Kim, Younghoon Kim, In Young Choi
+
+Hanmi Pharm. Co., Ltd., Seoul, Republic of Korea
+
+Hanmi logo
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p0_1.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p0_2.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_1_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_1_image_2_v2.jpg' | relative_url }})
+
+# Presenter Disclosure
+
+Hanmi logo
+
+**Employee of Hanmi Pharm. Co., Ltd.**
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 2]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 2]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 2]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_2.jpg' | relative_url }})
+
+![Extracted image from page 2]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_2_image_1_v2.jpg' | relative_url }})
+
+# NASH progression
+
+Hanmi logo
+
+Diagram showing the progression of liver disease from Normal to NAFL, NASH, and Cirrhosis, with detailed cellular mechanisms for Steatosis, Inflammation, and Fibrosis.
+
+Detailed diagram of Inflammation stage showing circulating monocyte, Kupffer cell, tissue adherent macrophage, and activated macrophage.
+
+Detailed diagram of Fibrosis stage showing M2 macrophage, TGF-β, Smad signaling, Quiescent HSC, and Activated HSC leading to fibrosis.
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_3.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_4.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_5.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_6.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_7.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_8.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_9.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_10.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_11.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_12.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_13.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_14.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_15.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_16.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_17.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_18.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_19.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p2_20.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_3.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_3_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_3_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_3_image_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_3_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_3_image_2_v2.jpg' | relative_url }})
+
+# NASH progression
+
+Hanmi logo
+
+```mermaid
+graph LR
+    subgraph Progression [ ]
+        direction LR
+        Normal[Normal Liver] --- NAFL[NAFL Liver] --- NASH[NASH Liver] --- Cirrhosis[Cirrhosis Liver]
+    end
+
+    subgraph Steatosis [Steatosis]
+        direction TB
+        MS["Metabolic stress- Obesity- Dyslipidemia- Insulin resistance, T2DM"] --> FA["Fat accumulationin Hepatocyte"]
+        FA --> HA["<u>Hepatocyteapoptosis</u>"]
+        HA_Text["'Hepatic lipid accumulation'&rarr; Lipotoxicity and liver cell apoptosis"]
+    end
+
+    subgraph Inflammation [Inflammation]
+        direction TB
+        CM[Circulating monocyte] --> TAM[Tissue adherent macrophage]
+        KC[Kupfer cell] --> TAM
+        TAM --> AM["<u>Activatedmacrophage</u>"]
+        Inflam_Text["'Inflammation and immune cell recruitment'&rarr; Inflammatory tissue injury"]
+    end
+
+    subgraph Fibrosis [Fibrosis]
+        direction TB
+        QHSC[Quiescent HSC] -- "Smad signaling" --> AHSC["<u>Activated HSC</u>"]
+        M2 -- "TGF-&beta;" --> AHSC
+        AHSC --> Fibrosis_Result[Fibrosis Mesh]
+        Fibrosis_Text["'HSC activation and fibrogenesis'&rarr; Fibrosis"]
+    end
+
+    HA --> KC
+    AM --> M2
+```
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_3.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_4.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_5.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_6.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_7.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_8.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_9.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_10.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_11.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_12.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_13.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_14.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_15.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_16.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_17.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_18.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_19.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_20.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_21.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_22.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_4.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_4_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_4_image_1_v2.jpg' | relative_url }})
+
+# NASH progression
+
+Hanmi logo
+
+## Targeting multiple aspects of this disease should be required for efficient management of NASH and fibrosis
+
+```mermaid
+graph LR
+    Normal[Normal Liver] --> NAFL[NAFL Liver]
+    NAFL --> NASH[NASH Liver]
+    NASH --> Cirrhosis[Cirrhosis Liver]
+
+    subgraph Steatosis
+        MS[Metabolic stress- Obesity- Dyslipidemia- Insulin resistance, T2DM] --> FA[Fat accumulationin Hepatocyte]
+        FA --> HA[<u>Hepatocyteapoptosis</u>]
+        HA_Text["Hepatic lipid accumulation"&rarr; Lipotoxicity and liver cell apoptosis]
+    end
+
+    subgraph Inflammation
+        CM((Circulatingmonocyte)) --> TAM((Tissue adherentmacrophage))
+        KC((Kupffer cell)) --> TAM
+        TAM --> AM((M1 Activatedmacrophage))
+        Inflam_Text["Inflammation and immune cell recruitment"&rarr; Inflammatory tissue injury]
+    end
+
+    subgraph Fibrosis
+        M2((M2)) -- TGF-beta --> AHSC[Activated HSC]
+        QHSC[QuiescentHSC] -- Smad signaling --> AHSC
+        AHSC --> Fib[Fibrosis]
+        Fib_Text["HSC activation and fibrogenesis"&rarr; Fibrosis]
+    end
+
+    HA --> KC
+    AM --> QHSC
+```
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_3.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_4.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_5.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_6.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_7.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_8.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_9.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_10.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_11.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_12.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_13.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_14.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_15.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_16.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_17.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_18.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_19.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_20.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_21.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p3_22.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_5.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_5_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_5_image_1_v2.jpg' | relative_url }})
+
+# Biologic effects of incretins in NASH an fibrosis
+
+Hanmi logo
+
+**GLP-1** **GIP**
+* Insulin resistance improvement
+* Glycemic control
+* Weight loss by appetite regulation
+* Anti-inflammation
+
+*May be*
+*indirect benefits*
+Down arrow
+
+$\rightarrow$ NASH resolution
+
+$\rightarrow$ Fibrosis improvement (?)
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_3.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_4.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_5.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_6.jpg' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_6_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_6_image_2_v2.jpg' | relative_url }})
+
+# Biologic effects of incretins in NASH an fibrosis
+
+Hanmi logo
+
+## GLP-1 GIP
+*   Insulin resistance improvement
+*   Glycemic control
+*   Weight loss by appetite regulation
+*   Anti-inflammation
+
+May be indirect benefits
+
+$\rightarrow$ NASH resolution
+
+$\rightarrow$ Fibrosis improvement (?)
+
+## Glucagon
+*   Glucose production
+*   Weight loss by energy expenditure
+
+**[Liver targeting]**
+*   Favorable lipid metabolism reprograming
+*   Bile acid production $\downarrow$
+*   Anti-inflammation
+$\rightarrow$ Lipotoxicity and liver injury $\downarrow$
+
+*   TGF-$\beta$ production $\downarrow$
+*   Smad signaling $\downarrow$ in HSC
+$\rightarrow$ HSC activation and fibrogenesis $\downarrow$
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_3.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_4.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_5.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_6.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_7.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_8.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_9.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_7.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_7_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_7_image_2_v2.jpg' | relative_url }})
+
+# Biologic effects of incretins in NASH an fibrosis
+
+Hanmi logo
+
+## GLP-1 GIP
+
+* ⮚ Insulin resistance improvement
+
+* ⮚ Glycemic control
+
+* ⮚ Weight loss by appetite regulation
+
+* ⮚ Anti-inflammation
+
+***May be indirect benefits***
+down arrow
+
+🡪 NASH resolution
+
+🡪 Fibrosis improvement
+
+left arrow ***Direct benefits***
+
+## Glucagon
+
+* ⮚ Glucose production
+
+* ⮚ Weight loss by energy expenditure
+
+### [Liver targeting]
+
+* ⮚ Favorable lipid metabolism reprograming
+
+* ⮚ Bile acid production ↓
+
+* ⮚ Anti-inflammation
+
+🡪 Lipotoxicity and liver injury ↓
+
+* ⮚ TGF-β production ↓
+
+* ⮚ Smad signaling ↓ in HSC
+
+🡪 HSC activation and fibrogenesis ↓
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_6.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_7.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_8.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_9.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_3.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_4.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_5.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_8.jpg' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_8_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_8_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_8_image_2_v2.jpg' | relative_url }})
+
+# Biologic effects of incretins in NASH an fibrosis
+
+Hanmi logo
+
+## GLP-1
+
+## GIP
+
+* Insulin resistance improvement
+
+* Glycemic control
+
+* Weight loss by appetite regulation
+
+* Anti-inflammation
+
+Arrow pointing from GLP-1/GIP to Glucagon
+
+## Glucagon
+
+* Glucose production
+
+* Weight loss by energy expenditure
+
+### [Liver targeting]
+
+* Favorable lipid metabolism reprograming
+
+* Bile acid production ↓
+
+* Anti-inflammation
+
+🡪 Lipotoxicity and liver injury ↓
+
+* TGF-β production ↓
+
+* Smad signaling ↓ in HSC
+
+🡪 HSC activation and fibrogenesis ↓
+
+**May be indirect benefits**
+
+**Direct benefits**
+
+🡪 NASH resolution
+
+🡪 Fibrosis improvement
+
+🡪 Off-set blood glucose elevation
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_6.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_7.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_8.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_9.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_3.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_4.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_5.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_9.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_9_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_9_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_9_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_9_image_3_v2.jpg' | relative_url }})
+
+# Biologic effects of incretins in NASH an fibrosis
+
+Hanmi logo
+
+## GLP-1 GIP
+
+* Insulin resistance improvement
+
+* Glycemic control
+
+* Weight loss by appetite regulation
+
+* Anti-inflammation
+
+Arrow pointing down with text "May be indirect benefits"
+
+🡪 NASH resolution
+
+🡪 Fibrosis improvement
+
+🡪 Off-set blood glucose elevation
+
+Diagram of HM15211 
+
+Arrow pointing left with text "Direct benefits"
+
+## Glucagon
+
+* Glucose production
+
+* Weight loss by energy expenditure
+
+### [Liver targeting]
+
+* Favorable lipid metabolism reprograming
+
+* Bile acid production ↓
+
+* Anti-inflammation
+
+🡪 Lipotoxicity and liver injury ↓
+
+* TGF-β production ↓
+
+* Smad signaling ↓ in HSC
+
+🡪 HSC activation and fibrogenesis ↓
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_6.png' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_7.png' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_8.png' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p6_9.png' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_3.png' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_4.png' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p5_5.png' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p9_10.jpg' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p9_11.jpg' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p9_12.jpg' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p9_13.png' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_10.jpg' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_10_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_10_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_10_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_10_image_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 10]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_10_image_3_v2.jpg' | relative_url }})
+
+# What is long-acting Glucagon/GIP/GLP-1 triple co-agonist?
+
+Hanmi logo
+
+Diagram of GCG/GIP/GLP-1 triple co-agonist showing the triple co-agonist moiety, a flexible PEG linker, and an aglycosylated Fc fragment
+
+Hanmi’s Glucagon/GIP/GLP-1 triple co-agonist (HM15211) is conjugated with a human IgG Fc fragment *via* flexible linker
+
+## [General profile]
+
+* Single drug moiety with triple activity
+
+* Extended half-life allows once weekly dosing
+
+* Rationally designed triple agonist optimized for liver targeting
+
+* Rapid & potent liver fat reduction both in animal and human
+<u>(\*12 weeks *MAD trial results in obese NAFLD subjects presented at 2020 EASL*)</u>
+
+* Multiple MoAs exist for managing inflammation and fibrosis
+
+**LAPSCOVERY : L**ong **A**cting **P**eptide/Protein **DiSCOVERY** Technology
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 11]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 11]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 11]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p10_3.jpg' | relative_url }})
+
+![Extracted image from page 11]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p10_4.jpg' | relative_url }})
+
+![Extracted image from page 11]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p10_5.jpg' | relative_url }})
+
+![Extracted image from page 11]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_11.jpg' | relative_url }})
+
+![Extracted image from page 11]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_11_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 11]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_11_image_2_v2.jpg' | relative_url }})
+
+# Tissue distribution & hepatic lipid metabolism (vs. GLP-1RA) Hanmi logo
+
+## 1) Tissue distribution over time
+
+| Time   | Liver | Heart | Lung | Large I. | Spleen | Pancreas | Adipose tissue | Small I. | Stomach | Muscle |
+| ------ | ----- | ----- | ---- | -------- | ------ | -------- | -------------- | -------- | ------- | ------ |
+| 4 hr   | 43    | 19    | 10   | 5        | 10     | 5        | 5              | 5        | 3       | 3      |
+| 48 hr  | 51    | 18    | 15   | 9        | 9      | 5        | 5              | 5        | 3       | 3      |
+| 168 hr | 64    | 11    | 17   | 5        | 13     | 4        | 6              | 3        | 3       | 4      |
+
+
+Note. T/S\* ratio: Tissue to serum ratio
+<span style="color: green">Green line indicates T/S ratio range of liraglutide for liver (FDA NDA package)</span>
+
+Liver targeting, Increase β-oxidation, More liver fat reduction vs. GLP-1RA. Histology images for Vehicle, Liraglutide, and HM15211.
+
+## 2) Hepatic lipid metabolism reprogramming
+
+**β-oxidation**
+
+| Gene            | Vehicle | Liraglutide | HM15211   |
+| --------------- | ------- | ----------- | --------- |
+| In mitochondria |         |             |           |
+| PGC-1α          | 1.0     | 0.6         | 3.8\*\*\* |
+| CPT1            | 1.0     | 0.8\*       | 1.8\*     |
+| LCAD            | 1.0     | 0.6         | 4.4\*\*\* |
+| ACADVL          | 1.0     | 0.6         | 4.3\*\*\* |
+| HADHA           | 1.0     | 0.6         | 1.4       |
+| HADHB           | 1.0     | 0.6         | 1.4       |
+| In peroxisome   |         |             |           |
+| ACOX            | 1.0     | 0.7         | 1.0       |
+| EHHADH          | 1.0     | 0.7         | 5.1\*     |
+| ACAA1           | 1.0     | 0.7         | 1.8\*     |
+
+
+**De novo lipogenesis**
+
+[ ] Vehicle
+[x] Liraglutide 50 nmol/kg, BID (3 mg/day in human)
+[x] HM15211 1.44 nmol/kg, Q2D (2 mg/wk in human)
+
+| Gene     | Vehicle | Liraglutide | HM15211 |
+| -------- | ------- | ----------- | ------- |
+| SREBP-1C | 1.0     | 0.6         | 0.4\*   |
+| ACC1     | 1.0     | 1.1         | 0.6\*\* |
+| ACC2     | 1.0     | 1.1         | 0.6\*\* |
+| FAS      | 1.0     | 0.5         | 0.7     |
+| SCD1     | 1.0     | 0.3         | 0.6     |
+
+
+\*~***p<0.05~0.001 vs. Vehicle mice, vehicle by One-way ANOVA
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p11_3.png' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p11_4.png' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p11_5.png' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p11_6.jpg' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p11_7.jpg' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p11_8.jpg' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p11_9.png' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p11_10.png' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p11_11.png' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p11_12.png' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_12.jpg' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_12_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_12_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_12_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_12_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 12]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_12_chart_3_v2.jpg' | relative_url }})
+
+# Liver fat reduction in MCD-diet mice [Lean NASH model]
+
+Hanmi logo
+
+## Experimental scheme
+
+MCD-diet* for 10 weeks
+\*Methionine-choline deficient
+
+**MCD mice**
+(C57BL/6 strain, n=7/group)
+
+Drug treatment for 4 weeks
+MRI (at start of treatment)
+MRI (at end of treatment)
+
+### BW change at EOT
+
+| Group                            | BW change (% vs. Vehicle) |
+| -------------------------------- | ------------------------- |
+| Normal, Vehicle                  | -1                        |
+| MCD, Vehicle                     | -10                       |
+| MCD, Liraglutide 50 nmol/kg, BID | -6                        |
+| MCD, HM15211 0.72 nmol/kg, Q2D   | -6.5                      |
+
+
+### Liver TG
+
+| Group                                                | Hepatic TG (mg/g liver) |
+| ---------------------------------------------------- | ----------------------- |
+| Normal, Vehicle                                      | 40\*                    |
+| MCD, Vehicle                                         | 100                     |
+| MCD, Liraglutide 50 nmol/kg, BID (3 mg/day in human) | 80†                     |
+| MCD, HM15211 0.72 nmol/kg, Q2D (1 mg/wk in human)    | 18\*\*                  |
+
+
+[ ] Normal, Vehicle
+[x] MCD, Vehicle
+[x] MCD, Liragluitde 50 nmol/kg, BID (3 mg/day in human)
+[x] MCD, HM15211 0.72 nmol/kg, Q2D (1 mg/wk in human)
+
+## Liver fat by MRI/MRS
+
+Normal, Veh, week 4 MRI scan showing 5.1% liver fat (average: 5.8%)
+
+MCD, Veh, week 4 MRI scan showing 17.0% liver fat (average: 18.4%)
+
+MCD, Lira, week 4 MRI scan showing 9.7% liver fat (average: 16.7%)
+
+MCD, HM15211, week 4 MRI scan showing 2.8% liver fat (average 5.5%)
+
+\*~**p<0.05~0.01 vs. MCD mice, vehicle by One-way ANOVA; †p<0.05 vs. liraglutide by One-way ANOVA
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p12_3.png' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p12_4.jpg' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p12_5.png' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p12_6.png' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p12_7.png' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p12_8.png' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p12_9.png' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_13.jpg' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_13_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_13_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_13_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_13_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_13_image_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_13_image_7_v2.jpg' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_13_image_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 13]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_13_chart_1_v2.jpg' | relative_url }})
+
+# Hypothesis & study methods Hanmi logo
+
+# HM15211, long-acting Glucagon/GIP/GLP-1 triple agonist, might have therapeutic potential for NASH and fibrosis
+
+* **The efficacy in NASH and fibrosis was evaluated in various rodent disease models**
+
+| Species / Strain               | Induction method    | Induction method   | Expected disease status         | Abstract #    |
+| ------------------------------ | ------------------- | ------------------ | ------------------------------- | ------------- |
+| C57BL/6 mouse<br/>C57BL/6 mice | 1. Diet-induced     | AMLN diet          | Obesity; NASH                   | #191 (Oral)   |
+|                                | 2. Surgery-induced  | Bile duct ligation | Liver inflammation and necrosis | #668 (Poster) |
+|                                | 3. Chemical-induced | TAA treatment\*    | Moderate to severe Fibrosis     |               |
+
+
+**Note.**
+
+\*TAA (Thioacetamide, hepatotoxin) → Liver inflammation → Fibrosis ↑
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 14]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 14]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 14]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p13_3.jpg' | relative_url }})
+
+![Extracted image from page 14]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_14.jpg' | relative_url }})
+
+![Extracted image from page 14]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_14_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 14]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_14_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 14]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_14_table_1_v2.jpg' | relative_url }})
+
+# Hypothesis & study methods Hanmi logo
+
+# HM15211, long-acting Glucagon/GIP/GLP-1 triple agonist, might have therapeutic potential for NASH and fibrosis
+
+* The efficacy in NASH and fibrosis was evaluated in various rodent disease models
+
+| Species / Strain               | Induction method    | Induction method   | Expected disease status         | Abstract #    |
+| ------------------------------ | ------------------- | ------------------ | ------------------------------- | ------------- |
+| C57BL/6 mouse<br/>C57BL/6 mice | 1. Diet-induced     | AMLN diet          | Obesity; NASH                   | #191 (Oral)   |
+|                                | 2. Surgery-induced  | Bile duct ligation | Liver inflammation and necrosis | #668 (Poster) |
+|                                | 3. Chemical-induced | TAA treatment\*    | Moderate to severe Fibrosis     |               |
+
+
+**Note.**
+
+\*TAA (Thioacetamide, hepatotoxin) → Liver inflammation → Fibrosis ↑
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021 Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 15]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 15]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 15]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p14_3.jpg' | relative_url }})
+
+![Extracted image from page 15]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_15.jpg' | relative_url }})
+
+![Extracted image from page 15]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_15_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 15]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_15_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 15]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_15_table_1_v2.jpg' | relative_url }})
+
+# Change of NASH prognosis markers in AMLN-diet mice [Study #1] Hanmi logo
+
+## Experimental scheme
+
+Experimental scheme diagram showing AMLN-diet for 49 weeks followed by drug treatment for 12 weeks in AMLN mice (C57BL/6 strain, n=7/group). Diet details: 40% kcal from fat, 22% fructose, 2% cholesterol. Note: Except for baseline biopsy, same disease model w/ Gubra's NASH mice.
+
+## [Group assignment]
+
+* Normal, Vehicle
+* AMLN, Vehicle
+* AMLN, OCA 30 mg/kg, QD
+* AMLN, HM15211 2.6 nmol/kg, Q2D (4 mg/wk in human)
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 16]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 16]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 16]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p15_3.png' | relative_url }})
+
+![Extracted image from page 16]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p15_4.jpg' | relative_url }})
+
+![Extracted image from page 16]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_16.jpg' | relative_url }})
+
+![Extracted image from page 16]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_16_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 16]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_16_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 16]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_16_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 16]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_16_image_2_v2.jpg' | relative_url }})
+
+# Change of NASH prognosis markers in AMLN-diet mice [Study #1] Hanmi logo
+
+## Experimental scheme
+
+Experimental scheme diagram showing AMLN mice (C57BL/6 strain, n=7/group) on AMLN-diet* for 49 weeks, followed by Drug treatment for 12 weeks. *40% kcal from fat, 22% fructose, 2% cholesterol. †Except for baseline biopsy, same disease model w/ Gubra's NASH mice
+
+## Hepatic TG and CHO
+
+Blood ALT
+
+## Hepatic inflammation markers
+(by qPCR)
+
+| Treatment Group                     | Hepatic TG (mg/g liver) |
+| ----------------------------------- | ----------------------- |
+| Normal, Vehicle                     | 5                       |
+| AMLN, Vehicle                       | 155                     |
+| AMLN, Obeticholic acid 30 mg/kg, QD | 80                      |
+| AMLN, HM15211 2.6 nmol/kg, Q2D      | 15                      |
+
+
+| Treatment Group                     | Hepatic CHO (mg/g liver) |
+| ----------------------------------- | ------------------------ |
+| Normal, Vehicle                     | 2                        |
+| AMLN, Vehicle                       | 29                       |
+| AMLN, Obeticholic acid 30 mg/kg, QD | 18                       |
+| AMLN, HM15211 2.6 nmol/kg, Q2D      | 8                        |
+
+
+| Treatment Group                     | Blood ALT (IU/L) |
+| ----------------------------------- | ---------------- |
+| Normal, Vehicle                     | 60               |
+| AMLN, Vehicle                       | 550              |
+| AMLN, Obeticholic acid 30 mg/kg, QD | 350              |
+| AMLN, HM15211 2.6 nmol/kg, Q2D      | 140              |
+
+
+| Marker | Normal, Vehicle | AMLN, Vehicle | AMLN, Obeticholic acid 30 mg/kg, QD | AMLN, HM15211 2.6 nmol/kg, Q2D |
+| ------ | --------------- | ------------- | ----------------------------------- | ------------------------------ |
+| F4/80  | 1.0             | 2.7           | 2.6                                 | 1.3                            |
+| IL-1β  | 1.0             | 2.3           | 2.1                                 | 1.8                            |
+
+
+[ ] Normal, Vehicle
+[ ] AMLN, Vehicle
+[x] AMLN, Obeticholic acid 30 mg/kg, QD (244 mg/day in human, ~9.8XHED)
+[x] AMLN, HM15211 2.6 nmol/kg, Q2D (4 mg/wk in human)
+
+\*,\*\*\*p<0.05~0.001 vs. AMLN mice, vehicle by One-way ANOVA; †~†††p<0.01 vs. OCA by One-way ANOVA
+
+**Note.** TG: Triglyceride, CHO: Cholesterol
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 17]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 17]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 17]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p16_3.png' | relative_url }})
+
+![Extracted image from page 17]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p16_4.jpg' | relative_url }})
+
+![Extracted image from page 17]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_17.jpg' | relative_url }})
+
+![Extracted image from page 17]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_17_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 17]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_17_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 17]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_17_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 17]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_17_chart_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 17]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_17_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 17]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_17_chart_4_v2.jpg' | relative_url }})
+
+# Change of NAFLD activity score in AMLN-diet mice [Study #1]
+
+Hanmi logo
+
+## Experimental scheme
+
+Experimental scheme diagram showing AMLN mice (C57BL/6 strain, n=7/group) on an AMLN-diet (40% kcal from fat, 22% fructose, 2% cholesterol) for 49 weeks, with drug treatment for the final 12 weeks.
+
+†Except for baseline biopsy, same disease model w/ Gubra's NASH mice
+
+## H&E staining (representative image)
+
+H&E staining representative images for Normal, Vehicle; AMLN, Vehicle; AMLN, OCA; and AMLN, HM15211. Scale bar: 100 μm.
+
+## NAFLD activity score (NAS)
+
+| Group          | Steatosis | Lobular inflammation | Ballooning |
+| -------------- | --------- | -------------------- | ---------- |
+| Normal Vehicle | 0         | 0                    | 0          |
+| AMLN Vehicle   | 2.9       | 1.6                  | 1.4        |
+| AMLN OCA       | 2.1       | 1.1                  | 0.7        |
+| AMLN HM15211   | 0.1       | 0.9                  | 0.0        |
+
+
+*   [ ] Normal, Vehicle
+*   [x] AMLN, Vehicle
+*   [x] AMLN, Obeticholic acid 30 mg/kg, QD (244 mg/day in human, ~9.8XHED)
+*   [x] AMLN, HM15211 2.6 nmol/kg, Q2D (4 mg/wk in human)
+
+\*\*\*p<0.001 vs. AMLN mice, vehicle by One-way ANOVA; †††p<0.001 vs. OCA by One-way ANOVA
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_3.jpg' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_4.jpg' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_5.png' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_6.jpg' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_7.jpg' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_8.png' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_9.jpg' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_18.jpg' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_18_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_18_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_18_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_18_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 18]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_18_chart_1_v2.jpg' | relative_url }})
+
+Hanmi logo
+
+# Change of NAFLD activity score in AMLN-diet mice [Study #1]
+
+## Experimental scheme
+
+Experimental scheme diagram showing AMLN mice on AMLN-diet for 49 weeks followed by drug treatment for 12 weeks.
+†Except for baseline biopsy, same disease model w/ Gubra's NASH mice
+
+## Definition of NASH resolution
+
+* Inflammation score: 0 or 1
+
+* Ballooning score: 0
+
+## H&E staining (representative image)
+
+H&E staining representative images for Normal, Vehicle; AMLN, Vehicle; AMLN, OCA; and AMLN, HM15211. Scale bar: 100 μm.
+
+## NAFLD activity score (NAS)
+
+| Group          | Steatosis  | Lobular inflammation | Ballooning |
+| -------------- | ---------- | -------------------- | ---------- |
+| Normal Vehicle | 0.1        |                      | 0.0        |
+| AMLN Vehicle   | 2.9        | 1.6                  | 1.4        |
+| AMLN OCA       | 2.1 \*\*\* | 1.1                  | 0.7 †††    |
+| AMLN HM15211   | 0.9 \*\*\* | 0.1                  | 0.0 \*\*\* |
+
+
+## Portion for NASH resolution
+
+| Group          | % of NASH resolution |
+| -------------- | -------------------- |
+| Normal Vehicle | 0%                   |
+| AMLN Vehicle   | 0%                   |
+| AMLN OCA       | 14.3%                |
+| AMLN HM15211   | 100%                 |
+
+
+[ ] Normal, Vehicle
+[x] AMLN, Vehicle
+[x] **AMLN, Obeticholic acid 30 mg/kg, QD (244 mg/day in human, ~9.8XHED)**
+[x] **AMLN, HM15211 2.6 nmol/kg, Q2D (4 mg/wk in human)**
+
+\*\*\*p<0.001 vs. AMLN mice, vehicle by One-way ANOVA; †††p<0.01 vs. OCA by One-way ANOVA
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_3.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_4.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_5.png' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_6.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p17_7.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p18_8.png' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p18_9.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_19.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_19_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_19_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_19_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_19_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_19_image_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_19_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_19_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 19]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_19_image_5_v2.jpg' | relative_url }})
+
+# Change of NAFLD activity score in AMLN-diet mice [Study #2]
+
+Hanmi logo
+
+## Experimental scheme
+
+Experimental scheme diagram showing AMLN mice (C57BL/6 strain, n=7/group) on AMLN-diet* for 37 weeks with drug treatment for the final 12 weeks. *40% kcal from fat, 22% fructose, 2% cholesterol.
+
+## [Group assignment]
+
+Normal, Vehicle
+
+AMLN, Vehicle
+
+AMLN, Acylated GLP-1 20.5 nmol/kg, Q2D (2.4 mg/wk in human)
+
+AMLN, Acylated GLP-1/GIP 109.5 nmol/kg, Q2D (15 mg/wk in human)
+
+AMLN, Acylated GLP-1/GCG 19.5 nmol/kg, QD (0.6 mg/day in human)
+
+AMLN, HM15211 2.6 nmol/kg, Q2D (4 mg/wk in human)
+
+## [Current NASH studies of incretin analogs in human]
+
+|             | Phase    | Dose                       | Note                                      |
+| ----------- | -------- | -------------------------- | ----------------------------------------- |
+| Semaglutide | Phase 3  | **2.4 mg/week**            | On-going, NCT04822181                     |
+| Tirzepatide | Phase 2b | 5, 10, or ***15 mg/week*** | On-going, NCT04166773                     |
+| Cotadutide  | Phase 2a | \~ ***0.6 mg/day***        | Pending for top-line results, NCT04019561 |
+
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 20]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 20]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 20]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p19_3.png' | relative_url }})
+
+![Extracted image from page 20]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p12_4.jpg' | relative_url }})
+
+![Extracted image from page 20]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p19_5.png' | relative_url }})
+
+![Extracted image from page 20]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p19_6.png' | relative_url }})
+
+![Extracted image from page 20]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_20.jpg' | relative_url }})
+
+![Extracted image from page 20]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_20_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 20]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_20_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 20]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_20_table_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 20]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_20_image_2_v2.jpg' | relative_url }})
+
+Hanmi logo
+
+# Change of NAFLD activity score in AMLN-diet mice [Study #2]
+
+## Experimental scheme
+
+Experimental scheme diagram showing AMLN mice on AMLN-diet for 37 weeks followed by drug treatment for 12 weeks
+
+**AMLN-diet\* for 37 weeks**
+
+\*40% kcal from fat
+22% fructose, 2% cholesterol
+
+**Drug treatment for 12 weeks**
+
+(C57BL/6 strain, n=7/group)
+
+## H&E staining (representative image)
+
+H&E staining representative images for Normal Vehicle, AMLN Vehicle, AMLN GLP-1, Normal GLP-1/GIP, AMLN GLP-1/GCG, and AMLN HM15211
+
+Normal, GLP-1/GIP AMLN, GLP-1/GCG AMLN, HM15211
+
+## NAFLD activity score (NAS)
+
+| Group                            | Steatosis | Lobular inflammation | Ballooning |
+| -------------------------------- | --------- | -------------------- | ---------- |
+| Normal, Vehicle\\\*\\\*\\\*      | 0         | 0                    | 0          |
+| AMLN, Vehicle                    | 2.9       | 1.3                  | 2.0        |
+| AMLN, GLP-1\\\*                  | 2.4       | 1.0                  | 1.4        |
+| AMLN, GLP/GIP\\\*\\\*\\\*        | 1.9       | 1.0                  | 0.7        |
+| AMLN, GLP/GCG\\\*                | 3.0       | 0.9                  | 1.4        |
+| AMLN, HM15211\\\*\\\*\\\*††\~††† | 1.0       | 1.0                  | 1.0        |
+
+
+[ ] Normal, Vehicle
+[x] AMLN, Vehicle
+
+[x] **AMLN, Acylated GLP-1** 20.5 nmol/kg, Q2D (2.4 mg/wk in human)
+
+[x] **AMLN, Acylated GLP-1/GIP** 109.5 nmol/kg, Q2D (15 mg/wk in human)
+
+[x] **AMLN, Acylated GLP-1/GCG** 19.5 nmol/kg, Q2D (0.6 mg/wk in human)
+[x] **AMLN, HM15211**
+
+2.6 nmol/kg, Q2D (4 mg/wk in human)
+
+\*~ \*\*\*p<0.05~0.001 vs. AMLN mice, vehicle by One-way ANOVA; ††~†††p<0.01~0.001 vs. acylated incretins by One-way ANOVA
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p19_3.png' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p12_4.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p20_5.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p20_6.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p20_7.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p20_8.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p20_9.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p20_10.png' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p20_11.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_21.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_21_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_21_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_21_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_21_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 21]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_21_image_3_v2.jpg' | relative_url }})
+
+# Change of NAFLD activity score in AMLN-diet mice [Study #2] Hanmi logo
+
+## Experimental scheme
+
+Experimental scheme diagram showing AMLN mice on AMLN-diet for 37 weeks followed by drug treatment for 12 weeks. AMLN-diet consists of 40% kcal from fat, 22% fructose, and 2% cholesterol.
+
+**Definition of NASH resolution**
+- Inflammation score: 0 or 1
+- Ballooning score: 0
+
+## H&E staining (representative image)
+
+H&E staining representative images for Normal, Vehicle; AMLN, Vehicle; AMLN, GLP-1; Normal, GLP-1/GIP; AMLN, GLP-1/GCG; and AMLN, HM15211.
+
+## NAFLD activity score (NAS)
+
+| Group           | Steatosis | Lobular inflammation | Ballooning |
+| --------------- | --------- | -------------------- | ---------- |
+| Normal, Vehicle |           |                      |            |
+| AMLN, Vehicle   | 2.9       | 1.3                  | 2.0        |
+| AMLN, GLP-1     | 2.4\*     | 1.0                  | 1.4        |
+| AMLN, GLP/GIP   | 1.9\*\*\* | 1.0                  | 0.7        |
+| AMLN, GLP/GCG   | 3.0\*     | 0.9                  | 1.4        |
+| AMLN, HM15211   | 1.0\*\*\* | 1.0                  | 1.0        |
+
+
+## Portion for NASH resolution
+
+| Group           | % of NASH resolution |
+| --------------- | -------------------- |
+| Normal, Vehicle | 0.0%                 |
+| AMLN, Vehicle   | 0.0%                 |
+| AMLN, GLP-1     | 28.6%                |
+| AMLN, GLP/GIP   | 0.0%                 |
+| AMLN, GLP/GCG   | 0.0%                 |
+| AMLN, HM15211   | 100%                 |
+
+
+[ ] Normal, Vehicle
+[x] AMLN, Vehicle
+[x] AMLN, Acylated GLP-1: 20.5 nmol/kg, Q2D (2.4 mg/wk in human)
+[x] AMLN, Acylated GLP-1/GIP: 109.5 nmol/kg, Q2D (15 mg/wk in human)
+[x] AMLN, Acylated GLP-1/GCG: 19.5 nmol/kg, Q2D (0.6 mg/wk in human)
+[x] AMLN, HM15211: 2.6 nmol/kg, Q2D (4 mg/wk in human)
+
+\*~***p<0.05~0.001 vs. AMLN mice, vehicle by One-way ANOVA; ††~†††p<0.01~0.001 vs. acylated incretins by One-way ANOVA
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021 Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p19_3.png' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p12_4.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_5.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_6.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_7.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_8.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_9.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_10.png' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_11.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_22.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_22_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_22_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_22_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_22_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_22_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 22]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_22_image_3_v2.jpg' | relative_url }})
+
+# Change of NAFLD activity score in AMLN-diet mice [Study #2] Hanmi logo
+
+## Experimental scheme
+
+Experimental scheme diagram showing AMLN mice (C57BL/6 strain, n=7/group) on AMLN-diet* (40% kcal from fat, 22% fructose, 2% cholesterol) for 37 weeks, with drug treatment for the final 12 weeks.
+
+## Definition of NASH resolution
+- Inflammation score: 0 or 1
+- Ballooning score: 0
+
+## H&E staining (representative image)
+
+H&E staining images for Normal, Vehicle; AMLN, Vehicle; AMLN, GLP-1; Normal, GLP-1/GIP; AMLN, GLP-1/GCG; and AMLN, HM15211.
+
+## NAFLD activity score (NAS)
+
+| Treatment       | Steatosis | Lobular inflammation | Ballooning | Total NAS  |
+| --------------- | --------- | -------------------- | ---------- | ---------- |
+| Normal, Vehicle | 0.0       | 0.0                  | 0.0        | 0.0\*\*\*  |
+| AMLN, Vehicle   | 2.9       | 1.3                  | 2.0        | 6.2        |
+| AMLN, GLP-1     | 2.4\*     | 1.0                  | 1.4        | 4.8        |
+| AMLN, GLP/GIP   | 1.9\*\*\* | 1.0                  | 0.7        | 3.6††\~††† |
+| AMLN, GLP/GCG   | 3.0\*     | 0.9                  | 1.4        | 5.3        |
+| AMLN, HM15211   | 1.0\*\*\* | 1.0                  | 1.0        | 3.0\*\*\*  |
+
+
+## Portion for NASH resolution
+
+| Treatment       | % of NASH resolution |
+| --------------- | -------------------- |
+| Normal, Vehicle | 0.0%                 |
+| AMLN, Vehicle   | 0.0%                 |
+| AMLN, GLP-1     | 28.6%                |
+| AMLN, GLP/GIP   | 0.0%                 |
+| AMLN, GLP/GCG   | 0.0%                 |
+| AMLN, HM15211   | 100%                 |
+
+
+[ ] Normal, Vehicle
+[x] AMLN, Vehicle
+[x] AMLN, Acylated GLP-1 20.5 nmol/kg, Q2D (2.4 mg/wk in human)
+[x] AMLN, Acylated GLP-1/GIP 109.5 nmol/kg, Q2D (15 mg/wk in human)
+[x] AMLN, Acylated GLP-1/GCG 19.5 nmol/kg, Q2D (0.6 mg/wk in human)
+[x] AMLN, HM15211 2.6 nmol/kg, Q2D (4 mg/wk in human)
+
+\*~***p<0.05~0.001 vs. AMLN mice, vehicle by One-way ANOVA; ††~†††p<0.01~0.001 vs. acylated incretins by One-way ANOVA
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p19_3.png' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p12_4.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_5.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_6.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_7.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_8.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_9.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_10.png' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p21_11.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_23.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_23_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_23_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_23_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_23_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 23]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_23_chart_1_v2.jpg' | relative_url }})
+
+# Proposed mechanism for anti-inflammatory effects of HM15211
+
+Hanmi logo
+
+```mermaid
+graph TD
+    subgraph Blood_vessel [Blood vessel]
+        CM[Circulating monocyte]
+    end
+
+    subgraph Liver [Liver]
+        KC[Kupffer cell]
+        TAM[Tissue adherent macrophage]
+        M1M[M1 polarized macrophage]
+        TI["Tissue inflammation"]
+        
+        KC -- CCL-2 --> CM
+        CM -- "1) Migration" --> TAM
+        TAM -- "2) Differentiation" --> M1M
+        M1M -- "3) Activation" --> PIC[Pro-inflammatory cytokines]
+        PIC --> TI
+    end
+
+    style Blood_vessel fill:#f9f9f9,stroke:#333,stroke-width:1px
+    style Liver fill:#fdd,stroke:#333,stroke-width:1px
+    style TI color:#00f,font-weight:bold
+```
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 24]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 24]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 24]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p23_3.png' | relative_url }})
+
+![Extracted image from page 24]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p23_4.jpg' | relative_url }})
+
+![Extracted image from page 24]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p23_5.jpg' | relative_url }})
+
+![Extracted image from page 24]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p23_6.jpg' | relative_url }})
+
+![Extracted image from page 24]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_24.jpg' | relative_url }})
+
+![Extracted image from page 24]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_24_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 24]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_24_chart_1_v2.jpg' | relative_url }})
+
+# Proposed mechanism for anti-inflammatory effects of HM15211 Hanmi logo
+
+## THP-1 monocyte migration
+
+```mermaid
+graph TD
+    subgraph Blood_vessel [Blood vessel]
+        CM[Circulating monocyte]
+    end
+
+    subgraph Liver [Liver]
+        KC[Kupffer cell]
+        TAM[Tissue adherent macrophage]
+        M1[M1 polarized macrophage]
+        PIC[Pro-inflammatory cytokines]
+        TI["Tissue inflammation"]
+    end
+
+    CM -- "1) Migration" --> TAM
+    KC -- CCL-2 --> CM
+    TAM -- "2) Differentiation" --> M1
+    M1 -- "3) Activation" --> PIC
+    PIC --> TI
+```
+
+| Group                          | Monocyte migration (% vs. vehicle control) |
+| ------------------------------ | ------------------------------------------ |
+| Vehicle                        | 100\*\*\*                                  |
+| CCL-2 50 ng/mL                 | 168                                        |
+| CCL-2 50 ng/mL + HM15211 1 μM  | 143\*                                      |
+| CCL-2 50 ng/mL + HM15211 10 μM | 120\*\*\*                                  |
+
+
+\*~***p<0.05~0.001 vs. CCL-2 or PMA only by One-way ANOVA
+
+## THP-1 monocyte adhesion (surrogate of macrophage differentiation)
+
+| Group                      | Adherent cells (% vs. PMA only) |
+| -------------------------- | ------------------------------- |
+| Vehicle                    | 5\*\*                           |
+| PMA 150 nM                 | 100                             |
+| PMA 150 nM + HM15211 1 μM  | 18\*                            |
+| PMA 150 nM + HM15211 10 μM | 18\*                            |
+
+
+Microscopy images of THP-1 cells: Vehicle, PMA only, PMA + HM15211 1 μM, and PMA + HM15211 10 μM
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_3.png' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_4.jpg' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_5.jpg' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_6.jpg' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_7.png' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_8.png' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_9.png' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_10.png' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_25.jpg' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_25_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_25_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_25_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_25_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_25_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_25_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_25_image_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 25]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_25_image_6_v2.jpg' | relative_url }})
+
+Hanmi logo
+
+# Proposed mechanism for anti-inflammatory effects of HM15211
+
+## Pro-inflammatory cytokine expression & secretion by THP-1 macrophage
+
+Flow chart showing the mechanism of tissue inflammation in the liver: 1) Migration of circulating monocytes from blood vessels to the liver via CCL-2, 2) Differentiation into tissue adherent macrophages/Kupffer cells, and 3) Activation into M1 polarized macrophages which release pro-inflammatory cytokines leading to "Tissue inflammation".
+
+### [mRNA expression]
+
+| Treatment                                  | TNF-α         | IL-1β           | IL-12p40      |
+| ------------------------------------------ | ------------- | --------------- | ------------- |
+| PMA 150 nM                                 | 1\\\*\\\*\\\* | 1\\\*\\\*\\\*   | 1\\\*\\\*\\\* |
+| PMA 150 nM + LPS 100 ng/mL                 | 13            | 3400            | 4.5           |
+| PMA 150 nM + LPS 100 ng/mL + HM15211 1 μM  | 7\\\*         | 2400\\\*\\\*    | 3.6           |
+| PMA 150 nM + LPS 100 ng/mL + HM15211 10 μM | 6.8\\\*       | 550\\\*\\\*\\\* | 2.1\\\*\\\*   |
+
+
+### [Protein secretion]
+
+| Treatment                                  | TNF-α (pg/mL)  | IL-1β (pg/mL) | IL-12p40 (pg/mL) |
+| ------------------------------------------ | -------------- | ------------- | ---------------- |
+| PMA 150 nM                                 | 10\\\*\\\*\\\* | 5\\\*\\\*\\\* | 15\\\*           |
+| PMA 150 nM + LPS 100 ng/mL                 | 550            | 118           | 165              |
+| PMA 150 nM + LPS 100 ng/mL + HM15211 1 μM  | 180\\\*\\\*    | 22\\\*\\\*    | 50               |
+| PMA 150 nM + LPS 100 ng/mL + HM15211 10 μM | 60\\\*\\\*\\\* | 8\\\*\\\*\\\* | 25\\\*           |
+
+
+\*~***p<0.05~0.001 vs. PMA + LPS only by One-way ANOVA
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_3.png' | relative_url }})
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_4.jpg' | relative_url }})
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_5.jpg' | relative_url }})
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p24_6.jpg' | relative_url }})
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_26.jpg' | relative_url }})
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_26_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_26_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_26_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_26_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 26]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_26_image_3_v2.jpg' | relative_url }})
+
+# Summary & Conclusions
+
+Hanmi logo
+
+* **HM15211 is Glucagon/GIP/GLP-1 triple agonist with unique activity features designed to treat NASH and fibrosis by targeting multiple aspects of this disease**
+
+* **Previous studies demonstrated that HM15211 showed greater liver fat reduction than GLP-1RA via hepatic lipid metabolism reprograming after liver preferential distribution**
+
+* **In AMLN-diet mice, HM15211 treatment efficiently reduced both steatosis, inflammation, and ballooning, leading to greater reduction in composite NAS than FXR agonist and other long-acting incretin analogs**
+
+* **Mechanistic studies showed the inhibitory effects of HM15211 on THP-1 monocyte migration, macrophage differentiation and M1 polarization, which explains enhanced NASH resolution effects of HM15211 in animal model**
+
+<mark>**With multi-modal action, HM15211 might provide improved efficacy for the treatment of NASH**</mark>
+<mark>**Fast-track granted, and P2b clinical study is on-going in biopsy-proven NASH subjects (US)**</mark>
+
+Please note short-oral presentation reporting more information about HM15211:
+#668: Anti-fibrotic potential of a novel long-acting Glucagon/GIP/GLP-1 triple agonist (HM15211) in preclinical models of fibrosis
+
+Contact information: jeahyuk.choi@hanmi.co.kr
+
+European Association for the Study of Diabetes (EASD) 57th Annual Meeting (Virtual), 27 Sep. - 01 Oct. 2021
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 27]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 27]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 27]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p26_3.png' | relative_url }})
+
+![Extracted image from page 27]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/img_p26_4.png' | relative_url }})
+
+![Extracted image from page 27]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_27.jpg' | relative_url }})
+
+![Extracted image from page 27]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_EASD_Oral_presentation_efocipegtrutide_images/page_27_image_1_v2.jpg' | relative_url }})

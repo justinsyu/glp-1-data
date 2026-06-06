@@ -1,0 +1,215 @@
+---
+layout: document
+title: Anti-fibrotic potential of a novel long-acting Glucagon/GIP/GLP-1 triple agonist,
+  HM15211, in preclinical models of fibrosis
+permalink: /company-documents/hanmi-efocipegtrutide-2021-ada-poster-efocipegtrutide/
+company: Hanmi Pharmaceutical
+company_slug: hanmi
+program: Efocipegtrutide / HM15211
+program_slug: efocipegtrutide
+indication: MASH
+year: ''
+conference: ''
+document_type: Presentation/Poster
+source_file: 2021_ADA_Poster_efocipegtrutide.pdf
+pdf_url: /companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide.pdf
+plain_text_url: /plain-text/hanmi-efocipegtrutide-2021-ada-poster-efocipegtrutide.txt
+description: Parsed presentation/poster source document for Hanmi Pharmaceutical.
+---
+
+# Anti-fibrotic potential of a novel long-acting Glucagon/GIP/GLP-1 triple agonist, HM15211, in preclinical models of fibrosis
+
+656-P Hanmi logo
+
+<u>Jung Kuk Kim</u>¹, Jong Suk Lee¹, Seon Myeong Lee¹, Jae Hyuk Choi¹, Hyunjoo Kwon¹, Eun Jin Park¹, Sung Min Bae¹, Dae Jin Kim¹, Younghoon Kim¹, In Young Choi¹
+¹Hanmi Pharm. Co., Ltd, Seoul, South Korea
+
+## ABSTRACT
+
+Fibrosis due to nonalcoholic steatohepatitis (NASH) remains a major cause of liver-related mortality. Since complex biological pathways are involved in fibrosis progression, multi-disciplinary therapeutic approaches should be required to effectively deliver treatment effects on fibrosis. For this purpose, we developed a novel long-acting Glucagon/GIP/GLP-1 triple agonist, HM15211. Here, we evaluated the anti-fibrotic effect of HM15211 in various animal models of fibrosis, and investigated underlying mechanism in vitro.
+
+Mice fed with AMLN diet were concomitantly treated with thioacetamide (AMLN/TAA mice) for 16 weeks, and HM15211 was administered during last 8 weeks. HM15211 treatment significantly reduced hepatic (-53.9, -41.4 and -51.9 % vs. vehicle for $\alpha$-SMA, TIMP-1 and collagen1a1 expression) and blood (-49.3, -48.0 and -49.1% vs. vehicle for TIMP-1, PIIINP and hyaluronic acid level) surrogate markers for fibrosis. HM15211 treatment was also associated with significant reduction in hepatic hydroxyproline (-53.1% vs. Veh) and sirius red positive area (-70.6% vs. Veh) in AMLN/TAA mice. Next, anti-fibrotic effect of HM15211 was further evaluated in choline-deficient and high fat diet (CD-HFD) mice. Strikingly, greater reduction in hepatic hydroxyproline and collagen contents (-4.2, -10.0, -31.2% vs. vehicle for acylated GLP-1, acylated GLP-1/GIP, HM15211) was observed compared to acylated GLP-1 or acylated GLP-1/GIP in CD-HFD mice. Additional in vitro studies in LX2 cell and rat primary hepatic stellate cell (HSC) unveiled that HM15211 could negatively affect multiple steps of TGF-$\beta$ signaling in HSC.
+
+Based on these results, HM15211 may be a novel therapeutic option for liver fibrosis in addition to NASH itself. Hence, related mechanistic studies further highlight direct inhibitory effect of HM15211 on HSC activation. On-going human efficacy study will assess the clinical relevance of these findings.
+
+## BACKGROUND
+
+Liver fibrosis by hepatic stellate cell (HSC) activation, and proposed modes of action (MoA) for direct anti-fibrotic effects of HM15211
+
+Diagram showing MoA of HM15211: Inhibition of M2 polarization, Inhibition of HSC activation, and Inhibition of activated HSC fibrogenesis
+
+## METHODS
+
+Experimental scheme for Study 1 (AMLN/TAA mice) and Study 2 (CD-HFD mice)
+
+* To evaluate therapeutic effect of HM15211 on hepatic fibrosis, AMLN/TAA [Study 1] or CD-HFD [Study 2] induced hepatic fibrosis models were induced for 16 weeks, and HM15211 was administered during last 8 weeks. After 8 weeks drug treatment, the same region of each liver tissue sample was subjected to analysis related fibrotic conditions and the improvement
+
+* In CD-HFD mice, for efficacy comparison, acylated GLP-1, GLP/GIP, and GLP/GCG [Study 2] were included
+
+* To investigate mode of action (MoA) for direct anti-fibrotic effects of HM15211, TGF-$\beta$-induced hepatic stellate cell (HSC) activation was investigated in LX-2 cells (in vivo) and rat primary HSCs (ex vivo)
+
+* In addition, IL-4/IL-13-induced M2 polarization (TGF-$\beta$ level, a M2 marker) was determined in PMA-differentiated THP-1 macrophages
+
+## RESULTS
+
+### Improvement of hepatic fibrosis in AMLN/TAA mice
+
+Figure 1. Effect of HM15211 on hepatic hydroxyproline and collagen deposition (n=5)
+
+| Group                              | Hepatic hydroxyproline (nmol/g liver) | Sirius red positive area (%) |
+| ---------------------------------- | ------------------------------------- | ---------------------------- |
+| AMLN, Vehicle                      | 250                                   | 0.2                          |
+| AMLN/TAA, Vehicle                  | 650                                   | 3.5                          |
+| AMLN/TAA, HM15211 1.3 nmol/kg, Q2D | 310                                   | 1.1                          |
+
+
+\* ~ \*\*\*p < 0.05 ~ < 0.001 vs. AMLN/TAA, vehicle by One-way ANOVA
+[Scale bar: 300 $\mu$m]
+
+⮚ HM15211 treatment significantly reduced Sirius red positive area and hydroxyproline, demonstrating its anti-fibrotic effect
+
+Figure 2. Effect of HM15211 on blood fibrosis surrogate markers and ELF score
+
+| Group                              | TIMP-1 (ng/mL) | PIIINP (ng/mL) | Hyaluronic acid (ng/mL) | ELF score |
+| ---------------------------------- | -------------- | -------------- | ----------------------- | --------- |
+| AMLN, Vehicle                      | 28             | 1.2            | 480                     | 8.7       |
+| AMLN/TAA, Vehicle                  | 60             | 2.4            | 1380                    | 10.6      |
+| AMLN/TAA, HM15211 1.3 nmol/kg, Q2D | 32             | 1.3            | 700                     | 9.1       |
+
+
+\* ~ \*\*\*p < 0.05 ~ < 0.001 vs. AMLN/TAA, vehicle by One-way ANOVA
+
+⮚ HM15211 significantly reduced blood levels of TIMP-1, PIIINP, hyaluronic acid, and ELF score in AMLN/TAA mice, further demonstrating anti-fibrotic effect of HM15211
+
+### Fibrosis improvement in CD-HFD mice
+
+Figure 3. Effect of HM15211 on hepatic collagen, and hydroxyproline (n=7)
+
+| Group                      | Soluble collagen ($\mu$g/g liver tissue) | Hydroxyproline (nmol/g liver tissue) |
+| -------------------------- | ---------------------------------------- | ------------------------------------ |
+| Normal, Vehicle            | 350                                      | 250                                  |
+| CD-HFD, Vehicle            | 550                                      | 1100                                 |
+| CD-HFD, Acylated GLP-1     | 530                                      | 1000                                 |
+| CD-HFD, Acylated GLP-1/GIP | 500                                      | 980                                  |
+| CD-HFD, Acylated GLP-1/GCG | 600                                      | 1050                                 |
+| CD-HFD, HM15211            | 380                                      | 750                                  |
+
+
+\*p < 0.05, \*\*p < 0.01, \*\*\*p < 0.001 vs. CD-HFD, vehicle by One-way ANOVA
+$\dagger \sim \dagger\dagger$p < 0.05 ~ 0.001 vs. CD-HFD, HM15211 by One-way ANOVA
+
+⮚ Only HM15211, but not other incretins, showed robust reduction in hepatic level of soluble collagen, and hydroxyproline, demonstrating potent anti-fibrotic effects of HM15211
+
+### MoAs for direct anti-fibrotic effects of HM15211
+
+Figure 4. Effect of HM15211 on collagen secretin of HSC
+
+| Group                                   | LX-2 cells ($\mu$g/mL) | Rat primary HSCs ($\mu$g/mL) |
+| --------------------------------------- | ---------------------- | ---------------------------- |
+| Vehicle control                         | 13                     | 10                           |
+| TGF-$\beta$ 5 ng/mL                     | 25                     | 19                           |
+| TGF-$\beta$ 5 ng/mL + HM15211 10 $\mu$M | 18                     | 9                            |
+
+
+\* ~ \*\*\*p < 0.05 ~ 0.001 vs. TGF-$\beta$ by One-way ANOVA
+
+⮚ HM15211 significantly reduced TGF-$\beta$-induced collagen secretion both in LX2 cells and rat primary HSCs, indicating inhibitory effect of HM15211 on fibrogenesis of activated HSC
+
+## CONCLUSIONS
+
+* HM15211 is designed to treat NASH and fibrosis by targeting multiple aspect of the disease
+
+* In AMLN/TAA mice and CD-HFD mice, HM15211 shows robust anti-fibrotic effects, and more pronounced treatment benefits than acylated GLP-1RA, GLP/GIP, or GLP/GIP dual agonist were observed
+
+* HM15211 inhibits collagen secretion by TGF-$\beta$ in HSC, which explains direct anti-fibrotic effects of HM15211
+
+* P2b study in biopsy-proven NASH subjects is on-going in US to assess clinical relevance of non clinical findings (fast-track granted, US)
+
+American Diabetes Association logo
+
+American Diabetes Association’s (ADA) 81ᵗʰ Scientific Sessions - Virtual; June 25-29, 2021
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_1.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_2.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_3.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_4.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_5.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_6.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_7.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_8.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_9.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_10.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_11.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_12.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_13.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_14.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_15.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_16.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_17.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_18.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_19.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_20.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_21.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_22.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_23.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_24.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_25.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_26.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_27.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_28.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/img_p0_29.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_chart_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_chart_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_chart_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_chart_8_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_chart_7_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2021_ADA_Poster_efocipegtrutide_images/page_1_chart_5_v2.jpg' | relative_url }})

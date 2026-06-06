@@ -1,0 +1,228 @@
+STRUCTURE THERAPEUTICS logo
+
+# Significant and Clinically Relevant Weight Changes at 12 Weeks With Small Molecule GLP-1RA, GSBR-1290
+
+Leo Seman, Huibin Yue, Ke (Mike) Liu, Aline Barth, Divya Chari, Michael Pelayo, Blai Coll, Mark Bach
+
+Structure Therapeutics Inc, South San Francisco, CA <span style="float: right;">342</span>
+
+## INTRODUCTION
+
+* Obesity has reached worldwide epidemic proportions, with more than 70% of adults in the United States living with overweight or obesity. Nearly 80% of people with type 2 diabetes mellitus (T2DM) are also living with either overweight or obesity¹
+
+* Selective glucagon-like peptide receptor agonists (GLP-1RAs) are modeled after naturally occurring GLP-1, which functions to reduce appetite and decrease gastric motility
+
+* Several injectable peptide GLP-1RAs are approved for chronic weight management (CWM) but scalability and accessibility remain a challenge globally
+
+* GSBR-1290 is a novel, oral, non-peptide small molecule GLP-1RA in development for CWM and T2DM, as a potential alternative to injectable peptides
+
+* Using structure-based drug discovery, GSBR-1290 was designed to include specific properties, including ~24-hour drug exposure to enable daily (QD) dosing, low risk of off-target safety effects, and large-scale manufacturing capability
+
+MAKING MEDICINES ACCESSIBLE FOR ALL infographic showing GLP-1RA PEPTIDE vs GLP-1RA ORAL SMALL MOLECULE. Oral Small Molecule Opportunities include: Broader accessibility, Oral formulation provides more patient options, Larger-scale manufacturing capability, lower costs, Potential fixed dose combination advantages.
+
+## GLP-1RA ORAL SMALL MOLECULE ASPIRATIONAL TARGET PRODUCT PROFILE
+
+* Highly potent, non-peptide, full GLP-1R agonist with minimal β-arrestin signaling engagement
+
+* Weight loss comparable to injectable GLP-1R peptides
+
+* Designed for ~24 hour drug exposure to enable QD dosing in a large patient population
+
+* Clean 6 and 9 month GLP-tox studies with large safety margin (≥ 150 fold at 120 mg)
+
+* Ability to modulate PK properties aimed at optimized tolerability
+
+* Scalability in commercial manufacturing
+
+## METHODS
+
+* These studies were designed to evaluate the safety, tolerability, and efficacy of GSBR-1290 in participants living with overweight or obesity
+
+* Both studies included 12 weeks of exposure to GSBR-1290, with 60 or 120 mg/QD as target doses
+
+- Phase 2a study (GSBR-1290-02)
+    - N = 64, randomized 3:1 to GSBR-1290 or placebo
+    - Weekly titration scheme, starting at 5 mg up to 120 mg GSBR-1290
+
+- Capsule to tablet PK study (GSBR-1290-05)
+    - N = 54 randomized in 3 cohorts
+    - Cohorts with differing titration schemes (1, 2, 3 or 4 week) up to 60 mg or 120 mg to assess the impact on tolerability
+
+FIGURE 1. GSBR-1290 Phase 2a Study Design
+
+Diagram of Phase 2a Study Design showing titration from 5mg to 120mg over 12 weeks with a follow-up period.
+
+FIGURE 2. GSBR-1290 Capsule to Tablet PK Study Design
+
+Diagram of Capsule to Tablet PK Study Design showing three cohorts with different titration schedules over 12 weeks.
+
+* The combined data from both studies of percent (%) change of body weight from baseline among the obesity cohorts was analyzed using a mixed effects model for repeated measures. The models incorporate treatment group, visit, treatment-by-visit interaction, and baseline values as covariates. The 120 mg group from the phase 2a and two 120 mg groups (cohort 1 and 2) from the capsule to tablet PK study were combined as single 120 mg group. The placebo groups from both studies were combined as one placebo group
+
+## RESULTS
+
+### TABLE 1. Baseline Characteristics
+
+| CharacteristicMean (SD) or n (%) | GSBR-1290<br/>60 mg(N = 15) | GSBR-1290<br/>120 mg(N = 67) | Placebo(N = 36) |
+| -------------------------------- | --------------------------- | ---------------------------- | --------------- |
+| Age, years                       | 47.6 (11.6)                 | 46.0 (12.8)                  | 45.5 (12.5)     |
+| Sex, Female, n (%)               | 7 (46.7)                    | 36 (53.7)                    | 16 (44.4)       |
+| Race, Hispanic or Latino, n (%)  | 9 (60.0)                    | 36 (53.7)                    | 18 (50.0)       |
+| Weight, kg                       | 87.0 (11.6)                 | 88.6 (13.4)                  | 89.1 (13.6)     |
+| BMI, kg/m²                       | 29.8 (1.7)                  | 31.0 (3.0)                   | 31.2 (3.0)      |
+
+
+### TABLE 2. Participant Disposition
+
+| Number of Participants ReportingN (%)              | GSBR-1290<br/>60 mg(N = 15) | GSBR-1290<br/>120 mg(N = 67) | Placebo(N = 36) |
+| -------------------------------------------------- | --------------------------- | ---------------------------- | --------------- |
+| Discontinued study not due to Adverse Events (AEs) | 2 (13.3)                    | 5 (7.5)                      | 0               |
+| Discontinued study due to AEs related to treatment | 1 (6.7)                     | 7 (10.4)                     | 2 (5.6)         |
+| Dose discontinuation due to AEs                    | 3 (20.0)                    | 7 (10.4)                     | 1 (2.8)         |
+
+
+60 and 120mg pooled across studies, includes different titration schemes
+
+FIGURE 3. Change in Body Weight Over 12 Weeks (Placebo-Adjusted)
+
+(A) Placebo-Adjusted Percent Body Weight Change From Baseline to Week 12
+
+| Dose   | Body weight change from baseline (%) |
+| ------ | ------------------------------------ |
+| 60 mg  | -6.2                                 |
+| 120 mg | -6.8                                 |
+
+
+* 6.2 – 6.8% (placebo-adjusted) reduction in body weight across 12 weeks
+* Statistically significant weight reduction over 12 weeks with early separation compared to placebo
+
+(B) Percent Body Weight Change From Baseline Over 12 Weeks (Not Placebo-Adjusted)
+
+| Weeks | Placebo | 60 mg | 120 mg |
+| ----- | ------- | ----- | ------ |
+| 0     | 0.0     | 0.0   | 0.0    |
+| 1     | 0.1     | -0.5  | -1.0   |
+| 2     | 0.2     | -1.2  | -2.2   |
+| 3     | 0.3     | -1.8  | -3.2   |
+| 4     | 0.4     | -2.5  | -4.0   |
+| 5     | 0.3     | -3.2  | -4.5   |
+| 6     | 0.2     | -3.8  | -5.0   |
+| 7     | 0.1     | -4.2  | -5.5   |
+| 8     | 0.2     | -4.8  | -6.0   |
+| 9     | 0.3     | -5.2  | -6.2   |
+| 10    | 0.4     | -5.5  | -6.3   |
+| 11    | 0.4     | -5.7  | -6.4   |
+| 12    | 0.4     | -5.8  | -6.4   |
+
+
+The least-squares means (LSM), standard errors (SE) and P-values are from the mixed model for repeated measures (MMRM) on the primary efficacy estimand for the combined data from the Phase 2a study and capsule to tablet PK study.
+
+FIGURE 4. Change in Body Weight Over 12 Weeks: Responder Analysis
+
+Percent of Participants Achieving GSBR-1290 Weight Loss Over 12 Weeks
+
+| Weight Loss Threshold | Placebo (%) | 60 mg (%) | 120 mg (%) |
+| --------------------- | ----------- | --------- | ---------- |
+| ≥ 5%                  | 4.3         | 62.5      | 70.8       |
+| ≥ 10%                 | 0.0         | 12.5      | 20.8       |
+
+
+* Up to 70% of participants achieved at least 5% weight loss
+* Up to 20% achieved at least 10% body weight reduction within 12 weeks
+
+### TABLE 3. Safety: Liver Function Test Profile
+
+| Number of ParticipantsReporting, N (%) | Phase 2a Study<br/>GSBR-1290<br/>120 mg(N = 37) | Phase 2a Study<br/>Placebo<br/>(N = 27) | Capsule to tablet PK study<br/>GSBR-1290<br/>60 mg(N = 15) | Capsule to tablet PK study<br/>GSBR-1290<br/>120 mg(N = 30) | Capsule to tablet PK study<br/>Placebo<br/>(N = 9) |
+| -------------------------------------- | ----------------------------------------------- | --------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
+| Drug induced liver injury (DILI)       | 0                                               | 0                                       | 0                                                          | 0                                                           | 0                                                  |
+| Hepatic enzymes increasedᵃ             | 0                                               | 0                                       | 0                                                          | 0                                                           | 0                                                  |
+| Mean Change from Baseline to Day 84    | 120 mg                                          | Placebo                                 | 60 mg                                                      | 120 mg                                                      | Placebo                                            |
+| ALT, (U/L) Mean (SD)                   | -2.2 (11.7)                                     | -1.4 (8.1)                              | 1.2 (9.3)                                                  | 0.8 (20.2)                                                  | -3.0 (5.1)                                         |
+| AST, (U/L) Mean (SD)                   | -1.4 (7.2)                                      | -3.0 (11.5)                             | -0.8 (5.4)                                                 | 1.7 (31.9)                                                  | -1.7 (3.4)                                         |
+| 3 or > ULN in ALT or AST               | 1 (2.7)ᵇ                                        | 1 (3.7)ᶜ                                | 0                                                          | 1 (3.3)ᵈ                                                    | 0                                                  |
+| 5 or > ULN in ALT or AST               | 0                                               | 0                                       | 0                                                          | 0                                                           | 0                                                  |
+| 10 or > ULN in ALT or AST              | 0                                               | 0                                       | 0                                                          | 0                                                           | 0                                                  |
+
+
+* No DILI or permanent elevations in liver enzymes and no study discontinuations due to elevated liver enzymes
+
+ᵃPreferred term in the TEAE reported in the safety database. ᵇFemale participant with a sporadic increase in ALT (3.9xULN) and AST (2xULN) at day 44, and returned to normal at day 48 without stopping study drug. ᶜMale participant with fluctuations in ALT/AST throughout the study with a peak at day 30 (both ALT and AST @3xULN) associated with an increase in creatinine kinase. ᵈMale participant with an isolated increase in AST (4XULN) at day 84 associated with an increase in creatinine kinase.
+
+FIGURE 5. GSBR-1290 Exposure Supports Once Daily (QD) Dosing
+
+Line chart showing mean plasma concentration (ng/mL) over 24 hours for 60 mg and 120 mg QD tablet and capsule formulations. All curves remain above the 10 ng/mL threshold for maximum target engagement for insulin secretion.
+
+### GSBR-1290 Was Designed With Specific Properties Resulting in PK Parameters Supportive of QD Dosing With Broad Safety Margins
+
+| Pharmacokinetic Properties                                                                                                   | Molecular Properties                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| • Plasma concentration at 24 hours above 10 ng/mLᵃ for 120 mg<br/>• Generally proportional exposure between 60 mg and 120 mg | • Large safety margin (≥ 150 fold at 120 mg) with minimal tissue accumulation based on non-clinical data<br/>• Full agonist with minimal β-arrestin signaling<br/>• No glutathione reactivity |
+
+
+ᵃ10 ng/mL C<sub>avg</sub> threshold identified through NHP studies that demonstrated maximum insulin secretion
+
+## CONCLUSIONS
+
+* Using structure-based drug discovery, GSBR-1290 was designed to be a potent, orally available, safe, non-peptide small molecule GLP-1RA
+
+* Over 12 weeks across both studies, GSBR-1290 showed clinically meaningful and statistically significant body weight reduction in participants with overweight or obesity
+
+- -6.2 – 6.8% placebo-adjusted weight loss at 60 and 120 mg, respectively, with QD dosing at 12 weeks
+
+- No new safety findings
+
+- Low number of study discontinuations due to AEs
+
+* GSBR-1290 PK findings support QD dosing and proportional exposure
+
+* No permanent elevations in liver enzymes. No DILI and no study discontinuations related to liver function
+
+* A 36-week Phase 2b study of GSBR-1290 in participants living with overweight or obesity is expected to initiate in Q4 2024
+
+**ABBREVIATIONS**
+AE = adverse event; CWM = chronic weight management; DILI = drug-induced liver injury; GLP = glucagon-like peptide; GLP-1RA = glucagon-like peptide receptor agonists; LSM = least-squares mean; MMRM = mixed model for repeated measures; NHP = non human primate; NOAEL = no observed adverse effect level; QD = once daily; SE = standard error; T2DM = type 2 diabetes mellitus
+
+**REFERENCES**
+1. Overweight & obesity statistics. NIH, 2021. https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity.
+2. J Wilding, et al., 2016; EMA Wegovy Report, 2021.
+
+Structure Therapeutics and the Structure Therapeutics logo are trademarks owned by the Structure Therapeutics. © 2024 Structure Therapeutics, Inc. 11/24
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/img_p0_1.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/img_p0_2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/img_p0_3.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/img_p0_4.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_table_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_chart_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_chart_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_table_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_table_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_table_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_image_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_image_7_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/structure_therapeutics/aleniglipron/presentations_posters/2024OW_1290-12-weeks-poster_Seman_images/page_1_image_5_v2.jpg' | relative_url }})

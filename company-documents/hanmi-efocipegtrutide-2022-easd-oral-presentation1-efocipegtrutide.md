@@ -1,0 +1,411 @@
+---
+layout: document
+title: Anti-inflammatory and anti-fibrotic effects of a novel long-acting Glucagon/GIP/GLP-1
+  triple agonist, HM15211, in TAA induced mouse model of liver injury and fibrosis
+permalink: /company-documents/hanmi-efocipegtrutide-2022-easd-oral-presentation1-efocipegtrutide/
+company: Hanmi Pharmaceutical
+company_slug: hanmi
+program: Efocipegtrutide / HM15211
+program_slug: efocipegtrutide
+indication: MASH
+year: ''
+conference: ''
+document_type: Presentation/Poster
+source_file: 2022_EASD_Oral_presentation1_efocipegtrutide.pdf
+pdf_url: /companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide.pdf
+plain_text_url: /plain-text/hanmi-efocipegtrutide-2022-easd-oral-presentation1-efocipegtrutide.txt
+description: Parsed presentation/poster source document for Hanmi Pharmaceutical.
+---
+
+Abstract #778
+
+EASD 2022 58th ANNUAL MEETING Stockholm & Online banner
+
+# Anti-inflammatory and anti-fibrotic effects of a novel long-acting Glucagon/GIP/GLP-1 triple agonist, HM15211, in TAA induced mouse model of liver injury and fibrosis
+
+**<u>Jung Kuk Kim</u>, Jong Suk Lee, Yohan Kim, Seon Myeong Lee, Hyunjoo Kwon, Eun Jin Park, Jae Hyuk Choi, Sung Min Bae, Dae Jin Kim, Sang Hyun Lee, In Young Choi**
+
+**Hanmi Pharm. Co., Ltd., Seoul, Republic of Korea**
+
+Hanmi logo
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p0_1.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p0_2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_1_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_1_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_1_image_2_v2.jpg' | relative_url }})
+
+# Presenter Disclosure Hanmi logo
+
+**Employee of Hanmi Pharm. Co., Ltd.**
+
+European Association for the Study of Diabetes (EASD) 58th Annual Meeting, Stockholm & Online, 19 -23Sep.2022 Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 2]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 2]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 2]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_2.jpg' | relative_url }})
+
+![Extracted image from page 2]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_2_image_1_v2.jpg' | relative_url }})
+
+# Biologic effects of incretins in NASH an fibrosis Hanmi logo
+
+## GLP-1 GIP
+
+* Insulin resistance improvement
+
+* Glycemic control
+
+* Weight loss by appetite regulation
+
+* Anti-inflammation
+
+Down arrow
+***May be indirect benefits***
+
+$\rightarrow$ NASH resolution
+
+$\rightarrow$ Fibrosis improvement
+
+$\rightarrow$ Off-set blood glucose elevation
+
+HM15211 diagram
+**HM15211 [Ph2b, US, KR]**
+
+Left arrow
+***Direct benefits***
+
+## Glucagon
+
+* Glucose production
+
+* Weight loss by energy expenditure
+
+## [Liver targeting]
+
+* Favorable lipid metabolism reprograming
+
+* Bile acid production $\downarrow$
+
+* Anti-inflammation
+
+$\rightarrow$ Lipotoxicity and liver injury $\downarrow$
+
+* TGF-$\beta$ production $\downarrow$
+
+* Smad signaling $\downarrow$ in HSC
+
+$\rightarrow$ HSC activation and fibrogenesis $\downarrow$
+
+European Association for the Study of Diabetes (EASD) 58th Annual Meeting, Stockholm & Online, 19 -23Sep.2022
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p2_3.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p2_4.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p2_5.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p2_6.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p2_7.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p2_8.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p2_9.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p2_10.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p2_11.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p2_12.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p2_13.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_3.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_3_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_3_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_3_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_3_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_3_image_5_v2.jpg' | relative_url }})
+
+# What is long-acting Glucagon/GIP/GLP-1 triple co-agonist?
+
+Hanmi logo
+
+Hanmi’s Glucagon/GIP/GLP-1 triple co-agonist (HM15211) is conjugated with a human IgG Fc fragment *via* flexible linker
+
+Diagram of GCG/GIP/GLP-1 triple co-agonist showing the triple co-agonist, flexible PEG linker, and aglycosylated Fc fragment
+
+LAPSCOVERY : **L**ong **A**cting **P**eptide/Protein **Di**SCOVERY Technology
+
+## [General profile]
+
+* Single drug moiety with triple activity
+
+* Extended half-life allows once weekly dosing
+
+* Rationally designed triple agonist optimized for liver targeting
+
+* Rapid & potent liver fat reduction both in animal and human
+<u>(\*12 weeks MAD trial results in obese NAFLD subjects presented at 2020 EASL)</u>
+
+* Multiple MoAs exist for managing inflammation and fibrosis
+
+* On-going for P2b study in biopsy-proven NASH subjects
+
+European Association for the Study of Diabetes (EASD) 58th Annual Meeting, Stockholm & Online, 19 -23Sep.2022
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p3_3.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p3_4.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p3_5.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_4.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_4_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_4_image_1_v2.jpg' | relative_url }})
+
+# Figure 1. HM15211 effect on hepatic fibrosis in TAA mice Hanmi logo
+
+⮚HM15211 treatment led to histological improvement of liver fibrosis in TAA mice. Reduction effect of fibrosis score is correlated with that of Sirius red positive area and hepatic hydroxyproline
+
+Study design diagram showing TAA induction for 12 weeks and HM15211 treatment from week 2 to week 12
+
+## (a) Sirius red staining and positive area
+
+Normal, Veh. liver histology TAA, Veh. liver histology TAA, HM15211 liver histology
+
+Scale bar = 100 μm
+
+| Group                                            | Sirius red positive area (%) | Hydroxyproline (nmol/g liver) | Fibrosis score |
+| ------------------------------------------------ | ---------------------------- | ----------------------------- | -------------- |
+| Normal, Vehicle                                  | 0.08 \*\*\*                  | 170 \*\*                      | 0.0 \*\*\*     |
+| TAA, Vehicle                                     | 0.85                         | 365                           | 3.0            |
+| TAA, HM15211 3.9 nmol/kg, Q2D (6 mg/wk in human) | 0.30 \*\*\*                  | 185 \*\*                      | 0.7 \*\*\*     |
+
+
+## (b) Hepatic hydroxyproline
+
+## (c) Fibrosis score
+
+\*\*~***p<0.01~0.001 vs. TAA, vehicle by One-way ANOVA
+
+European Association for the Study of Diabetes (EASD) 58th Annual Meeting, Stockholm & Online, 19 -23Sep.2022
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p4_3.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p4_4.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p4_5.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p4_6.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p4_7.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_5.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_5_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_5_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_5_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_5_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_5_image_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_5_chart_1_v2.jpg' | relative_url }})
+
+Hanmi logo
+
+# Figure 2. HM15211 effect on surrogate markers in TAA mice
+
+⮚ Consistent with histologic results, robust improvement effects of HM15211 were observed for efficacy surrogate measurement such as hepatic marker gene expression and blood liver enzyme level
+
+Study design diagram showing TAA induction for 12 weeks and HM15211 drug treatment for 10 weeks in C57BL/6 strain mice
+
+## (a) Inflammation marker gene (b) Fibrosis marker gene
+
+| Gene Marker | Normal, Vehicle | TAA, Vehicle | TAA, HM15211 3.9 nmol/kg, Q2D (6 mg/wk in human) |
+| ----------- | --------------- | ------------ | ------------------------------------------------ |
+| F4/80       | 1.0\*\*\*       | 1.8          | 1.6\*                                            |
+| TNF-α       | 1.0\*\*\*       | 1.6          | 1.2\*\*\*                                        |
+| IL-1β       | 1.0\*\*\*       | 2.2          | 1.0\*\*\*                                        |
+| TGF-β       | 1.0\*\*\*       | 3.8          | 2.2                                              |
+| Col1α1      | 1.0\*\*\*       | 2.8          | 0.9\*\*\*                                        |
+
+
+## (c) Blood liver enzyme
+
+| Enzyme | Normal, Vehicle | TAA, Vehicle | TAA, HM15211 3.9 nmol/kg, Q2D (6 mg/wk in human) |
+| ------ | --------------- | ------------ | ------------------------------------------------ |
+| ALT    | 55\*\*\*        | 185          | 90\*\*\*                                         |
+| AST    | 140\*           | 190          | 145\*                                            |
+
+
+\*~***p<0.05~0.001 vs. TAA, vehicle by One-way ANOVA
+
+European Association for the Study of Diabetes (EASD) 58th Annual Meeting, Stockholm & Online, 19 -23Sep.2022
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p4_3.jpg' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_6.jpg' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_6_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_6_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_6_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_6_chart_2_v2.jpg' | relative_url }})
+
+# Figure 3. MoAs for anti-inflammatory and anti-fibrotic effects Hanmi logo
+
+⮚ Inhibitory effects on activation of macrophage and HSC demonstrate direct anti-inflammatory and anti-fibrotic effects of HM15211
+
+** (a) PMA-induced cell adhesion in THP-1 cells **
+(monocyte to macrophage differentiation)
+
+| Treatment     | Adherent cells (% vs. PMA only) | Significance |
+| ------------- | ------------------------------- | ------------ |
+| Vehicle       | 7                               | \*\*         |
+| PMA           | 100                             |              |
+| PMA + HM15211 | 16                              | \*           |
+
+
+** (c) TGF-β-induced Smad3 activation of LX-2 cells **
+
+| Treatment       | Smad3 phosphorylation (fold increase) | Significance |
+| --------------- | ------------------------------------- | ------------ |
+| Vehicle         | 1.0                                   | \*\*\*       |
+| TGF-β           | 2.2                                   |              |
+| TGF-β + HM15211 | 1.2                                   | \*\*\*       |
+
+
+| Treatment       | Smad luciferase activity (fold increase) | Significance |
+| --------------- | ---------------------------------------- | ------------ |
+| Vehicle         | 1.0                                      | \*\*\*       |
+| TGF-β           | 5.0                                      |              |
+| TGF-β + HM15211 | 2.0                                      | \*\*\*       |
+
+
+** (b) Inflammatory cytokine secretion (M1 polarization) **
+
+| Cytokine | Vehicle  | PMA (+ LPS) | PMA (+ LPS) + HM15211 10 μM |
+| -------- | -------- | ----------- | --------------------------- |
+| TNF-α    | 5 \*\*\* | 550         | 55 \*\*\*                   |
+| IL-1β    | 2 \*\*\* | 120         | 5 \*\*\*                    |
+| IL-12    | 5 \*\*\* | 170         | 20 \*\*\*                   |
+
+
+** (d) Collagen secretion **
+
+| Treatment       | Collagen Conc. (μg/mL) | Significance |
+| --------------- | ---------------------- | ------------ |
+| Vehicle         | 13                     | \*\*\*       |
+| TGF-β           | 37                     |              |
+| TGF-β + HM15211 | 23                     | \*\*\*       |
+
+
+\*~***p<0.05~0.001 vs. Stimulation by One-way ANOVA
+
+European Association for the Study of Diabetes (EASD) 58th Annual Meeting, Stockholm & Online, 19 -23Sep.2022
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p6_3.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p6_4.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p6_5.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_7.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_7_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_7_chart_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_7_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_7_chart_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_7_chart_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_7_chart_1_v2.jpg' | relative_url }})
+
+# Summary & Conclusions
+
+Hanmi logo
+
+* **HM15211 is Glucagon/GIP/GLP-1 triple agonist with unique activity features designed to treat NASH and fibrosis by targeting multiple aspects of this disease**
+
+* **In previous studies, robust therapeutic benefits were observed in animal models of NASH and/or liver fibrosis (e.g. MCD mice, CDAHFD mice, AMLN mice, and BDL mice)**
+
+* **In the current study, direct anti-inflammatory and anti-fibrotic effects of HM15211 were further confirmed in TAA mice**
+
+* **In vitro mechanistic studies revealed that HM15211 could inhibit monocyte differentiation and M1 polarization (pro-inflammation cytokine secretion), and HSC activation (collagen secretion)**
+
+> <mark>**HM15211 might provide improved efficacy for the treatment of NASH and fibrosis**</mark>
+> <mark>**Fast-track granted and P2b clinical study is on-going in biopsy-proven NASH subjects (US, KR)**</mark>
+
+Please note oral presentation reporting more information about HM15211:
+
+#838: Anti-fibrotic potential of a novel long-acting Glucagon/GIP/GLP-1 triple agonist (HM15211) in preclinical models of idiopathic pulmonary fibrosis
+
+**Contact information**: kjk515@hanmi.co.kr
+
+European Association for the Study of Diabetes (EASD) 58th Annual Meeting, Stockholm & Online, 19 -23Sep.2022
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_1.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p7_3.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/img_p7_4.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_8.jpg' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2022_EASD_Oral_presentation1_efocipegtrutide_images/page_8_image_1_v2.jpg' | relative_url }})

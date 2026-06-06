@@ -1,0 +1,13 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+vendor/
+node_modules/
+tmp/
+.playwright-mcp/
+.env
+.vscode/
+artifacts/
+__pycache__/
+*.pyc
+scripts/sweep/runs/

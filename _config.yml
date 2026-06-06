@@ -1,0 +1,32 @@
+title: GLP-1 Data Archive
+description: Public archive of branded and investigational GLP-1-containing treatments, sponsor updates, and publication/congress source monitoring.
+url: "https://justinsyu.github.io"
+baseurl: "/glp-1-data"
+lang: en-US
+timezone: America/New_York
+maintainer: Justin Yu
+repository_url: "https://github.com/justinsyu/glp-1-data"
+
+markdown: kramdown
+theme: null
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      last_modified_at: 2026-06-05
+
+exclude:
+  - scripts/
+  - vendor/
+  - vendor/bundle/
+  - Gemfile
+  - Gemfile.lock
+  - .DS_Store
+  - README.md
+  - instructions-for-setup.md
+  - tmp/
+  - .playwright-mcp/

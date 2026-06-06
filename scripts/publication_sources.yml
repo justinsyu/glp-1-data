@@ -1,0 +1,374 @@
+companies:
+- id: eli_lilly
+  company_slug: eli-lilly
+  name: Eli Lilly and Company
+  tier: 1
+  sources:
+  - kind: pubmed
+    terms:
+    - orforglipron
+    - Foundayo
+    - tirzepatide
+    - Zepbound
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)orforglipron|Foundayo|tirzepatide|Zepbound|Mounjaro|retatrutide|GLP\-1
+  - kind: html
+    url: https://www.lilly.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)orforglipron|Foundayo|tirzepatide|Zepbound|Mounjaro|retatrutide|GLP\-1
+- id: novo_nordisk
+  company_slug: novo-nordisk
+  name: Novo Nordisk
+  tier: 1
+  sources:
+  - kind: pubmed
+    terms:
+    - CagriSema
+    - amycretin
+    - zenagamtide
+    - Xultophy
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)CagriSema|amycretin|zenagamtide|Xultophy|Kyinsu|IcoSema|GLP\-1
+  - kind: html
+    url: https://www.novonordisk.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)CagriSema|amycretin|zenagamtide|Xultophy|Kyinsu|IcoSema|GLP\-1
+- id: sanofi
+  company_slug: sanofi
+  name: Sanofi
+  tier: 2
+  sources:
+  - kind: pubmed
+    terms:
+    - GLP-1
+    - Sanofi
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Sanofi
+  - kind: html
+    url: https://www.sanofi.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Sanofi
+- id: amgen
+  company_slug: amgen
+  name: Amgen
+  tier: 1
+  sources:
+  - kind: pubmed
+    terms:
+    - MariTide
+    - maridebart
+    - AMG 133
+    - GLP-1
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)MariTide|maridebart|AMG\ 133|GLP\-1
+  - kind: html
+    url: https://www.amgen.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)MariTide|maridebart|AMG\ 133|GLP\-1
+- id: innovent
+  company_slug: innovent
+  name: Innovent Biologics
+  tier: 1
+  sources:
+  - kind: pubmed
+    terms:
+    - mazdutide
+    - IBI362
+    - GLP-1
+    - glucagon
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)mazdutide|IBI362|GLP\-1|glucagon
+  - kind: html
+    url: https://www.innoventbio.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)mazdutide|IBI362|GLP\-1|glucagon
+- id: sciwind_pfizer
+  company_slug: sciwind-pfizer
+  name: Sciwind Biosciences / Pfizer China
+  tier: 1
+  sources:
+  - kind: pubmed
+    terms:
+    - ecnoglutide
+    - XW003
+    - GLP-1
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)ecnoglutide|XW003|GLP\-1
+  - kind: html
+    url: https://www.sciwind.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)ecnoglutide|XW003|GLP\-1
+- id: shanghai_benemae
+  company_slug: shanghai-benemae
+  name: Shanghai Benemae Pharmaceutical
+  tier: 2
+  sources:
+  - kind: pubmed
+    terms:
+    - GLP-1
+    - Benemae
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Benemae
+  - kind: html
+    url: https://www.benemae.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Benemae
+- id: huadong_jiuyuan
+  company_slug: huadong-jiuyuan
+  name: Huadong Medicine / Jiuyuan Gene
+  tier: 2
+  sources:
+  - kind: pubmed
+    terms:
+    - GLP-1
+    - Huadong / Jiuyuan
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Huadong\ /\ Jiuyuan
+  - kind: html
+    url: https://www.eastchinapharm.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Huadong\ /\ Jiuyuan
+- id: innogen
+  company_slug: innogen
+  name: Innogen Pharmaceutical
+  tier: 2
+  sources:
+  - kind: pubmed
+    terms:
+    - GLP-1
+    - Innogen
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Innogen
+  - kind: html
+    url: https://www.innogenpharm.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Innogen
+- id: gan_and_lee
+  company_slug: gan-and-lee
+  name: Gan & Lee Pharmaceuticals
+  tier: 2
+  sources:
+  - kind: pubmed
+    terms:
+    - GLP-1
+    - Gan & Lee
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Gan\ \&\ Lee
+  - kind: html
+    url: https://www.ganlee.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Gan\ \&\ Lee
+- id: hengrui
+  company_slug: hengrui
+  name: Hengrui Pharma
+  tier: 1
+  sources:
+  - kind: pubmed
+    terms:
+    - noiiglutide
+    - SHR20004
+    - GLP-1
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)noiiglutide|SHR20004|GLP\-1
+  - kind: html
+    url: https://www.hengrui.com/en
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)noiiglutide|SHR20004|GLP\-1
+- id: kailera
+  company_slug: kailera
+  name: Kailera Therapeutics
+  tier: 1
+  sources:
+  - kind: pubmed
+    terms:
+    - ribupatide
+    - HRS9531
+    - KAI-9531
+    - GLP-1
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)ribupatide|HRS9531|KAI\-9531|GLP\-1
+  - kind: html
+    url: https://www.kailera.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)ribupatide|HRS9531|KAI\-9531|GLP\-1
+- id: hanmi
+  company_slug: hanmi
+  name: Hanmi Pharmaceutical
+  tier: 2
+  sources:
+  - kind: pubmed
+    terms:
+    - GLP-1
+    - Hanmi
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Hanmi
+  - kind: html
+    url: https://www.hanmipharm.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Hanmi
+- id: structure_therapeutics
+  company_slug: structure-therapeutics
+  name: Structure Therapeutics
+  tier: 2
+  sources:
+  - kind: pubmed
+    terms:
+    - GLP-1
+    - Structure
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Structure
+  - kind: html
+    url: https://www.structuretx.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Structure
+- id: eccogene_astrazeneca
+  company_slug: eccogene-astrazeneca
+  name: Eccogene / AstraZeneca
+  tier: 2
+  sources:
+  - kind: pubmed
+    terms:
+    - GLP-1
+    - Eccogene / AstraZeneca
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Eccogene\ /\ AstraZeneca
+  - kind: html
+    url: https://www.astrazeneca.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Eccogene\ /\ AstraZeneca
+- id: roche_carmot
+  company_slug: roche-carmot
+  name: Roche / Carmot Therapeutics
+  tier: 2
+  sources:
+  - kind: pubmed
+    terms:
+    - GLP-1
+    - Roche / Carmot
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Roche\ /\ Carmot
+  - kind: html
+    url: https://www.roche.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Roche\ /\ Carmot
+- id: viking_therapeutics
+  company_slug: viking-therapeutics
+  name: Viking Therapeutics
+  tier: 1
+  sources:
+  - kind: pubmed
+    terms:
+    - VK2735
+    - GLP-1
+    - GIP
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)VK2735|GLP\-1|GIP
+  - kind: html
+    url: https://www.vikingtherapeutics.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)VK2735|GLP\-1|GIP
+- id: boehringer_zealand
+  company_slug: boehringer-zealand
+  name: Boehringer Ingelheim / Zealand Pharma
+  tier: 1
+  sources:
+  - kind: pubmed
+    terms:
+    - survodutide
+    - BI 456906
+    - GLP-1
+    - MASH
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)survodutide|BI\ 456906|GLP\-1|MASH
+  - kind: html
+    url: https://www.boehringer-ingelheim.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)survodutide|BI\ 456906|GLP\-1|MASH
+- id: altimmune
+  company_slug: altimmune
+  name: Altimmune
+  tier: 1
+  sources:
+  - kind: pubmed
+    terms:
+    - pemvidutide
+    - GLP-1
+    - MASH
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)pemvidutide|GLP\-1|MASH
+  - kind: html
+    url: https://www.altimmune.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)pemvidutide|GLP\-1|MASH
+- id: merck_hanmi
+  company_slug: merck-hanmi
+  name: Merck / Hanmi
+  tier: 2
+  sources:
+  - kind: pubmed
+    terms:
+    - GLP-1
+    - Merck / Hanmi
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Merck\ /\ Hanmi
+  - kind: html
+    url: https://www.merck.com/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)GLP\-1|Merck\ /\ Hanmi
+- id: united_labs_novo
+  company_slug: united-labs-novo
+  name: United Laboratories / Novo Nordisk
+  tier: 2
+  sources:
+  - kind: pubmed
+    terms:
+    - GLP-1
+    - United Labs / Novo
+    fetcher: pubmed
+    discovery_only: true
+    title_filter: (?i)GLP\-1|United\ Labs\ /\ Novo
+  - kind: html
+    url: https://www.tul.com.cn/
+    fetcher: requests
+    discovery_only: true
+    title_filter: (?i)GLP\-1|United\ Labs\ /\ Novo

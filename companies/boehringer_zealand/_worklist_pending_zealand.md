@@ -1,0 +1,127 @@
+# Worklist: items requiring manual retrieval
+
+Each line below was discovered by the sweep but could not be
+downloaded automatically (HCP gating, publisher paywall, or
+non-PDF landing page). Retrieve manually and drop the PDF into
+the suggested_dest folder.
+
+- [2026-06-06] **Consent**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Details**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **[#IABV2SETTINGS#]**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **About**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Show details**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Cookiebot 1**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Euroland 2**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Google 8**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Vimeo 2**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **West 5**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **cdn.userway.org 4**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **www.zealandpharma.com 6**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **zealandpharma.com 3**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Vimeo 1**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **West 1**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **scripts.clarity.ms zealandpharma.com 3**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **zealandpharma.com 1**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Microsoft 7**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **zealandpharma.com 1**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Cross-domain consent [#BULK_CONSENT_DOMAINS_COUNT#]**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Survodutide**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Survodutide**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **Survodutide**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``
+- [2026-06-06] **https://www.zealandpharma.com/pipeline/survodutide/**
+    - reason: discovery_only source: manual HCP retrieval
+    - url: https://www.zealandpharma.com/pipeline/survodutide/
+    - source_page: https://www.zealandpharma.com/pipeline/survodutide/
+    - suggested_dest: ``

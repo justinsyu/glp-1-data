@@ -1,0 +1,63 @@
+{% assign treatments = include.treatments %}
+{% assign sort_by = include.sort_by | default: "name" %}
+{% assign sort_dir = include.sort_dir | default: "asc" %}
+{% assign sorted_treatments = treatments | sort: sort_by %}
+{% if sort_dir == "desc" %}
+  {% assign sorted_treatments = sorted_treatments | reverse %}
+{% endif %}
+
+<div class="document-list-block" data-document-list-block>
+  <div class="sort-toolbar" aria-label="Treatment sorting controls">
+    <label>
+      <span>Sort by</span>
+      <select data-sort-key>
+        <option value="name"{% if sort_by == "name" %} selected{% endif %}>Name</option>
+        <option value="status"{% if sort_by == "status" %} selected{% endif %}>Status</option>
+        <option value="company"{% if sort_by == "company" %} selected{% endif %}>Company</option>
+        <option value="mechanism"{% if sort_by == "mechanism" %} selected{% endif %}>Mechanism</option>
+        <option value="route"{% if sort_by == "route" %} selected{% endif %}>Route</option>
+        <option value="indication"{% if sort_by == "indication" %} selected{% endif %}>Indication</option>
+      </select>
+    </label>
+    <label>
+      <span>Order</span>
+      <select data-sort-dir>
+        <option value="asc"{% if sort_dir == "asc" %} selected{% endif %}>Ascending</option>
+        <option value="desc"{% if sort_dir == "desc" %} selected{% endif %}>Descending</option>
+      </select>
+    </label>
+  </div>
+
+  <ul class="document-list document-rows" data-sortable-documents>
+    {% for treatment in sorted_treatments limit: include.limit %}
+      {% assign row_profile = site.data.company_profiles | where: "slug", treatment.company_slug | first %}
+      {% assign row_code = row_profile.code | default: "GLP" %}
+      {% assign row_primary = treatment.primary_color | default: row_profile.primary | default: "#06254A" %}
+      <li
+        data-name="{{ treatment.name | downcase | escape }}"
+        data-title="{{ treatment.name | downcase | escape }}"
+        data-status="{{ treatment.status | downcase | escape }}"
+        data-company="{{ treatment.company | downcase | escape }}"
+        data-mechanism="{{ treatment.mechanism | downcase | escape }}"
+        data-route="{{ treatment.route | downcase | escape }}"
+        data-indication="{{ treatment.indication | downcase | escape }}"
+        style="--row-primary: {{ row_primary }};"
+      >
+        <a class="document-row-link" href="{{ treatment.url | relative_url }}">
+          <span class="document-row-chip" aria-label="Sponsor code {{ row_code }}">{{ row_code }}</span>
+          <span class="document-row-body">
+            <span class="document-row-title">{% if treatment.brand and treatment.brand != "" %}{{ treatment.brand }}{% else %}{{ treatment.name }}{% endif %}</span>
+            <span class="document-row-meta">
+              <span class="document-row-sponsor">{{ treatment.company }}</span>
+              <span>{{ treatment.status }}</span>
+              <span>{{ treatment.mechanism }}</span>
+              <span>{{ treatment.route }}</span>
+            </span>
+            <span class="document-row-summary">{{ treatment.name }} / {{ treatment.indication }} / {{ treatment.jurisdiction }}</span>
+          </span>
+          <span class="document-row-year">{{ treatment.status | split: " " | first }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,585 @@
+# PEMVIDUTIDE PRESERVES LEAN BODY MASS DURING WEIGHT LOSS IN PATIENTS WITH OVERWEIGHT AND OBESITY: RESULTS OF A PHASE 2 MRI-BASED BODY COMPOSITION SUB-STUDY
+
+Steven Heymsfield¹, John J. Suschak², Jonathan Kasper², Julio Gutierrez², Shaheen Tomah², Lars Johansson³, Edvin Johansson³, Jay Yang², Stephine Keeton², M. Scot Roberts², **M. Scott Harris²**, Sarah K. Browne²
+
+¹Pennington Biomedical Research Center, Baton Rouge, LA, USA; ²Altimmune, Inc., Gaithersburg, MD, USA; ³Antaros Medical AB, Mölndal, Sweden
+
+altimmune logo | NASDAQ: ALT
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p0_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p0_2.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_1_image_1_v2.jpg' | relative_url }})
+
+# BACKGROUND AND OBJECTIVE
+
+* Pemvidutide is a potency-balanced GLP-1/glucagon dual receptor agonist which was previously shown to significantly reduce body weight vs placebo in obese subjects.
+
+* The quality of weight loss achieved with incretin-based therapies, including preservation of lean mass, may reduce:
+    
+
+    - Risk of falls and fractures
+    
+
+    - Development of co-morbidities
+    
+
+    - Higher rates of all-cause mortality
+
+* Visceral adipose tissue is associated with risk for cardiovascular disease
+
+* The objective of this study was to evaluate the changes in body composition with weight loss in subjects enrolled in the Phase 2 MOMENTUM trial of pemvidutide in the treatment of obesity.
+
+2
+
+altimmune logo
+
+![Extracted image from page 2]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_1.jpg' | relative_url }})
+
+![Extracted image from page 2]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 2]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_3.png' | relative_url }})
+
+![Extracted image from page 2]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_2.jpg' | relative_url }})
+
+![Extracted image from page 2]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_2_image_1_v2.jpg' | relative_url }})
+
+# MOMENTUM OBESITY TRIAL DESIGN
+
+* Phase 2, 48-week trial of pemvidutide in 391 subjects with overweight or obesity
+
+* Randomized 1:1:1:1 to 4 treatment arms, stratified by gender and baseline BMI, with standard lifestyle interventions
+
+* Body composition MRIs were completed in 67 subjects, 50 receiving pemvidutide, at baseline and Week 48
+
+    - Lean mass, visceral adipose tissue (VAT), subcutaneous adipose tissue (SAT), and total adipose tissue (TAT)
+
+```mermaid
+graph LR
+    S[Screening] --> R[Randomization]
+    R --> P[placebo weekly]
+    R --> D1[1.2 mg weekly]
+    R --> D2[1.8 mg weekly]
+    R --> D3[2.4 mg weekly]
+
+    subgraph Titration [4-week titration]
+    T1[0.6] --- T2[1.2] --- T3[1.8] --- T4[1.8]
+    end
+    
+    T4 --- D3
+    
+    P --- W48[Week 48]
+    D1 --- W48
+    D2 --- W48
+    D3 --- W48
+```
+
+MOMENTUM Obesity Trial Design Flowchart
+
+3
+
+altimmune logo
+
+![Extracted image from page 3]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_1.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_3.png' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_3.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_3_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 3]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_3_image_1_v2.jpg' | relative_url }})
+
+# WEIGHT LOSS OF 15.6% ACHIEVED AT WEEK 48 ON 2.4 MG
+
+MEAN WEIGHT LOSS OF 32.2 LBS AND MAXIMAL WEIGHT LOSS OF 87.1 LBS
+
+## Relative Weight Loss (%)
+
+> \*\*\* p < 0.001 vs. placebo (MMRM)
+
+| Group                     | LS Mean Weight Loss (% ± SE) |
+| ------------------------- | ---------------------------- |
+| placebo (N=97)            | -2.2%                        |
+| 1.2 mg pemvidutide (N=98) | -10.3%\*\*\*                 |
+| 1.8 mg pemvidutide (N=99) | -11.2%\*\*\*                 |
+| 2.4 mg pemvidutide (N=97) | -15.6%\*\*\*                 |
+
+
+## Relative Weight Loss (%)
+
+| Week | placebo     | 1.2 mg pemvidutide | 1.8 mg pemvidutide | 2.4 mg pemvidutide |
+| ---- | ----------- | ------------------ | ------------------ | ------------------ |
+| 0    | 0.0         | 0.0                | 0.0                | 0.0                |
+| 4    | -2.0        | -3.8               | -4.2               | -4.2               |
+| 8    | -2.2        | -5.4               | -5.8               | -6.2               |
+| 12   | -2.5        | -6.4               | -7.2               | -8.1               |
+| 16   | -2.6        | -7.2               | -7.9               | -9.5               |
+| 20   | -2.6        | -7.9               | -8.6               | -10.4              |
+| 24   | -2.7        | -8.4               | -9.1               | -11.2              |
+| 28   | -2.4        | -8.8               | -9.6               | -12.1              |
+| 32   | -2.4        | -9.3               | -10.1              | -12.9              |
+| 36   | -2.2        | -9.7               | -10.4              | -13.6              |
+| 40   | -2.1        | -10.0              | -10.6              | -14.3              |
+| 44   | -2.2        | -10.2              | -10.9              | -15.0              |
+| 48   | -2.2 (N=97) | -10.3 (N=98)       | -11.2 (N=99)       | -15.6 (N=97)       |
+
+
+4
+
+MMRM, mixed model for repeated measures
+
+altimmune logo
+
+![Extracted image from page 4]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_1.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_3.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p3_4.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p3_5.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p3_6.png' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_4.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_4_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_4_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 4]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_4_chart_1_v2.jpg' | relative_url }})
+
+# LEAN LOSS RATIO LOWER THAN REPORTED WITH DIET AND EXERCISE
+
+MRI-BASED BODY COMPOSITION ANALYSIS CONFIRMS PREFERENTIAL LOSS OF ADIPOSE TISSUE OVER LEAN TISSUE
+
+## LEAN LOSS RATIO
+
+Change in Lean Mass / Change in Total Mass\*
+
+Pemvidutide-treated Subjects (n = 50 across all dose groups)
+
+| Change in Total Mass (kg) | Change in Lean Mass (kg) |
+| ------------------------- | ------------------------ |
+| 4.5                       | 0.8                      |
+| 1.5                       | 0.6                      |
+| 0.5                       | 1.5                      |
+| 0.0                       | 0.5                      |
+| 0.0                       | -0.4                     |
+| -0.5                      | -1.4                     |
+| -1.0                      | -2.6                     |
+| -1.5                      | 1.2                      |
+| -2.5                      | -0.8                     |
+| -3.0                      | -3.1                     |
+| -3.5                      | -0.5                     |
+| -3.5                      | -1.8                     |
+| -4.0                      | -1.1                     |
+| -4.0                      | -1.7                     |
+| -4.5                      | -0.7                     |
+| -4.5                      | -1.9                     |
+| -4.5                      | -2.4                     |
+| -5.0                      | -1.6                     |
+| -5.0                      | -2.8                     |
+| -5.5                      | -0.3                     |
+| -5.5                      | -2.2                     |
+| -5.5                      | -3.2                     |
+| -6.0                      | -2.9                     |
+| -6.5                      | -1.3                     |
+| -7.5                      | -0.9                     |
+| -8.0                      | -1.0                     |
+| -8.5                      | -2.2                     |
+| -9.5                      | -3.0                     |
+| -10.0                     | -3.1                     |
+| -10.5                     | -1.1                     |
+| -10.5                     | -1.5                     |
+| -11.5                     | -2.1                     |
+| -11.5                     | -2.9                     |
+| -12.0                     | 0.3                      |
+| -13.0                     | -4.0                     |
+| -13.5                     | -3.1                     |
+| -13.5                     | -7.3                     |
+| -14.0                     | -4.1                     |
+| -14.0                     | -1.4                     |
+| -14.5                     | -4.6                     |
+| -15.5                     | -1.7                     |
+| -16.5                     | -1.2                     |
+| -16.5                     | -2.6                     |
+| -21.5                     | -3.7                     |
+
+
+Lean Loss Ratio = 21.9%
+(slope of regression line)
+R² = 0.663
+
+\*Change in Total Mass = Lean Mass Loss + Adipose Mass Loss
+
+5
+
+altimmune logo
+
+![Extracted image from page 5]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_1.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_3.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p4_4.png' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_5.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_5_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 5]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_5_chart_1_v2.jpg' | relative_url }})
+
+# LEAN MASS PRESERVATION MAINTAINED IN OLDER SUBJECTS
+
+PREVENTING LEAN MASS LOSS IN THE ELDERLY MAY REDUCE RISK OF FALLS AND FRACTURES
+
+## SUBJECTS < 60 YEARS OLD (N=38)
+
+| Change in Total Mass (kg) | Change in Lean Mass (kg) |
+| ------------------------- | ------------------------ |
+| 0                         | 0.5                      |
+| -1                        | 1.5                      |
+| -1.5                      | -1.5                     |
+| -2                        | 0.5                      |
+| -2.5                      | -2.5                     |
+| -3                        | 1.2                      |
+| -3.5                      | -1.5                     |
+| -4                        | -0.8                     |
+| -4.5                      | -3.1                     |
+| -5                        | -0.5                     |
+| -5.5                      | -1.3                     |
+| -5.5                      | -2.3                     |
+| -6                        | -0.2                     |
+| -6.5                      | -4.1                     |
+| -6.5                      | -1.8                     |
+| -7                        | -2.2                     |
+| -7.5                      | -2.9                     |
+| -8                        | -1.4                     |
+| -9                        | -1.0                     |
+| -10                       | -2.3                     |
+| -11                       | -3.1                     |
+| -12                       | -3.4                     |
+| -12.5                     | -2.2                     |
+| -13                       | -2.9                     |
+| -14                       | -0.4                     |
+| -14.5                     | -3.4                     |
+| -15                       | -7.2                     |
+| -15.5                     | -4.1                     |
+| -15.5                     | -2.8                     |
+| -16                       | -4.6                     |
+| -16.5                     | -1.7                     |
+| -17                       | -1.3                     |
+| -17.5                     | -2.7                     |
+| -22                       | -3.7                     |
+
+
+\*Lean Loss Ratio = 22.5% (slope of regression line)
+\*R² = 0.647
+
+## SUBJECTS ≥ 60 YEARS OLD (N=12)
+
+| Change in Total Mass (kg) | Change in Lean Mass (kg) |
+| ------------------------- | ------------------------ |
+| 4                         | 0.7                      |
+| 0                         | -0.3                     |
+| -1                        | -1.6                     |
+| -4.5                      | -0.8                     |
+| -6.5                      | -2.2                     |
+| -7                        | -2.4                     |
+| -7.5                      | -0.9                     |
+| -9.5                      | -3.0                     |
+| -10.5                     | -1.1                     |
+| -10.5                     | -1.5                     |
+| -13.5                     | -4.0                     |
+| -14                       | -1.4                     |
+
+
+\*Lean Loss Ratio = 19.9% (slope of regression line)
+\*R² = 0.763
+
+\*Change in Total Mass = Lean Mass Loss + Adipose Mass Loss
+
+6
+
+altimmune logo
+
+![Extracted image from page 6]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_1.jpg' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_3.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p5_4.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p5_5.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p5_6.png' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_6.jpg' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_6_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_6_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 6]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_6_chart_1_v2.jpg' | relative_url }})
+
+# VISCERAL ADIPOSE TISSUE REDUCED BY 28.3% AT WEEK 48 ON 2.4 MG
+
+PREFERENTIAL REDUCTION OF VAT, THE ADIPOSE TISSUE DEPOT ASSOCIATED WITH CV RISK
+
+Subcutaneous Adipose Tissue
+
+| Treatment Group | LS Mean Change in SAT from Baseline (%) |
+| --------------- | --------------------------------------- |
+| Placebo (N=17)  | -4.7                                    |
+| 1.2 mg (N=18)   | -11.5                                   |
+| 1.8 mg (N=15)   | -13.0                                   |
+| 2.4 mg (N=17)   | -19.5\*\*                               |
+
+
+Visceral Adipose Tissue
+
+| Treatment Group | LS Mean Change in VAT from Baseline (%) |
+| --------------- | --------------------------------------- |
+| Placebo (N=17)  | -8.8                                    |
+| 1.2 mg (N=18)   | -20.4\*                                 |
+| 1.8 mg (N=15)   | -15.6                                   |
+| 2.4 mg (N=17)   | -28.3\*\*                               |
+
+
+7 Data are means ± SE. \* p<0.05, \*\* p<0.01, \*\*\* p<0.001 vs placebo (ANCOVA)
+
+altimmune logo
+
+![Extracted image from page 7]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_1.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_3.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p5_4.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p6_5.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p6_6.png' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_7.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_7_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_7_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 7]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_7_chart_2_v2.jpg' | relative_url }})
+
+# PEMVIDUTIDE IMPROVES BODY COMPOSITION
+
+* Robust mean weight loss of 15.6% on pemvidutide 2.4 mg at Week 48
+
+* Lean Loss Ratio of only 21.9%, representing class-leading preservation of lean mass
+
+* Preservation of lean mass maintained in the elderly, which may reduce the risk for falls and fractures
+
+* Preferential reduction of VAT, which may be associated with reduced risk for cardiovascular disease
+
+8
+
+altimmune logo
+
+![Extracted image from page 8]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_1.jpg' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_3.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p7_4.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p7_5.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p7_6.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p7_7.png' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_8.jpg' | relative_url }})
+
+![Extracted image from page 8]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_8_image_1_v2.jpg' | relative_url }})
+
+# Pemvidutide Preserves Lean Body Mass During Weight Loss in Patients with Overweight and Obesity: Results of a Phase 2 MRI-Based Body Composition Sub-Study
+
+Steven Heymsfield¹, John J. Suschak², Jonathan Kasper², Julio Gutierrez², Shaheen Tomah², Lars Johansson³, Edvin Johansson³, Jay Yang², Stephine Keeton², M. Scot Roberts², M. Scott Harris², Sarah K. Yang², Browne²
+
+¹Pennington Biomedical Research Center, Baton Rouge, LA, USA; ²Altimmune, Inc., Gaithersburg, MD, USA; ³Antaros Medical AB, Mölndal, Sweden
+
+## Background
+
+### Obesity and Body Composition with Weight Loss
+
+* Pemvidutide is a potency-balanced GLP-1/glucagon dual receptor agonist that was previously shown to significantly reduce body weight vs placebo in subjects with obesity
+
+* The quality of weight loss achieved with incretin-based therapies, including preservation of lean mass, may reduce:
+
+    - Risk of falls and fracture
+
+    - Development of co-morbidities
+
+    - Higher rates of all-cause mortality
+
+* Visceral adipose tissue is associated with increased risk for cardiovascular disease
+
+## Aims
+
+* Evaluate the changes in body composition with weight loss in subjects enrolled in the Phase 2 MOMENTUM trial of pemvidutide in the treatment of obesity.
+
+## Methods
+
+### Study Population - Key Eligibility Criteria
+
+* Clinicaltrials.gov# NCT05295875
+
+* Men and women, ages 18-65 years
+
+* BMI ≥ 30 kg/m² or BMI ≥ 27 kg/m² with at least one obesity-related comorbidity
+
+* HbA1c ≤ 6.5% and fasting glucose ≤ 125 mg/dL
+
+* At least one unsuccessful weight loss attempt
+
+* Minimum of ~ 25% of subjects were to be male
+
+### Study Design
+
+* Phase 2, 48-week trial of pemvidutide in 391 subjects with overweight or obesity
+
+* Randomized 1:1:1:1 to 4 treatment arms, stratified by gender and baseline BMI, with standard lifestyle interventions
+
+* Body composition MRIs were completed in 67 subjects, 50 who received pemvidutide, at baseline and Week 48
+
+Study Design Diagram showing screening, randomization to placebo, 1.2 mg, 1.8 mg, or 2.4 mg weekly doses with a 4-week titration period leading to Week 48
+
+### Outcome Measures
+
+* Lean mass, visceral adipose tissue (VAT), subcutaneous adipose tissue (SAT), and total adipose tissue (TAT) were quantified at baseline and after 48 weeks of pemvidutide treatment
+
+## Results
+
+### Characteristics of Study Participants
+
+| Characteristic                        | Treatment<br/>Placebo (N=17) | Treatment<br/>1.2 mg (N=18) | Treatment<br/>1.8 mg (N=15) | Treatment<br/>2.4 mg (N=17) |
+| ------------------------------------- | ---------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| Age, years mean (SD)                  | 58.35 (10.0)                 | 51.33 (9.5)                 | 49.33 (14.4)                | 52.76 (12.8)                |
+| Gender female, N (%)                  | 13 (76.5%)                   | 16 (88.9%)                  | 11 (73.3%)                  | 13 (76.5%)                  |
+| BMI, kg/m² mean (SD)                  | 37.3 (6.1)                   | 36.9 (4.8)                  | 34.8 (5.5)                  | 35.4 (4.8)                  |
+| Body weight, kg mean (SD)             | 100.7 (18.8)                 | 102.7 (12.5)                | 99.1 (18.8)                 | 101.0 (16.8)                |
+| Race White, N (%)                     | 11 (64.7%)                   | 16 (88.9%)                  | 10 (66.7%)                  | 16 (94.1%)                  |
+| Race African-American, N (%)          | 3 (17.6%)                    | 1 (5.6%)                    | 4 (26.7%)                   | 1 (5.9%)                    |
+| Race Asian, N (%)                     | 1 (5.9%)                     | 1 (5.6%)                    | 0 (0.0%)                    | 0 (0.0%)                    |
+| Race Native or American Indian, N (%) | 0 (0.0%)                     | 0 (0.0%)                    | 1 (6.7%)                    | 0 (0.0%)                    |
+| Race Other, N (%)                     | 2 (11.8%)                    | 0 (0.0%)                    | 0 (0.0%)                    | 0 (0.0%)                    |
+| Ethnicity Hispanic, N (%)             | 3 (17.6%)                    | 2 (11.1%)                   | 2 (13.3%)                   | 2 (11.8%)                   |
+| Ethnicity not Hispanic, N (%)         | 14 (82.4%)                   | 16 (88.9%)                  | 13 (86.7%)                  | 15 (88.2%)                  |
+
+
+### Reduction in Body Weight by Week 48
+
+| Treatment                 | LS Mean Weight Loss (% ± SE) |
+| ------------------------- | ---------------------------- |
+| Placebo (N=97)            | -2.2                         |
+| 1.2 mg pemvidutide (N=98) | -10.3\*\*\*                  |
+| 1.8 mg pemvidutide (N=99) | -11.2\*\*\*                  |
+| 2.4 mg pemvidutide (N=97) | -15.6\*\*\*                  |
+
+
+| Week | placebo | 1.2 mg pemvidutide | 1.8 mg pemvidutide | 2.4 mg pemvidutide |
+| ---- | ------- | ------------------ | ------------------ | ------------------ |
+| 0    | 0       | 0                  | 0                  | 0                  |
+| 4    | -1.0    | -3.5               | -3.8               | -4.2               |
+| 8    | -1.5    | -5.5               | -6.0               | -6.8               |
+| 12   | -1.8    | -7.0               | -7.8               | -8.5               |
+| 16   | -2.0    | -8.0               | -8.8               | -10.0              |
+| 20   | -2.1    | -8.8               | -9.5               | -11.2              |
+| 24   | -2.2    | -9.2               | -10.0              | -12.2              |
+| 28   | -2.2    | -9.5               | -10.5              | -13.0              |
+| 32   | -2.2    | -9.8               | -10.8              | -13.8              |
+| 36   | -2.2    | -10.0              | -11.0              | -14.5              |
+| 40   | -2.2    | -10.2              | -11.1              | -15.0              |
+| 44   | -2.2    | -10.3              | -11.2              | -15.4              |
+| 48   | -2.2    | -10.3              | -11.2              | -15.6              |
+
+
+Data are means ± SE. *** p < 0.001 vs. placebo, mixed model for repeated measures
+
+### Lean Loss Ratio at Week 48
+
+| Metric                                     | Value |
+| ------------------------------------------ | ----- |
+| Lean Loss Ratio (slope of regression line) | 21.9% |
+| R²                                         | 0.663 |
+
+
+\*Change in Total Mass = Lean Mass Loss + Adipose Mass Loss; n=50 across all dose groups
+
+### Lean Loss Ratio at Week 48 by Age Subgroup
+
+| SUBJECTS < 60 YEARS OLD (N=38)             | SUBJECTS < 60 YEARS OLD (N=38) |
+| ------------------------------------------ | ------------------------------ |
+| Metric                                     | Value                          |
+| Lean Loss Ratio (slope of regression line) | 22.5%                          |
+
+
+| SUBJECTS ≥ 60 YEARS OLD (N=12)             | SUBJECTS ≥ 60 YEARS OLD (N=12) |
+| ------------------------------------------ | ------------------------------ |
+| Metric                                     | Value                          |
+| Lean Loss Ratio (slope of regression line) | 19.9%                          |
+
+
+### Change in Adipose Tissue Depots at Week 48
+
+| Treatment          | TAT (N=67)   | SAT (N=67)   | VAT (N=67) |
+| ------------------ | ------------ | ------------ | ---------- |
+| Placebo            | -4.4%        | -4.7%        | -4.4%      |
+| 1.2 mg pemvidutide | -10.9%\*     | -11.5%\*     | -8.8%      |
+| 1.8 mg pemvidutide | -11.9%\*     | -13.0%\*     | -15.6%\*   |
+| 2.4 mg pemvidutide | -18.8%\*\*\* | -19.5%\*\*\* | -28.3%\*\* |
+
+
+Data are means ± SE. * p<0.05, ** p<0.01, *** p<0.001 vs placebo (ANCOVA)
+
+## Conclusions
+
+* Lean Loss Ratio of only 21.9%, representing class-leading preservation of lean mass in all age groups
+
+* Preferential reduction of VAT, which is associated with reduced risk for cardiovascular disease
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_1.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_2.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p1_3.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/img_p8_4.png' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_9.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_9_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_9_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_9_chart_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_9_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_9_chart_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_9_table_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_9_chart_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 9]({{ '/companies/altimmune/pemvidutide/presentations_posters/dfc65cb8-84e6-45c5-8a73-5fec4159aeba_images/page_9_chart_4_v2.jpg' | relative_url }})

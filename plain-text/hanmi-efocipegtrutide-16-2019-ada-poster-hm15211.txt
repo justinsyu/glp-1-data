@@ -1,0 +1,264 @@
+# A double-blinded, placebo controlled single ascending dose study to assess safety, tolerability, pharmacokinetics, and pharmacodynamics of a novel long-acting GLP-1/GIP/Glucagon triple agonist (HM15211) in healthy obese subjects.
+
+982-P
+
+Hanmi logo
+
+Jae Duk Choi¹, Seungjae Baek¹, Youngmin Kim¹, Kahee Eun¹, Se Chang Kwon¹, Linda Morrow², Marcus Hompesch²*
+¹Hanmi Pharmaceutical Co., Ltd. Seoul, South Korea, ²ProSciento, Inc. Chula Vista, CA, USA, *Corresponding Author
+
+## ABSTRACT
+
+HM15211 is a novel long-acting GLP-1/GIP/Glucagon triple-receptor co-agonist conjugated with a human IgG Fc fragment to extend its half-life. HM15211 has shown therapeutic potential in animal models of NASH- and -dyslipidemia. This study was a randomized, double-blind, placebo-controlled First-In-Human trial designed to assess safety, pharmacokinetics, and pharmacodynamics of single subcutaneous doses of HM15211 in obese but otherwise healthy adult subjects (41 subjects, mean age 45.7 years, 51.2% males, mean BMI 33.6 kg/m²). Subjects were randomized to one of 5 sequential ascending doses of either HM15211 or matching placebo. HM15211 was safe and well-tolerated in this population with no significant changes in heart rate, blood pressure, ECG, physical exams, and clinical laboratory tests. There was no subject who discontinued the study due to an adverse event and there were no serious adverse events. Compared to placebo, HM15211 suppressed corresponding endogenous incretins and reduced circulating amino acids levels in a dose dependent manner, which may be related to the mode of action of HM15211. Plasma concentration of HM15211 reached its peak level (T<sub>max</sub>) in 31.20 to 68.08 hours. Plasma AUC<sub>0-inf</sub> and C<sub>max</sub> increased in a dose-proportional manner and the terminal half-life (t<sub>1/2</sub>) was 72.09 to 142.10 hours. In conclusion, single doses of HM15211 were well tolerated, showed PK profiles suitable for weekly administration, and initial evidence in support of the hypothesized mode of action. Clinical studies in obese NAFLD/NASH patients will follow.
+
+## BACKGROUND
+
+HM15211 is a GLP-1/GIP/GCG triple agonist, conjugated with a human IgG Fc fragment via a flexible PEG linker
+
+General Profile of HM15211 diagram showing GLP-1, GCG, and GIP receptors linked to Aglycosylated Fc
+
+**[General Profile of HM15211]**
+
+* Potential to improve lipid profiles, and anti-inflammatory effects through the addition of GIP activity
+
+* High glucagon activity favors liver preferential activity and maybe advantageous for NASH treatment
+
+* The extended half life is sufficient for weekly dosing
+
+* Good Solubility (≥ 150 mg/mL) & bioavailability (≥ 95 %)
+
+## STUDY DESIGN
+
+Study Design flowchart showing screening, dosing cohorts (0.01 to 0.12 mg/kg), in-house period, outpatient visits, and follow-up
+
+### Study Objectives
+
+* Primary objectives
+
+  - To assess safety and tolerability of HM15211 after single subcutaneous (SC) doses
+
+  - To assess pharmacokinetic (PK) profiles of HM15211
+
+* Secondary objectives
+
+  - To assess pharmacodynamic (PD) properties of HM15211
+
+## RESULTS
+
+### Table 1. Baseline Characteristics
+
+|                                           | HM15211<br/>0.01 mg/kg<br/>(N=6) | HM15211<br/>0.02 mg/kg<br/>(N=6) | HM15211<br/>0.04 mg/kg<br/>(N=6) | HM15211<br/>0.08 mg/kg<br/>(N=7) | HM15211<br/>0.12 mg/kg<br/>(N=6) | Placebo (N=10) |
+| ----------------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------- |
+| Ages: years (SD)                          | 41.0 (14.3)                      | 36.3 (11.8)                      | 54.0 (6.1)                       | 49.7 (11.1)                      | 43.8 (13.5)                      | 47.4 (6.6)     |
+| Sex: M/F (%)                              | 50/50                            | 33/67                            | 67/33                            | 43/57                            | 67/33                            | 50/50          |
+| Race (%)                                  |                                  |                                  |                                  |                                  |                                  |                |
+| White                                     | 4 (67)                           | 5 (83)                           | 2 (33)                           | 5 (71)                           | 6 (100)                          | 5 (50)         |
+| Black or African American                 | 2 (33)                           | 1 (17)                           | 4 (67)                           | 1 (14)                           | 0 (0)                            | 4 (40)         |
+| Asian                                     | 0 (0)                            | 0 (0)                            | 0 (0)                            | 0 (0)                            | 0 (0)                            | 1 (10)         |
+| Native Hawaiian or Other Pacific Islander | 0 (0)                            | 0 (0)                            | 0 (0)                            | 1 (14)                           | 0 (0)                            | 0 (0)          |
+| Weight: kg (SD)                           | 95.7 (8.5)                       | 97.1 (16.8)                      | 96.9 (10.3)                      | 92.6 (11.0)                      | 87.3 (14.5)                      | 96.0 (10.7)    |
+| BMI: kg/m2 (SD)                           | 33.2 (1.7)                       | 34.9 (3.4)                       | 33.1 (2.4)                       | 32.7 (1.8)                       | 32.7 (2.6)                       | 34.5 (3.6)     |
+
+
+\* One withdrawn subject in cohort 4 was replaced
+
+### Figure 2. Serum PK Exposure of HM15211 (semi-log)
+
+| Day | 0.01 mg/kg (N=5) | 0.02 mg/kg (N=6) | 0.04 mg/kg (N=6) | 0.08 mg/kg (N=7) | 0.12 mg/kg (N=6) |
+| --- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+| 1   | 10               | 20               | 40               | 80               | 150              |
+| 2   | 30               | 70               | 120              | 230              | 380              |
+| 3   | 25               | 60               | 110              | 210              | 350              |
+| 4   | 20               | 50               | 100              | 190              | 320              |
+| 7   | 10               | 30               | 70               | 150              | 250              |
+| 10  | 5                | 15               | 40               | 100              | 180              |
+| 14  | 2                | 8                | 20               | 60               | 120              |
+| 17  | 1                | 5                | 12               | 40               | 80               |
+| 21  |                  | 2                | 6                | 25               | 50               |
+| 24  |                  | 1                | 3                | 15               | 30               |
+| 28  |                  |                  | 1                | 8                | 15               |
+
+
+* Presented data are mean with standard deviation (SD)
+
+* A subject in cohort 1, whose concentration is BLQ at all time-points, are excluded in the analysis
+
+### Table 2. Pharmacokinetic parameters
+
+|                                     | HM15211<br/>0.01 mg/kg<br/>(N=5) | HM15211<br/>0.02 mg/kg<br/>(N=6) | HM15211<br/>0.04 mg/kg<br/>(N=6) | HM15211<br/>0.08 mg/kg<br/>(N=7) | HM15211<br/>0.12 mg/kg<br/>(N=6) |
+| ----------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| Cₘₐₓ (ng/mL)                        | 29.76 (14.707)                   | 70.52 (39.699)                   | 127.52 (34.227)                  | 232.14 (82.495)                  | 383.67 (185.738)                 |
+| Tₘₐₓ (hr)                           | 31.20 (10.733)                   | 42.03 (16.527)                   | 66.01 (25.996)                   | 61.71 (40.652)                   | 68.08 (43.316)                   |
+| T1/2 (hr)                           | 72.09 (44.939)                   | 77.24 (26.196)                   | 89.26 (20.012)                   | 142.10 (54.641)                  | 79.18 (19.989)                   |
+| AUC0-inf (ng/mL∙h)                  | 5034.63 (1322.73)                | 10189.05 (4584.02)               | 24603.83 (8530.78)               | 52575.52 (5808.64)               | 90903.07 (34897.44)              |
+| Dose-normalized Cₘₐₓ (ng/mL/mg)     | 30.73 (13.34)                    | 35.99 (21.21)                    | 33.13 (9.70)                     | 31.46 (11.00)                    | 38.39 (23.25)                    |
+| Dose-normalized AUCinf (ng/mL∙h/mg) | 5899.11 (1373.98)                | 5099.07 (1912.91)                | 8021.05 (3986.35)                | 8887.11 (4052.88)                | 8718.46 (3084.28)                |
+
+
+* Parameters are mean with standard deviation (SD)
+
+### Table 3. Summary of Adverse Events
+
+| TEAE Category<br/>No. of Subjects (%)     | HM15211<br/>0.01 mg/kg<br/>(N=6) | HM15211<br/>0.02 mg/kg<br/>(N=6) | HM15211<br/>0.04 mg/kg<br/>(N=6) | HM15211<br/>0.08 mg/kg<br/>(N=7) | HM15211<br/>0.12 mg/kg<br/>(N=6) | Placebo (N=10) |
+| ----------------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------------------------- | -------------- |
+| Any TEAE                                  | 3 (50.0)                         | 2 (33.3)                         | 3 (50.0)                         | 7 (100.0)                        | 4 (66.7)                         | 7 (70.0)       |
+| Maximum Severity of TEAE                  |                                  |                                  |                                  |                                  |                                  |                |
+| Mild                                      | 3 (50.0)                         | 2 (33.3)                         | 3 (50.0)                         | 6 (85.7)                         | 3 (50.0)                         | 7 (70.0)       |
+| Moderate                                  | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 1a (14.3)                        | 1b (16.7)                        | 0 (0.0)        |
+| Severe                                    | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)        |
+| Any Serious TEAE                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)        |
+| Any TEAE Leading to Study Discontinuation | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)        |
+| Any TEAE Related to Study Medication      | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 5 (71.4)                         | 4 (66.7)                         | 1 (10.0)       |
+| Gastrointestinal disorders                | 0 (0.0)                          | 0 (0.0)                          | 1 (16.7)                         | 4 (57.1)                         | 4 (66.7)                         | 1 (10.0)       |
+| Abdominal distension                      | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 1 (16.7)                         | 0 (0.0)        |
+| Abdominal pain                            | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 1 (14.3)                         | 1 (16.7)                         | 0 (0.0)        |
+| Abdominal pain upper                      | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 1 (14.3)                         | 0 (0.0)                          | 0 (0.0)        |
+| Abdominal tenderness                      | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 1 (10.0)       |
+| Diarrhea                                  | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 1 (14.3)                         | 0 (0.0)                          | 0 (0.0)        |
+| Dyspepsia                                 | 0 (0.0)                          | 0 (0.0)                          | 1 (16.7)                         | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)        |
+| Nausea                                    | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 4 (57.1)                         | 4 (66.7)                         | 0 (0.0)        |
+| Vomiting                                  | 0 (0.0)                          | 0 (0.0)                          | 0 (0.0)                          | 2 (28.6)                         | 2 (33.3)                         | 0 (0.0)        |
+
+
+* Most of AEs were mild, and all of GI events were observed at the highest two doses (HM15211 0.08 and 0.12 mg/kg) including each one of moderate case of nausea (a) and vomiting (b), respectively
+
+### Figure 3. Gastrointestinal Events over Time (Day)
+
+| Day | 0.01 mg/kg | 0.02 mg/kg | 0.04 mg/kg | 0.08 mg/kg | 0.12 mg/kg |
+| --- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| 1   | 0          | 0          | 0          | 0          | 0          |
+| 2   | 0          | 0          | 0          | 0          | 0          |
+| 3   | 0          | 0          | 1          | 2          | 0          |
+| 4   | 0          | 0          | 0          | 4          | 4          |
+| 5   | 0          | 0          | 0          | 2          | 2          |
+| 6   | 0          | 0          | 0          | 1          | 1          |
+| 7   | 0          | 0          | 0          | 1          | 1          |
+| 8   | 0          | 0          | 0          | 0          | 0          |
+| 9   | 0          | 0          | 0          | 0          | 0          |
+| 10  | 0          | 0          | 0          | 0          | 0          |
+
+
+* Total 19 GI related events occurred in 9 subjects in active treatment group. And, each total 1, 10 and 8 GI events occurred in cohort 3, cohort 4 and 5, respectively
+
+* The most frequent gastrointestinal events were nausea and vomiting. Each cases occurred were indicated as dyspepsia and abdominal pain upper on Day 3 and diarrhea and abdominal pain on Day 4 and 6
+
+### Figure 4. 24 hr Ambulatory Monitoring: Heart Rate and Systolic/Diastolic Blood Pressure at peak PK Concentration
+
+| Day   | Baseline (bpm) | 0.01 mg/kg | 0.02 mg/kg | 0.04 mg/kg | 0.08 mg/kg | 0.12 mg/kg |
+| ----- | -------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Day 2 | 72.1           | 2.0        | 3.3        |            |            |            |
+| Day 4 | 67.3           |            |            | -1.5       |            | 1.8        |
+| Day 3 | 70.6           |            |            |            | 3.3        |            |
+| Day 4 | 58.7           |            |            |            |            |            |
+
+
+| Day   | Baseline SBP (mmHg) | 0.01 mg/kg | 0.02 mg/kg | 0.04 mg/kg | 0.08 mg/kg | 0.12 mg/kg |
+| ----- | ------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Day 2 | 119.4               | -1.5       | -0.7       |            |            |            |
+| Day 4 | 126.3               |            |            | 2.3        |            | -7.9       |
+| Day 3 | 118.4               |            |            |            | 0.7        |            |
+
+
+| Day   | Baseline DBP (mmHg) | 0.01 mg/kg | 0.02 mg/kg | 0.04 mg/kg | 0.08 mg/kg | 0.12 mg/kg |
+| ----- | ------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Day 2 | 76.7                | -1.5       | -2.3       |            |            |            |
+| Day 4 | 77.9                |            |            | -2.2       |            | -2.9       |
+| Day 3 | 72.8                |            |            |            | -0.6       |            |
+
+
+* Presented data are mean with standard deviation (SD)
+
+* Heart rate and Blood Pressure at peak drug concentration were assessed on Day 2 for cohort 1 and 2, and on Day 4 for cohort 3 and 5, and on Day 3 for cohort 4
+
+### Table 4. Change from Baseline (24 hr Ambulatory Monitoring)
+
+|                  | HM15211 0.01 mg/kg | HM15211 0.02 mg/kg | HM15211 0.04 mg/kg | HM15211 0.08 mg/kg | HM15211 0.12 mg/kg | Placebo       |
+| ---------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------- |
+| HR (bpm)         | 2.0 (3.5)          | 3.3 (4.1)          | -1.5 (4.4)         | 3.3 (4.8)          | 1.8 (4.7)          | 0.4 (4.2)     |
+| SPB (mmHg)       | -1.5 (10.4)        | -0.7 (3.1)         | 2.3 (15.4)         | 0.7 (12.3)         | -7.9 (10.3)        | 0.5 (8.2)     |
+| DBP (mmHg)       | -1.5 (5.6)         | -2.3 (4.3)         | -2.2 (6.9)         | -0.6 (6.3)         | -2.9 (7.9)         | -3.3 (4.7)    |
+| RPP (bpm x mmHg) | 146.5 (802.8)      | 336.5 (661.1)      | -123.5 (567.1)     | 478.0 (936.3)      | -299.6 (1090.6)    | 185.3 (987.1) |
+
+
+* RPP: Rate pressure product
+
+* Presented data are mean with standard deviation (SD)
+
+* Heart rate and Blood Pressure at peak drug concentration were assessed on Day 2 for cohort 1 and 2, and on Day 4 for cohort 3 and 5, and on Day 3 for cohort 4
+
+### Figure 5. Incretins and Glucagon at peak PK Concentration
+
+Grouped bar charts showing % changes from baseline for GLP-1 Total, Glucagon, and GIP Total in Fasting and Postprandial states across dose cohorts
+
+* Presented data are mean with standard deviation (SD)
+
+* Incretin levels were assessed on 48 hours after dosing for fasting and 36 hours after for postprandial
+
+## CONCLUSIONS
+
+* HM15211 was safe and well tolerated after a single SC injection in healthy subjects
+
+* The PK profiles of up to 0.12 mg/kg subcutaneous injection of HM15211 showed a dose dependent increase in circulating HM15211 and the potential for weekly dosing
+
+* The reduction in incretins and glucagon confirmed the hypothesized effects of HM15211 on those biomarkers
+
+* A Phase 1, 12-week multiple ascending dose study to establish safety, MTD and initial PD is currently ongoing in obese NAFLD subjects
+
+American Diabetes Association’s (ADA) 79ᵗʰ Scientific Sessions, San Francisco, CA, USA; June 07-11, 2019
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/img_p0_1.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/img_p0_2.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/img_p0_4.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/img_p0_5.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/img_p0_6.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/img_p0_7.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_table_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_table_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_table_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_chart_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_chart_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_chart_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_table_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_chart_7_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_chart_8_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_chart_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_chart_9_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_chart_11_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_chart_10_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_table_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/16.2019_ADA_Poster_HM15211_images/page_1_image_5_v2.jpg' | relative_url }})

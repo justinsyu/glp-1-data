@@ -1,0 +1,260 @@
+EASL CONGRESS Milan, Italy 2024 5-8 June logo EASL CONGRESS Milan, Italy 2024 5-8 June text
+
+# Plasma lipidomic profiling of subjects with overweight or obesity following treatment with the glucagon-like peptide 1/glucagon dual receptor agonist pemvidutide: an investigation of lipid signatures associated with metabolic dysfunction-associated steatohepatitis
+
+J. Suschak¹, B. Georges¹, S. Browne¹, C. Alonso², <u>S. Roberts</u>¹, S. Harris¹
+1 Altimmune, Inc; Gaithersburg, MD, USA; 2 OWL Metabolomics, Derio, Spain
+
+altimmune logo
+
+**Pemvidutide significantly decreased serum lipids including inflammatory lipid sub-species at Week 12.**
+
+| Lipid Category    | placebo | 1.2 mg pemvidutide | 1.8 mg pemvidutide | 2.4 mg pemvidutide |
+| ----------------- | ------- | ------------------ | ------------------ | ------------------ |
+| Triglycerides     | -8.2    | -37.0\*\*          | -37.9\*\*\*        | -29.3\*            |
+| Total Cholesterol | -9.1    | -19.9\*            | -28.0\*            | -27.7\*            |
+| LDL Cholesterol   | -4.3    | -18.4\*            | -25.6\*            | -23.9\*            |
+
+
+Figure 1. Pemvidutide treatment yielded significant decreases in serum lipids in subjects with overweight/obesity at Week 12. Relative change in serum lipids. p-values: \*p<0.05, \*\*p<0.005, \*\*\*p<0.001, vs. placebo
+
+## Introduction
+
+* Approximately 70% of people with either obesity or MASH have dysregulated serum lipid profiles, with high levels of lipids and toxic lipid species associated with increased cardiovascular risk,
+
+* Dyslipidemia can result in increased hepatic and systemic inflammation, exacerbating comorbidities such as cardiovascular disease and insulin resistance
+
+* Pemvidutide is a balanced glucagon-like peptide 1 (GLP-1)/glucagon dual receptor agonist in clinical development for the treatment of MASH and obesity
+
+* Pemvidutide achieved up to 15.6% weight loss in a 48-week clinical trial of subjects with obesity and 68.5% relative liver fat reduction in a 12-week clinical trial of subjects with MASLD
+
+## Aim
+
+* To analyze the change in lipidomic profile of subjects with overweight/obesity (NCT04561245) or overweight/obesity and MASLD (NCT05006885) following pemvidutide treatment
+
+## Methods
+
+* Subjects with overweight/obesity or overweight/obesity and MASLD were treated with pemvidutide (1.2 mg, 1.8 mg, 2.4 mg) or placebo administered subcutaneously weekly for 12 weeks
+
+* Plasma samples from study completers were analyzed by ultra-high performance liquid chromatography–mass spectrometry (UHPLC-MS) or nuclear magnetic resonance (NMR) at baseline, Week 6, and Week 12
+
+## Results
+
+* Pemvidutide achieved significant reductions from baseline across multiple glycero- and phospholipid sub-species associated with MASH, including triglycerides, lysophosphatidylinositols (Lyso-PI) and lysophosphatidylethanolamines (Lyso-PE)
+
+* Pemvidutide treatment resulted in significant reductions in atherosclerotic sphingolipids including ceramides
+
+* Pemvidutide improved bile acid dysregulation, yielding reductions in glycol- and tauro-conjugated bile acids
+
+## Conclusions
+
+* Pemvidutide administered weekly resulted in significant improvements in plasma lipidomic profiles, including reductions in triglycerides and MASH-associated glycero- and phospholipid species at 12 weeks of treatment
+
+* Decreases in cardio-inflammatory Lyso-PI and Lyso-PC sub-species may reduce cardiovascular disease
+
+* Lyso-PE decreases may reduce fat accumulation in MASH patient livers (Yamamoto et al. 2022)
+
+* Elevated glycol- and tauro-conjugated bile acids are associated with fibrosis and increased MASLD activity, suggesting that pemvidutide improves these histological factors (Kalhan et al. 2011)
+
+* These findings support pemvidutide’s potential benefit on MASH-associated co-morbidities, including atherosclerosis and metabolic syndrome
+
+* These data support the evaluation of pemvidutide in an ongoing biopsy-confirmed, 24-week Phase 2b MASH trial (IMPACT: NCT05989711)
+
+## Subjects with Obesity
+
+A.
+
+| Lipid Class          | Common name      | Individual notation | PBO (n=10) | Pemvidutide<br/>1.2mg (n=6) | 1.8mg (n=9) | 2.4mg (n=9) |
+| -------------------- | ---------------- | ------------------- | ---------- | --------------------------- | ----------- | ----------- |
+| Glycerophospholipids | Lyso-PI          | LPI(18:1)           |            |                             |             | \*\*        |
+|                      |                  | LPI(18:1)           |            | \*                          |             | \*\*        |
+|                      |                  | LPI(18:2)           |            | \*                          |             | \*\*        |
+|                      |                  | LPI(18:2)           |            |                             |             | \*\*        |
+|                      | Lyso-PC          | PC(18:3/0:0)        |            |                             | \*\*\*      | \*\*\*      |
+|                      |                  | PC(0:0/14:0)        |            |                             | \*\*        | \*\*\*      |
+|                      | Lyso-PE          | PE(16:1/0:0)        |            | \*\*                        | \*\*        | \*\*\*      |
+|                      |                  | PE(20:3/0:0)        |            |                             |             | \*\*\*      |
+|                      |                  | PE(0:0/16:1)        |            | \*\*                        | \*\*\*      |             |
+|                      |                  | PE(0:0/18:2)        |            |                             | \*\*\*      | \*\*        |
+| Sphingolipids        | Ceramides        | Cer(d18:1/24:0)     |            | \*\*                        | \*\*        | \*\*\*      |
+|                      |                  | Cer(d18:1/23:0)     |            | \*\*                        | \*\*        | \*\*        |
+|                      | CMH              | CMH(d18:1/24:0)     |            | \*\*                        | \*\*\*      | \*\*\*      |
+| Sterols              | Steroid sulfates | Andros-S            |            |                             | \*\*        | \*\*\*      |
+| Glycoproteins        | Acetyls          | GlycA               |            |                             |             |             |
+|                      |                  | GlycB               |            |                             |             |             |
+|                      |                  | GlycF               |            |                             |             |             |
+| Bile Acids           | Glyco-conjugated | H/W Glyc-A          |            |                             |             |             |
+|                      |                  | H/W Glyc-B          |            |                             |             |             |
+|                      | Tauro-conjugated | GDCA                |            |                             |             |             |
+|                      |                  | TCA                 |            |                             |             |             |
+
+
+B.
+
+| Lipid Class      | Individual notation | PBO (n=10) | Pemvidutide<br/>1.2mg (n=6) | Pemvidutide<br/>1.8mg (n=9) | 2.4mg (n=9) |
+| ---------------- | ------------------- | ---------- | --------------------------- | --------------------------- | ----------- |
+| Triacylglycerols | TG(44:1)            |            |                             | \*\*                        |             |
+|                  | TG(44:2)            |            |                             | \*\*                        | \*\*\*      |
+|                  | TG(45:1)            |            |                             | \*                          |             |
+|                  | TG(46:0)            |            | \*\*                        | \*\*                        | \*\*\*      |
+|                  | TG(46:1)            |            | \*\*                        | \*\*\*                      | \*\*\*      |
+|                  | TG(46:2)            |            | \*                          |                             | \*          |
+|                  | TG(46:3)            |            |                             | \*\*\*                      | \*\*\*      |
+|                  | TG(46:3)            |            | \*\*                        | \*                          | \*\*\*      |
+|                  | TG(47:0)            |            |                             | \*                          |             |
+|                  | TG(47:1)            |            |                             |                             | \*\*\*      |
+|                  | TG(47:2)            |            | \*\*                        | \*\*                        | \*\*\*      |
+|                  | TG(48:0)            |            |                             |                             |             |
+|                  | TG(48:1)            |            |                             | \*                          | \*          |
+|                  | TG(48:2)            |            |                             | \*\*\*                      | \*\*        |
+|                  | TG(48:3)            |            | \*\*                        | \*\*\*                      | \*\*\*      |
+|                  | TG(49:1)            |            |                             |                             |             |
+|                  | TG(49:2)            |            |                             |                             |             |
+|                  | TG(49:3)            |            |                             | \*\*\*                      | \*\*\*      |
+|                  | TG(50:0)            |            |                             |                             |             |
+|                  | TG(50:1)            |            |                             |                             |             |
+|                  | TG(50:2)            |            |                             |                             |             |
+|                  | TG(50:3)            |            | \*                          | \*                          |             |
+|                  | TG(50:4)            |            |                             |                             |             |
+|                  | TG(51:1)            |            |                             |                             |             |
+|                  | TG(51:2)            |            |                             |                             | \*          |
+|                  | TG(51:3)            |            |                             |                             |             |
+|                  | TG(52:1)            |            |                             |                             |             |
+|                  | TG(53:1)            |            | \*                          |                             |             |
+
+
+Figure 3. Pemvidutide treatment improved MASH-associated lipids in subjects with overweight/obesity at Week 6. (A) Changes in phospholipid sub-species, sterols, inflammatory glycoproteins, and bile acids. (B) Changes in triglyceride sub-species. The color code represents the log₂(robust fold-change from baseline). Wilcoxon signed rank test p-values: \*p<0.05, \*\*p<0.01, \*\*\*p<0.001, vs. baseline.
+
+## Subjects with MASLD
+
+A.
+
+| Lipid Class          | Common name      | Individual notation | PBO (n=13) | Pemvidutide<br/>1.2mg (n=15) | 1.8mg (n=15) | 2.4mg (n=7) |
+| -------------------- | ---------------- | ------------------- | ---------- | ---------------------------- | ------------ | ----------- |
+| Glycerophospholipids | Lyso-PI          | LPI(16:0)           |            |                              |              |             |
+|                      |                  | LPI(18:1)           |            |                              |              |             |
+|                      |                  | LPI(18:1)           |            |                              |              |             |
+|                      |                  | LPI(18:2)           |            | \*\*                         | \*\*         |             |
+|                      |                  | LPI(18:2)           |            |                              |              |             |
+|                      | Lyso-PC          | LPI(20:3)           |            |                              | \*           |             |
+|                      |                  | PC(18:3/0:0)        |            |                              |              |             |
+|                      |                  | PC(0:0/14:0)        |            |                              |              |             |
+|                      | Lyso-PE          | PC(14:0/0:0)        |            | \*\*\*                       | \*\*         |             |
+|                      |                  | PE(20:3/0:0)        |            | \*\*\*                       | \*\*         |             |
+|                      |                  | PE(0:0/16:1)        |            | \*\*\*                       |              |             |
+| Sphingolipids        | Ceramides        | PE(0:0/18:2)        |            | \*                           |              |             |
+|                      |                  | PE(0:0/20:3)        |            | \*\*\*                       |              |             |
+|                      |                  | Cer(d18:1/21:0)     |            |                              | \*           |             |
+|                      |                  | Cer(d18:1/22:0)     |            |                              |              |             |
+|                      | CMH              | Cer(d18:1/24:0)     |            |                              |              |             |
+| Sphingomyelin        | Sphingomyelin    | Cer(d18:1/23:0)     |            | \*                           | \*\*         |             |
+|                      |                  | CMH(d18:1/23:0)     |            | \*\*                         |              |             |
+|                      |                  | CMH(d18:1/24:0)     | \*         | \*\*\*                       |              |             |
+|                      |                  | SM(d18:0/22:0)      |            | \*\*\*                       | \*\*         |             |
+| Sterols              | Steroid sulfates | SM(d18:1/12:0)      |            | \*\*                         |              |             |
+| Bile Acids           | Glyco-conjugated | SM(d18:1/23:0)      |            |                              |              |             |
+|                      |                  | SM(d18:1/25:0)      |            |                              |              |             |
+|                      | Tauro-conjugated | Andros-S            | \*\*       | \*\*\*                       |              |             |
+|                      |                  | GDCA                | \*         | \*\*                         |              |             |
+
+
+B.
+
+| Lipid Class      | Individual notation | PBO (n=13) | Pemvidutide<br/>1.2mg (n=15) | Pemvidutide<br/>1.8mg (n=15) | 2.4mg (n=7) |
+| ---------------- | ------------------- | ---------- | ---------------------------- | ---------------------------- | ----------- |
+| Triacylglycerols | TG(47:1)            |            |                              |                              |             |
+|                  | TG(47:2)            |            |                              |                              |             |
+|                  | TG(48:0)            |            |                              |                              |             |
+|                  | TG(48:1)            |            |                              |                              |             |
+|                  | TG(48:2)            |            |                              |                              |             |
+|                  | TG(48:3)            |            |                              |                              |             |
+|                  | TG(49:1)            |            |                              |                              |             |
+|                  | TG(49:2)            |            |                              |                              |             |
+|                  | TG(49:3)            |            |                              |                              |             |
+|                  | TG(50:0)            |            |                              |                              |             |
+
+
+Log2 Fold Change scale
+
+Figure 4. Pemvidutide treatment improved MASH-associated lipids in subjects with MASLD at Week 6. (A) Changes in phospholipid sub-species, sterols, and bile acids. (B) Changes in triglyceride sub-species. The color code represents the log₂(robust fold-change from baseline). Wilcoxon signed rank test p-values: \*\*p<0.01, \*\*\*p<0.001, vs. baseline.
+
+| Lipid Class          | Common name      | Individual notation | PBO (n=10) | Pemvidutide<br/>1.2mg (n=6) | 1.8mg (n=9) | 2.4mg (n=9) |
+| -------------------- | ---------------- | ------------------- | ---------- | --------------------------- | ----------- | ----------- |
+| Glycerophospholipids | Lyso-PI          | LPI(18:1)           |            |                             |             | \*\*        |
+|                      |                  | LPI(18:1)           | \*         |                             |             | \*\*        |
+|                      |                  | LPI(18:2)           | \*         |                             |             | \*\*        |
+|                      |                  | LPI(18:2)           |            |                             |             | \*\*        |
+|                      | Lyso-PC          | PC(18:3/0:0)        |            |                             | \*\*\*      |             |
+|                      |                  | PC(0:0/14:0)        | \*\*       | \*\*\*                      |             |             |
+|                      | Lyso-PE          | PE(16:1/0:0)        |            |                             | \*\*\*      | \*\*\*      |
+|                      |                  | PE(20:3/0:0)        |            |                             | \*\*\*      | \*\*        |
+| Sphingolipids        | Ceramides        | Cer(d18:1/24:0)     |            | \*\*                        | \*\*\*      |             |
+|                      |                  | Cer(d18:1/23:0)     | 22         | \*\*                        | \*\*        | \*\*        |
+|                      | CMH              | CMH(d18:1/24:0)     | \*\*       | \*\*\*                      | \*\*\*      |             |
+| Sphingomyelin        | Sphingomyelin    | SM(d18:1/12:0)      |            | \*                          |             |             |
+| Sterols              | Steroid sulfates | Andros-S            |            | \*\*                        |             |             |
+| Glycoproteins        | Acetyls          | GlycA               |            |                             |             |             |
+|                      |                  | GlycB               |            |                             |             |             |
+|                      |                  | GlycF               |            |                             |             |             |
+| Bile Acids           | Glyco-conjugated | H/W Glyc-A          |            |                             |             |             |
+|                      |                  | H/W Glyc-B          |            |                             |             |             |
+|                      | Tauro-conjugated | GDCA                |            |                             |             |             |
+|                      |                  | TCA                 |            |                             |             |             |
+
+
+Figure 2. Pemvidutide treatment improved MASH-associated lipotoxic species in subjects with overweight/obesity at Week 12. Changes in phospholipid sub-species, sterols, inflammatory glycoproteins, and bile acids. The color code represents the log₂(robust fold-change). Wilcoxon signed rank test p-values: \*p<0.05, \*\*p<0.01, \*\*\*p<0.001, vs. baseline.
+
+### Contact information
+
+John J. Suschak: jsuschak@altimmune.com
+https://altimmune.com/
+
+### References
+
+* Yamamoto, Y et al. Nutrients 2022 PMC8839386
+
+* Kalhan, S et al. Metabolism 2011 PMC2950914
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/img_p0_1.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/img_p0_2.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/img_p0_3.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/img_p0_4.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/img_p0_5.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/img_p0_6.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/img_p0_7.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/img_p0_8.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/img_p0_9.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/img_p0_10.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/img_p0_11.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/page_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/page_1_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/page_1_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/page_1_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/page_1_image_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/page_1_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/page_1_image_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/page_1_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/page_1_image_7_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/page_1_table_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/altimmune/pemvidutide/presentations_posters/cab60f60-cc4a-4058-a108-31ca55d1a994_images/page_1_chart_2_v2.jpg' | relative_url }})

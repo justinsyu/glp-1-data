@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://justinsyu.github.io/glp-1-data/sitemap.xml

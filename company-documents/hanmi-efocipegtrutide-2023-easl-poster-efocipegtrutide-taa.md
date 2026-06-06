@@ -1,0 +1,198 @@
+---
+layout: document
+title: Anti-inflammatory and anti-fibrotic effects by simultaneous activation of glucagon,
+  GIP, and GLP-1 of efocipegtrutide (HM15211) in thioacetamide-induced mouse model
+  of liver injury and fibrosis
+permalink: /company-documents/hanmi-efocipegtrutide-2023-easl-poster-efocipegtrutide-taa/
+company: Hanmi Pharmaceutical
+company_slug: hanmi
+program: Efocipegtrutide / HM15211
+program_slug: efocipegtrutide
+indication: MASH
+year: ''
+conference: ''
+document_type: Presentation/Poster
+source_file: 2023_EASL_poster_efocipegtrutide_TAA.pdf
+pdf_url: /companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA.pdf
+plain_text_url: /plain-text/hanmi-efocipegtrutide-2023-easl-poster-efocipegtrutide-taa.txt
+description: Parsed presentation/poster source document for Hanmi Pharmaceutical.
+---
+
+# Anti-inflammatory and anti-fibrotic effects by simultaneous activation of glucagon, GIP, and GLP-1 of efocipegtrutide (HM15211) in thioacetamide-induced mouse model of liver injury and fibrosis
+
+Hanmi logo
+
+Jung Kuk Kim, Yohan Kim, Jong Suk Lee, Hyunjoo Kwon, Eun Jin Park, Jeong A kim, Sungmin Bae, Daejin Kim, Sang Hyun Lee, In Young Choi
+Hanmi Pharm. Co., Ltd, Seoul, South Korea
+
+WED-437
+
+## ABSTRACT
+
+**Background/Aims**: Fibrosis due to NASH becomes a major cause of liver-related outcomes such as mortality, liver transplant, hepatocellular carcinoma, and etc. Despite this serious condition, no approved drug is available to date. Recently, potential benefit of incretins, especially glucagon, GIP and GLP-1 beyond metabolism has been proposed especially in inflammation and fibrosis. Thus, the optimal implementation of these incretins could be a promising strategy for the efficient management of NASH and fibrosis. To aid this, efocipegtrutide (HM15211), a long-acting Glucagon/GIP/GLP-1 triple agonist, was developed and its therapeutic potential was observed in various animal models of NASH and/or fibrosis. Here, we further evaluated and compared the therapeutic effects of efocipegtrutide with available incretin drugs in TAA-induced liver injury and fibrosis mouse.
+
+**Methods**: To induce liver injury and fibrosis, TAA (thioacetamide) was intraperitoneally injected to mouse for 12 weeks. Efocipegtrutide (formerly known as HM15211) was administered for last 10 weeks, and semaglutide as well as tirzepatide were included as comparative control. Dosing level for each drug was based on the human relevant dosage which was utilized in NASH clinical studies. After treatment, hepatic hydroxyproline content was measured, and the liver tissues were subjected to H&E and Sirius red staining, followed by histological grading. qPCR and ELISA were performed to evaluate relevant hepatic and blood bio-markers.
+
+**Results**: Treatment of efocipegtrutide was associated with significant reduction of hepatic hydroxyproline content (231.9 nmol/g vs. 197.4 nmol/g for TAA, vehicle; p<0.001) while that of semaglutide (322.5 nmol/g) or tirzepatide (322.1 nmol/g) had minor effects. Similarly, efocipegtrutide treatment (0.83%, p<0.001), but neither semaglutide (4.93%) nor tirzepatide (3.61%), significantly reduced Sirius red positive area (vs. 5.75% for TAA, vehicle). To further confirm the potential benefit of efocipegtrutide, histological grading was conducted by using Sirius red and H&E staining, in which efocipegtrutide (1.29, 1.00 vs. 3.00, 3.00 for TAA, vehicle) exhibited greater reduction effects on both fibrosis and portal inflammation score compared to semaglutide (2.14, 2.71) or tirzepatide (2.00, 2.57). Consistent with this histologic analysis, expression of hepatic marker genes for fibrosis (i.e. collagen-1a1, collagen-3a1, and TGF-β) and inflammation (i.e. MCP1, F4/80 and IL-1bβ) were significantly/numerically reduced only in efocipegtrutide-treated group. Significant reduction in blood TiMP-1 level was also observed.
+
+**Conclusion**: Eficopegtrutide markedly improved liver inflammation and fibrosis in TAA mice. Notably, greater improvement effect over semaglutide and tirzepatide highlights the potential benefit of simultaneous use of glucagon, GIP, and GLP-1. Thus, efocipegtrutide could be a novel therapeutic option for fibrosis due to NASH. Human study is ongoing to assess the clinical relevance of these findings.
+
+## BACKGROUND
+
+Efocipegtrutide is a long-acting Glucagon/GIP/GLP-1 triple agonist conjugated with human IgG<sub>4</sub> Fc fragment via a short PEG linker
+
+Diagram showing the mechanism of action of Efocipegtrutide, a Glucagon/GIP/GLP-1 triple co-agonist, targeting the liver to manage inflammation, fibrosis, and steatosis.
+
+## STUDY DESIGN and KEY RESULTS
+
+Study design diagram showing TAA induction for 12 weeks and drug treatment (Semaglutide, Tirzepatide, Efocipegtrutide) for the last 10 weeks in C57BL/6 mice.
+
+\* Therapeutic potential of HM15211 in liver inflammation and fibrosis was evaluated in TAA mice. TAA is attributed to its toxic oxidized metabolite, which causes oxidative stress, necrosis of hepatocytes, periportal inflammatory cell infiltration and severe liver fibrosis. For this purpose, escalating doses of TAA (50-400 mg/kg) was intraperitoneally injected to mouse for 12 weeks, and HM15211 was subcutaneously administered during last 10 weeks. After treatment, liver tissue samples were prepared, followed by H&E and Sirius red staining to determine the portal inflammation and fibrosis, respectively. Hepatic hydroxyproline contents were quantified and qRT-PCR was performed to measure the expression level of hepatic inflammation- and fibrosis-related genes. Multiplex assay (MILLIPLEX®) was performed to determine blood level of pro-inflammatory cytokine.
+
+## KEY RESULTS
+
+### Figure 1. Effect of efocipegtrutide on liver fibrosis in TAA mice
+
+Representative images for Sirius red staining in Normal, TAA vehicle, Semaglutide, Tirzepatide, and Efocipegtrutide groups.
+
+| Group            | (b) Fibrosis score | (c) Sirius red positive area (%) | (d) Hepatic hydroxyproline (nmol/g liver) |
+| ---------------- | ------------------ | -------------------------------- | ----------------------------------------- |
+| Vehicle (Normal) | 0                  | 0.2                              | 180                                       |
+| Vehicle (TAA)    | 3.0                | 5.8                              | 320                                       |
+| Semaglutide      | 2.1                | 4.9                              | 325                                       |
+| Tirzepatide      | 2.0                | 3.6                              | 322                                       |
+| Efocipegtrutide  | 1.3                | 0.8                              | 197                                       |
+
+
+\> Efocipegtrutide treatment significantly reduces the score for liver fibrosis in TAA mice, and greater reduction effect is observed compared to semaglutide and tirzepatide. Similar results are confirmed in Sirius red positive area and hepatic hydroxyproline contents.
+
+### Figure 2. Effect of efocipegtrutide on liver inflammation in TAA mice
+
+(a) Representative image for H&E staining
+Representative images for H&E staining in Normal, TAA vehicle, Semaglutide, Tirzepatide, and Efocipegtrutide groups.
+
+| Group            | (b) Portal inflammation score |
+| ---------------- | ----------------------------- |
+| Vehicle (Normal) | 0                             |
+| Vehicle (TAA)    | 3.0                           |
+| Semaglutide      | 2.7                           |
+| Tirzepatide      | 2.6                           |
+| Efocipegtrutide  | 1.0                           |
+
+
+\> Efocipegtrutide treatment significantly reduces the score for portal inflammation.
+
+### Figure 3. Effect of HM15211 on surrogate efficacy markers in TAA mice
+
+| Group            | (a) TGF-β (Fold) | (a) Col1a1 (Fold) | (b) Serum TIMP-1 (ng/mL) |
+| ---------------- | ---------------- | ----------------- | ------------------------ |
+| Vehicle (Normal) | 1                | 1                 | 0.8                      |
+| Vehicle (TAA)    | 8                | 12                | 2.2                      |
+| Semaglutide      | 5                | 10                | 2.1                      |
+| Tirzepatide      | 10               | 11                | 2.0                      |
+| Efocipegtrutide  | 3                | 4                 | 1.2                      |
+
+
+\> Consistent with histology results, robust therapeutic effects of efocipegtrutide are confirmed for surrogate efficacy measurement such as hepatic marker gene expression for fibrosis and inflammation (data not shown), and blood level of TiMP-1.
+
+## CONCLUSIONS
+
+* In TAA mice, efocipegtrutide improved liver inflammation and fibrosis, and even greater improvement were observed over semaglutide (GLP-1RA) and tirzepatide (GLP-1/GIP)
+
+* Together with previous nonclinical study results, these results clearly rationalize the on-going P2b study in biopsy-proven NASH subjects
+
+Contact info: Jung Kuk Kim, kjk515@hanmi.co.kr
+
+EASL The Home of Hepatology logo
+
+European Association for the study of the liver (EASL); International Liver Congress™; Jun. 21-24, 2023
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_1.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_2.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_3.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_4.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_5.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_6.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_7.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_8.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_9.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_10.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_11.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_12.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_13.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_14.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_15.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_16.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_17.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_18.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_19.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_20.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_21.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_22.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_23.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_24.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_25.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_26.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_27.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_28.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_29.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/img_p0_30.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_chart_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_image_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_chart_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_chart_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_chart_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_image_7_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_TAA_images/page_1_image_6_v2.jpg' | relative_url }})

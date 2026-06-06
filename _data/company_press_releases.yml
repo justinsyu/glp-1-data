@@ -1,0 +1,120 @@
+- title: FDA approves Foundayo (orforglipron)
+  date: '2026-04-01'
+  company: Lilly
+  company_slug: eli-lilly
+  program: Foundayo / orforglipron
+  indication: Obesity
+  category: Regulatory decision
+  summary: FDA approval of Lilly's oral GLP-1 orforglipron for adults with obesity
+    or overweight with weight-related medical problems.
+  source_url: https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program
+- title: Retatrutide TRIUMPH-1 Phase 3 obesity topline results
+  date: '2026-05-21'
+  company: Lilly
+  company_slug: eli-lilly
+  program: Retatrutide
+  indication: Obesity
+  category: Clinical data
+  summary: Lilly reported Phase 3 TRIUMPH-1 body-weight reductions for retatrutide
+    in obesity or overweight without diabetes.
+  source_url: https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-powerful-weight-loss
+- title: FDA approves Zepbound as first medication for obstructive sleep apnea
+  date: '2024-12-20'
+  company: Lilly
+  company_slug: eli-lilly
+  program: Zepbound / tirzepatide
+  indication: OSA with obesity
+  category: Regulatory decision
+  summary: FDA approval of Zepbound for moderate-to-severe obstructive sleep apnea
+    in adults with obesity.
+  source_url: https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-obstructive-sleep-apnea
+- title: Novo Nordisk submits CagriSema NDA for obesity
+  date: '2025-12-18'
+  company: Novo
+  company_slug: novo-nordisk
+  program: CagriSema
+  indication: Obesity
+  category: Regulatory filing
+  summary: Novo Nordisk announced U.S. NDA submission for once-weekly CagriSema based
+    on REDEFINE 1 and REDEFINE 2.
+  source_url: https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916470
+- title: Amgen reports MariTide Phase 3 program progress
+  date: '2026-02-03'
+  company: Amgen
+  company_slug: amgen
+  program: MariTide
+  indication: Obesity and cardiometabolic disease
+  category: Company update
+  summary: Amgen listed ongoing MARITIME Phase 3 chronic weight management, cardiovascular,
+    heart failure, and OSA studies for MariTide.
+  source_url: https://www.amgen.com/newsroom/press-releases/2026/02/amgen-reports-fourth-quarter-and-full-year-2025-financial-results
+- title: Innovent announces mazdutide NMPA approval for chronic weight management
+  date: '2025-06-27'
+  company: Innovent
+  company_slug: innovent
+  program: Mazdutide
+  indication: Obesity/overweight
+  category: Regulatory decision
+  summary: Innovent announced China NMPA approval of mazdutide for chronic weight
+    management.
+  source_url: https://www.nasdaq.com/press-release/innovent-announces-mazdutide-first-dual-gcg-glp-1-receptor-agonist-received-approval
+- title: Innovent notes mazdutide approvals for weight management and glycemic control
+  date: '2025-11-19'
+  company: Innovent
+  company_slug: innovent
+  program: Mazdutide
+  indication: Obesity; T2D
+  category: Company update
+  summary: Innovent described mazdutide as approved by China's NMPA for weight management
+    and glycemic control in 2025.
+  source_url: https://en.innoventbio.com/InvestorsAndMedia/PressReleaseDetail?key=573
+- title: Sciwind announces ecnoglutide NMPA approval for chronic weight management
+  date: '2026-03-06'
+  company: Sciwind / Pfizer
+  company_slug: sciwind-pfizer
+  program: Ecnoglutide
+  indication: Obesity/overweight
+  category: Regulatory decision
+  summary: Sciwind announced China NMPA approval of ecnoglutide injection for chronic
+    weight management.
+  source_url: https://www.prnewswire.com/apac/news-releases/sciwind-biosciences-announces-ecnoglutide-injection-approved-by-chinas-national-medical-products-administration-nmpa-for-chronic-weight-management-302706448.html
+- title: NMPA reports efsubaglutide alfa approval
+  date: '2025-06-11'
+  company: Innogen
+  company_slug: innogen
+  program: Efsubaglutide alfa
+  indication: T2D
+  category: Regulatory decision
+  summary: China NMPA English-language update covering approval details for efsubaglutide
+    alfa.
+  source_url: https://english.nmpa.gov.cn/2025-06/11/c_1101509.htm
+- title: EMA Kyinsu EPAR
+  date: '2025-11-24'
+  company: Novo
+  company_slug: novo-nordisk
+  program: Kyinsu / IcoSema
+  indication: T2D
+  category: Regulatory decision
+  summary: EMA public assessment entry for Kyinsu, the insulin icodec and semaglutide
+    fixed-dose combination.
+  source_url: https://www.ema.europa.eu/en/medicines/human/EPAR/kyinsu
+- title: Health Canada announces generic semaglutide approval
+  date: '2026-04-28'
+  company: Novo
+  company_slug: novo-nordisk
+  program: Semaglutide monotherapy exclusion
+  indication: T2D / obesity
+  category: Generic approval
+  summary: Source used to exclude semaglutide monotherapy brands from the in-scope
+    branded/non-generic treatment set.
+  source_url: https://www.canada.ca/en/health-canada/news/2026/04/canada-becomes-the-first-g7-country-to-approve-a-generic-version-of-semaglutide.html
+- title: FDA approves first generic once-daily GLP-1 injection
+  date: '2024-12-23'
+  company: Novo
+  company_slug: novo-nordisk
+  program: Liraglutide monotherapy exclusion
+  indication: T2D
+  category: Generic approval
+  summary: Source used to exclude liraglutide monotherapy brands while retaining active
+    branded fixed-dose combinations.
+  source_url: https://www.fda.gov/news-events/press-announcements/fda-approves-first-generic-once-daily-glp-1-injection-lower-blood-sugar-patients-type-2-diabetes

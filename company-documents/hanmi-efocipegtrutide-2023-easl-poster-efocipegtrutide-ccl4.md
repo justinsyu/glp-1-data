@@ -1,0 +1,174 @@
+---
+layout: document
+title: Improvement of liver fibrosis by a novel long acting Glucagon/GIP/GLP-1 triple
+  agonist, efocipegtrutide (HM15211) in carbon tetrachloride-induced mouse model of
+  liver injury and fibrosis
+permalink: /company-documents/hanmi-efocipegtrutide-2023-easl-poster-efocipegtrutide-ccl4/
+company: Hanmi Pharmaceutical
+company_slug: hanmi
+program: Efocipegtrutide / HM15211
+program_slug: efocipegtrutide
+indication: MASH
+year: ''
+conference: ''
+document_type: Presentation/Poster
+source_file: 2023_EASL_poster_efocipegtrutide_CCl4.pdf
+pdf_url: /companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4.pdf
+plain_text_url: /plain-text/hanmi-efocipegtrutide-2023-easl-poster-efocipegtrutide-ccl4.txt
+description: Parsed presentation/poster source document for Hanmi Pharmaceutical.
+---
+
+# Improvement of liver fibrosis by a novel long acting Glucagon/GIP/GLP-1 triple agonist, efocipegtrutide (HM15211) in carbon tetrachloride-induced mouse model of liver injury and fibrosis
+
+Hanmi logo
+
+Jong Suk Lee, <u>Yohan Kim</u>, Jung Kuk Kim, Hyunjoo Kwon, Eun Jin Park, Jeong A Kim, Sang Hyun Park, Sungmin Bae, Sang Hyun Lee, In Young Choi
+Hanmi Pharm. Co., Ltd, Seoul, South Korea
+
+WED-473
+
+## ABSTRACT
+
+**Background and Aims:** Fibrosis is the pathologic result of chronic inflammation due to NASH, which can progress to liver cirrhosis, and causes liver-related complications. However, no drug has been approved to date. Thus, to provide a novel therapeutic option with more predictable therapeutic benefits, a novel long-acting Glucagon/GIP/GLP-1 triple agonist, efocipegtrutide, was developed and its efficacy has been extensively evaluated in various animal models of NASH and/or fibrosis such as MCD, AMLN, CDAHFD, and TAA mice. To generalize its potential therapeutic benefits, anti-fibrotic effect of efocipegtrutide was further evaluated in carbon tetrachloride (CCl₄)-induced fibrosis mouse, one of the well-established models of liver fibrosis.
+
+**Methods:** To induce liver fibrosis, 20% CCl₄ was intraperitoneally injected 3 times/week to C57BL/6 male mouse for 10 weeks and efocipegtrutide was administrated during the last 6 weeks. To evaluate the therapeutic effect of efocipegtrutide on fibrosis, hepatic pro-collagen 1α1 contents, hydroxyproline contents (HP), and Sirius red staining area were measured. Additionally, blood surrogate markers and hepatic fibrosis related gene expression level were analyzed.
+
+**Results:** CCl₄ mice showed various liver fibrosis profiles. However, treatment of efocipegtrutide effectively improved these fibrosis profiles such as hepatic pro-collagen 1α1 contents (0.89 μg/g vs. 1.22 μg/g for CCl₄, vehicle; p < 0.05), hydroxyproline contents (348.6 nmol/g vs. 430.5 nmol/g for CCl₄, vehicle; p < 0.001) and Sirius red positive area (2.46 % vs. 4.81 % for CCl₄, vehicle; p < 0.001). Also, meaningful reduction of hepatic fibrosis marker genes expression (collagen 1α1, collagen 3α1 and α-smooth muscle actin) were observed in efocipegtrutide-treated group. Furthermore, blood surrogate biomarkers of fibrosis and inflammation (TIMP-1, PIIINP and TNF-α) were markedly improved by efocipegtrutide treatment.
+
+**Conclusion:** Efocipegtrutide effectively improved liver fibrosis in CCl₄-induced fibrosis mice. These results are consistent with previous study results in various NASH/fibrosis animal models, in which further reinforcing the robust anti-fibrotic effect of efocipegtrutide via simultaneous action of GCG, GIP, and GLP-1. Human study is ongoing to assess the clinical relevance of these findings.
+
+## BACKGROUND
+
+Efocipegtrutide (HM15211) structure diagram
+
+* **Efocipegtrutide (HM15211)** is a long-acting Glucagon/GIP/GLP-1 triple co-agonist conjugated with a human IgG Fc fragment via flexible linker
+    * Rationally designed triple agonist optimized for liver targeting and effects
+    * Extended half-life allows once weekly dosing
+    * Rapid & potent liver fat reduction both in animal and human demonstrated
+    * Potent hepatic lipid lowering and MoAs elucidated in vitro / in vivo
+    * Inhibition of HSC activation and MoAs elucidated in vitro / in vivo
+
+### [The progress of preclinical studies on NASH for efocipegtrutide]
+
+|                  | NAFLD / NASH / Fibrosis | Reference (selected)                                                               |
+| ---------------- | ----------------------- | ---------------------------------------------------------------------------------- |
+| Diet induced     | MCD-diet                | Diabetologia 61 (Suppl 1); S61 (2018)<br/>*Oral presentation at 2018 EASD (#119)*  |
+|                  | CDAHF-diet              | Diabetologia 63 (Suppl 1); S64 (2020)<br/>*Oral presentation at 2020 EASD (#127)*  |
+|                  | AMLN-diet               | Diabetologia 64 (Suppl 1); S100 (2021)<br/>*Oral presentation at 2021 EASD (#191)* |
+| Surgery induced  | Bile duct ligation      | J Hepatol. 73 (Suppl 1); S12 (2020)<br/>*Oral presentation at 2020 EASL (AS015)*   |
+| Chemical induced | TAA injection           | Refer to *WED-437*                                                                 |
+|                  | CCl₄ injection          | *Newly presented*                                                                  |
+
+
+## STUDY DESIGN and KEY RESULTS
+
+### Study design
+
+Study design timeline diagram showing CCl4 induction for 10 weeks and drug treatment for the last 6 weeks
+
+* Therapeutic potential of efocipegtrutide in liver fibrosis was evaluated in CCl₄ mice. CCl₄ metabolized in the liver by the cytochrome P450 superfamily of monooxygenases (CYP family) to the trichloromethyl radical (CCl₃). It causes hepatocyte damage, necrosis, inflammation, and fibrosis. Based on that, many studies were performed for liver fibrosis study in CCl₄ model.
+
+* In this study, CCl₄ (20% in olive oil, 4:1 ratio) was intraperitoneally injected to mouse for 10 weeks, and efocipegtrutide was subcutaneously administered during last 6 weeks. After treatment, liver tissue samples were prepared, followed by Sirius red staining to determine the liver fibrosis. Hepatic hydroxyproline contents and pro-collagen 1α1 were quantified and qRT-PCR was performed to measure the expression level of hepatic fibrosis-related genes. Also, blood collection was performed to evaluate surrogate markers.
+
+### KEY RESULTS
+
+#### Figure 1. Effect of efocipegtrutide on liver fibrosis in CCl₄ mice
+
+(a) Representative image for Sirius red staining
+Microscope images of Sirius red staining for Normal vehicle, CCl4 vehicle, and CCl4 Efocipegtrutide
+
+⮚ Efocipegtrutide treatment could significantly decrease sirius red positive area and similar result was confirmed in hepatic hydroxyproline and pro collagen 1α1 contents
+
+| Measurement                                        | Normal vehicle | CCl₄ vehicle | CCl₄ Efocipegtrutide |
+| -------------------------------------------------- | -------------- | ------------ | -------------------- |
+| (b) Sirius red positive area (%; x200)             | 0.1            | 4.8          | 2.5\*\*\*            |
+| (c) Hepatic hydroxyproline contents (nmol/g liver) | 200            | 430          | 350\*\*\*            |
+| (d) Hepatic pro collagen 1α1 content (μg/g liver)  | 0.75           | 1.2          | 0.9\*                |
+
+
+\* p < 0.05, \*\* p < 0.01, \*\*\* p < 0.001 vs. CCl₄ vehicle
+
+#### Figure 2. Effect of efocipegtrutide on blood (a) and liver (b) surrogate markers in CCl₄ mice
+
+| Marker                                          | Normal vehicle | CCl₄ vehicle | CCl₄ Efocipegtrutide |
+| ----------------------------------------------- | -------------- | ------------ | -------------------- |
+| (a) Blood level of surrogate markers            |                |              |                      |
+| Serum TIMP-1 (ng/ml)                            | 0.8            | 3.8          | 2.4\*                |
+| Serum PIIINP (ng/ml)                            | 0.38           | 0.62         | 0.35\*\*\*           |
+| Serum TNF-α (pg/ml)                             | 3.5            | 9.2          | 4.5\*\*\*            |
+| (b) Liver fibrosis marker gene expression level |                |              |                      |
+| Col1α1 (Fold increase)                          | 1.0            | 4.5          | 2.4\*                |
+| Col3α1 (Fold increase)                          | 1.0            | 1.2          | 1.0\*                |
+| αSMA (Fold increase)                            | 1.0            | 1.5          | 1.0\*                |
+
+
+\* p < 0.05, \*\*\* p < 0.001 vs. CCl₄ vehicle
+
+⮚ Consistently, efocipegtrutide treated group showed similar improvement effect on fibrosis and inflammation related surrogate markers.
+
+## CONCLUSIONS
+
+▪ In CCl₄ mice, efocipegtrutide could improve liver fibrosis, which is in-line with previous results in various animal models of NASH and/or fibrosis
+
+▪ Phase 2b study in biopsy-proven NASH subjects is on-going in US to assess clinical relevance of non-clinical findings (fast-track granted, US)
+
+Contact info: Yohan Kim, yohan.kim@hanmi.co.kr
+Sang Hyun Park, sanghyun.park@hanmi.co.kr
+
+EASL The Home of Hepatology logo
+
+European Association for the study of the liver (EASL); International Liver Congress™; Jun. 21-24, 2023
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_1.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_2.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_3.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_4.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_5.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_6.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_7.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_8.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_9.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_10.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_11.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_12.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_13.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/img_p0_14.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1_table_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1_image_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1_image_7_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1_image_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1_image_8_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/2023_EASL_poster_efocipegtrutide_CCl4_images/page_1_chart_2_v2.jpg' | relative_url }})

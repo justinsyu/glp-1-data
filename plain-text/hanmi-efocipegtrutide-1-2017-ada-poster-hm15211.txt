@@ -1,0 +1,249 @@
+# Neuroprotective effects of HM15211, a novel long-acting GLP-1/glucagon/GIP triple agonist in the MPTP Parkinson’s disease mouse model
+1138-P logo Hanmi logo
+
+Jeong A Kim¹, Sang-Hyun Lee¹, In Young Choi¹, Young Hoon Kim¹, Young Mi Lee¹, Se Chang Kwon¹
+1Hanmi Pharm. Co., Ltd, Seoul, Korea
+
+## ABSTRACT
+
+HM15211 is a novel long-acting GLP-1/glucagon/GIP triple agonist that is being developed for the treatment of obesity and related complications. Recent studies have shown that obesity, type 2 diabetes, and non-alcoholic fatty liver disease increase the risk of developing progressive neurodegenerative disease such as Parkinson’s disease (PD) and Alzheimer’s disease (AD). Dysregulated metabolic pathways are shared in the metabolic syndrome (MetS). To date, disease modifying drug has not yet been developed for PD or AD. Therefore, it is hypothesized that treatment improving MetS may be useful for PD and AD patients. It was reported that both GLP-1 and GIP analogs showed neuroprotective properties in PD and AD mouse models. In addition, glucagon also exerted neuroprotective effect in ischemia and traumatic brain injury model.
+
+In this study, we demonstrated the neuroprotective effect of HM15211 in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) induced PD mouse model. MPTP is a neurotoxin, which can selectively destroy nigrostriatal dopaminergic neurons and cause parkinsonism in humans, nonhuman primates and mice, therefore it is widely used to induce PD in mice. HM15211 significantly improved the MPTP induced motor impairments in behavior tests (rotarod, pole test, traction test). The reduction of tyrosine hydroxylase positive neurons in the substantia nigra and the density of tyrosine hydroxylase in the striatum induced by MPTP was restored by HM15211. In addition, HM15211 showed histologically an anti-inflammatory effect in the MPTP induced PD model. These results suggest HM15211 as a potential therapy for the treatment of PD.
+
+## BACKGROUND
+
+* Obesity is one of the risk factors of neurological disorder¹
+
+Diagram showing the link between obesity and various neurological disorders including Alzheimer's disease, Parkinson's disease, Multiple sclerosis, and Huntington's disease.
+
+* Neuroprotective effects of GLP-1², glucagon³ and GIP⁴
+
+Diagram showing the neuroprotective mechanisms of GLP-1, Glucagon, and GIP, including peripheral-CNS crosstalk, neurite outgrowth, progenitor proliferation, and anti-inflammatory effects.
+
+* MPTP is a specific neurotoxin affecting the nigrostriatal system.
+Diagram of MPTP mechanism: MPTP crosses the BBB, is converted to MPP+ in glial cells, enters dopamine transporters, inhibits Complex I, decreases ATP, and causes oxidative stress, inflammation, and cell death.
+
+## METHODS
+
+* MPTP 30 mg/kg was intraperitoneally injected once-daily for 7 days into 9 weeks old C57Bl/6 male mice. HM15211 (2.5 and 5.03 nmol/kg) was subcutaneously administered once at the first day, 30 min after the 1ˢᵗ MPTP administration.
+
+* For motor function evaluation, behavior tests (traction test, pole test and rotarod test) were conducted before sacrifice. (n=19~20)
+
+* To assess histological changes, hemisphere of all mice brain were sectioned using cryotome and stained. (n=7~10)
+
+* The striatum were dissected from the other half of the brain and lysed with RIPA buffer to detect molecular changes using ELISA (n=7~10)
+
+| Day   | D-1                        | D0                                 | D1                  | D2                  | D3                  | D4                  | D5                  | D6                  | D7                         |
+| ----- | -------------------------- | ---------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | -------------------------- |
+| Event | Training for behavior test | MPTP (30 mg/kg, ip) + HM15211 (sc) | MPTP (30 mg/kg, ip) | MPTP (30 mg/kg, ip) | MPTP (30 mg/kg, ip) | MPTP (30 mg/kg, ip) | MPTP (30 mg/kg, ip) | MPTP (30 mg/kg, ip) | Behavior tests & Sacrifice |
+
+
+## RESULTS
+
+### Motor function evaluation
+
+Figure 1. Motor function restoring effects of HM15211
+
+| Group                           | (a) Traction test (score) | (b) Pole test (T-Turn, s) | (c) Pole test (T-Total, s) | (d) Rotarod test (latency, s) |
+| ------------------------------- | ------------------------- | ------------------------- | -------------------------- | ----------------------------- |
+| Vehicle                         | 3                         | \~1                       | \~10                       | \~110                         |
+| MPTP 30 mg/kg, QD               | \~1.2                     | \~35                      | \~105                      | \~45                          |
+| MPTP + HM15211 2.5 nmol/kg, QW  | \~2.2\*\*\*               | \~15\*\*\*                | \~45\*\*\*                 | \~65\*                        |
+| MPTP + HM15211 5.03 nmol/kg, QW | \~2.5\*\*\*               | \~12\*\*\*                | \~35\*\*\*                 | \~85\*\*\*                    |
+
+
+Traction test scoring guide: Score 1: No gripping; Score 2: One hind paw; Score 3: Both hind paws.
+
+Pole test and Rotarod test descriptions.
+
+⮚ HM15211 administration restored MPTP induced motor function impairment in (a) traction test, (b, c) pole test and (d) rotarod test.
+
+### Efficacy on dopaminergic neuroprotection
+
+Figure 2. Neuroprotective effect of HM15211 against MPTP
+
+| Group                           | TH+ area in striatum (% vs vehicle) | TH+ cells in Substantia nigra (% vs vehicle) |
+| ------------------------------- | ----------------------------------- | -------------------------------------------- |
+| Vehicle                         | 100                                 | 100                                          |
+| MPTP 30 mpk, ip                 | \~55                                | \~50                                         |
+| MPTP + HM15211 2.5 nmol/kg, sc  | \~85\*\*\*                          | \~80\*\*\*                                   |
+| MPTP + HM15211 5.03 nmol/kg, sc | \~95\*\*\*                          | \~90\*\*\*                                   |
+
+
+Representative TH staining images in Striatum and Substantia nigra.
+
+⮚ HM15211 administration protected MPTP induced dopaminergic neuronal cell damage in the striatum and the substantia nigra.
+
+### Effects on microglia activation and inflammatory cytokines
+
+Figure 3. Activated microglia reduction by HM15211
+
+| Group                           | Iba1+ area in striatum (% vs vehicle) |
+| ------------------------------- | ------------------------------------- |
+| Vehicle                         | 100                                   |
+| MPTP 30 mpk, ip                 | \~165                                 |
+| MPTP + HM15211 2.5 nmol/kg, sc  | \~130\*\*                             |
+| MPTP + HM15211 5.03 nmol/kg, sc | \~115\*\*\*                           |
+
+
+Representative Iba1 staining images in Striatum.
+
+Diagram of microglia activation states: resting, hypertrophic, phagocytic, clustering.
+
+⮚ In striatum of MPTP PD mouse model, the area covered by microglia was increased and the morphology of microglia was activated. Administration of HM15211 leads to reduction of microglia activation.
+
+Figure 4. Effects of HM15211 on the expression of pro and anti-inflammatory cytokine
+
+| Group                           | (a) IFN-γ (pg/ml) | (b) IL-1β (pg/ml) | (c) IL-10 (pg/ml) |
+| ------------------------------- | ----------------- | ----------------- | ----------------- |
+| Vehicle                         | \~100             | \~15              | \~750             |
+| MPTP 30 mpk, ip                 | \~160             | \~32              | \~450             |
+| MPTP + HM15211 2.5 nmol/kg, sc  | \~125\*\*\*       | \~22\*\*\*        | \~580\*\*\*       |
+| MPTP + HM15211 5.03 nmol/kg, sc | \~110\*\*\*       | \~18\*\*\*        | \~680\*\*\*       |
+
+
+⮚ HM15211 reversed the induction of IFN-γ (a), IL-1β (b) and the reduction of IL-10 (c) levels of mice induced by MPTP.
+
+### Effect on oxidative stress
+
+Figure 5. Reduced lipid peroxidation by HM15211
+
+| Group                           | HNE protein adduct (μg/ml) |
+| ------------------------------- | -------------------------- |
+| Vehicle                         | \~11                       |
+| MPTP 30 mpk, ip                 | \~14                       |
+| MPTP + HM15211 2.5 nmol/kg, sc  | \~12\*\*\*                 |
+| MPTP + HM15211 5.03 nmol/kg, sc | \~11.5\*\*\*               |
+
+
+Diagram of HNE protein adduct formation and its cellular effects.
+
+⮚ In the striatum, HM15211 effectively decreased the HNE protein adduct (a byproduct of lipid peroxidation), which was induced by MPTP.
+
+## CONCLUSIONS
+
+* HM15211 significantly improved MPTP induced motor impairments in three behavior tests in a dose-dependent manner.
+
+* Histologically, the tyrosine hydroxylase (TH) positive neurons in substantia nigra and the staining density in striatum were reduced by MPTP. However, they were protected by HM15211.
+
+* In addition, HM15211 changed inflammatory cytokine expression and reduced lipid peroxidation byproduct in the MPTP PD model.
+
+* Even after a single injection of HM15211, neuroprotective effects were shown against 7 days repeated MPTP injection.
+
+* Based on these results, the novel long-acting GLP-1/glucagon/GIP tri-agonist, HM15211 could have therapeutic potential for PD.
+
+## REFERENCES
+
+1. Claudio Procaccini et al., Metabolism. 65(9):1376-90 (2016)
+
+2. Yazhou Li et al., Proc Natl Acad Sci U S A. Jan 27;106(4):1285-90 (2009)
+
+3. Rami Abu Fanne et al., Am J Physiol Regul Integr Comp Physiol 301: R668–R673 (2011)
+
+4. Yanwei Li et al., Neuropharmacology. 101, 255e263 (2016)
+
+American Diabetes Association’s (ADA) 77th Scientific Sessions, San Diego, CA, USA; June 09‐13, 2017
+
+Hanmi Pharm. Co., Ltd.
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_1.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_2.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_3.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_4.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_5.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_6.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_7.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_8.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_9.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_10.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_11.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_12.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_13.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_14.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_15.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_16.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_17.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_20.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_21.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_22.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_23.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_24.png' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_25.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_26.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_27.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_28.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_29.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/img_p0_30.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_chart_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_chart_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_chart_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_1_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_chart_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_chart_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_2_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_chart_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_chart_7_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_chart_8_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_3_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_5_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_6_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_7_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_chart_9_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_4_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_8_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_10_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_11_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_12_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_13_v2.jpg' | relative_url }})
+
+![Extracted image from page 1]({{ '/companies/hanmi/efocipegtrutide/presentations_posters/1.2017_ADA_Poster_HM15211_images/page_1_image_9_v2.jpg' | relative_url }})

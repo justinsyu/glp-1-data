@@ -1,0 +1,468 @@
+defaults:
+  user_agent: "GLP1DataArchiveSweep/1.0 (+https://justinsyu.github.io/glp-1-data)"
+  timeout_seconds: 45
+  download_timeout_seconds: 180
+  retry_attempts: 3
+  retry_backoff_seconds: [2, 5, 15]
+  playwright_headless: true
+  pubmed_tool_name: "glp1-data-archive-sweep"
+  pubmed_email: ""
+  pubmed_api_key: ""
+
+companies:
+  - id: eli_lilly
+    name: Eli Lilly and Company
+    folder: companies/eli_lilly
+    tier: 3
+    sources:
+      - kind: html
+        url: https://medical.lilly.com/de/science/
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/assets/vaultpdf/|/congress/"
+        title_filter: "orforglipron|Foundayo|tirzepatide|Zepbound|Mounjaro|retatrutide|Trulicity|dulaglutide|GLP-1|GIP|glucagon|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/eli_lilly/_worklist_pending_medical.md
+      - kind: html
+        url: https://lilly.gcs-web.com/news-releases
+        fetcher: requests
+        link_pattern: "/node/[0-9]+/pdf|\\.pdf(\\?|$)"
+        title_filter: "orforglipron|Foundayo|tirzepatide|Zepbound|Mounjaro|retatrutide|Trulicity|dulaglutide|GLP-1|GIP|glucagon|obesity|diabetes"
+        dest: companies/eli_lilly/retatrutide/presentations_posters
+        dest_router:
+          - pattern: "orforglipron|Foundayo"
+            dest: companies/eli_lilly/orforglipron/presentations_posters
+          - pattern: "tirzepatide|Zepbound|Mounjaro"
+            dest: companies/eli_lilly/tirzepatide/presentations_posters
+          - pattern: "dulaglutide|Trulicity"
+            dest: companies/eli_lilly/dulaglutide/published_manuscripts
+
+  - id: novo_nordisk
+    name: Novo Nordisk
+    folder: companies/novo_nordisk
+    tier: 3
+    sources:
+      - kind: html
+        url: https://sciencehub.novonordisk.com/
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/congresses/"
+        title_filter: "CagriSema|cagrilintide|semaglutide|amycretin|zenagamtide|Xultophy|Kyinsu|IcoSema|UBT251|GLP-1|amylin|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/novo_nordisk/_worklist_pending_sciencehub.md
+      - kind: html
+        url: https://www.novonordisk.com/news-and-media/news-and-ir-materials.html
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|news-details\\.html"
+        title_filter: "CagriSema|amycretin|zenagamtide|Xultophy|Kyinsu|IcoSema|UBT251|GLP-1|amylin|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/novo_nordisk/_worklist_pending_news.md
+
+  - id: sanofi
+    name: Sanofi
+    folder: companies/sanofi
+    tier: 3
+    sources:
+      - kind: html
+        url: https://www.sanofimedicalinformation.com/
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|product|publication|congress"
+        title_filter: "Soliqua|Suliqua|lixisenatide|insulin glargine|GLP-1|diabetes"
+        discovery_only: true
+        dest_worklist: companies/sanofi/_worklist_pending_medinfo.md
+      - kind: html
+        url: https://www.sanofi.com/en/media-room/press-releases
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|press-releases"
+        title_filter: "Soliqua|Suliqua|lixisenatide|GLP-1|diabetes"
+        discovery_only: true
+        dest_worklist: companies/sanofi/_worklist_pending_media.md
+
+  - id: amgen
+    name: Amgen
+    folder: companies/amgen
+    tier: 2
+    sources:
+      - kind: html
+        url: https://www.amgen.com/newsroom/press-releases/2025/06/results-from-amgens-phase-2-obesity-study-of-monthly-maritide-presented-at-the-american-diabetes-association-85th-scientific-sessions
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/node/[0-9]+/pdf"
+        title_filter: "MariTide|maridebart|AMG 133|GLP-1|GIP|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/amgen/_worklist_pending_newsroom.md
+      - kind: html
+        url: https://investors.amgen.com/news-releases
+        fetcher: requests
+        link_pattern: "/node/[0-9]+/pdf|\\.pdf(\\?|$)"
+        title_filter: "MariTide|maridebart|AMG 133|GLP-1|GIP|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/amgen/_worklist_pending_investor.md
+
+  - id: innovent
+    name: Innovent Biologics
+    folder: companies/innovent
+    tier: 2
+    sources:
+      - kind: html
+        url: https://investor.innoventbio.com/en/investors/webcasts-and-presentations/innovent-biologics-general-biomedicines-clinical-data-update-mazdutide-2024-ada/
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/media/.*pdf"
+        title_filter: "mazdutide|IBI362|GLP-1|glucagon|ADA|obesity|diabetes"
+        dest: companies/innovent/mazdutide/presentations_posters
+      - kind: html
+        url: https://en.innoventbio.com/InvestorsAndMedia/PressReleaseList
+        fetcher: requests
+        link_pattern: "PressReleaseDetail|\\.pdf(\\?|$)"
+        title_filter: "mazdutide|IBI362|GLP-1|glucagon|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/innovent/_worklist_pending_press.md
+
+  - id: sciwind_pfizer
+    name: Sciwind Biosciences / Pfizer China
+    folder: companies/sciwind_pfizer
+    tier: 1
+    sources:
+      - kind: html
+        url: https://www.sciwindbio.com/
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/s/"
+        title_filter: "ecnoglutide|XW003|GL0034|utreglutide|GLP-1|obesity|diabetes"
+        dest: companies/sciwind_pfizer/ecnoglutide/presentations_posters
+        dest_router:
+          - pattern: "GL0034|utreglutide"
+            dest: companies/sciwind_pfizer/utreglutide/presentations_posters
+
+  - id: shanghai_benemae
+    name: Shanghai Benemae Pharmaceutical
+    folder: companies/shanghai_benemae
+    tier: 3
+    sources:
+      - kind: html
+        url: https://www.benemae.com/product/introduce.html
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/upload/|原文下载|下载"
+        title_filter: "beinaglutide|Yishengtai|Feisumei|GLP-1|贝那鲁肽|谊生泰|菲塑美"
+        discovery_only: true
+        dest_worklist: companies/shanghai_benemae/_worklist_pending_product.md
+      - kind: html
+        url: https://www.benemae.com/investor/details/578.html
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/upload/|下载PDF"
+        title_filter: "beinaglutide|Yishengtai|Feisumei|GLP-1|贝那鲁肽|谊生泰|菲塑美"
+        discovery_only: true
+        dest_worklist: companies/shanghai_benemae/_worklist_pending_investor.md
+
+  - id: huadong_jiuyuan
+    name: Huadong Medicine / Jiuyuan Gene
+    folder: companies/huadong_jiuyuan
+    tier: 3
+    sources:
+      - kind: html
+        url: https://www.eastchinapharm.com/news/inner/id/233
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|news/inner|upload"
+        title_filter: "PEG-loxenatide|PEX168|Fulaimei|Jinglixin|GLP-1|洛塞那肽|福来美"
+        discovery_only: true
+        dest_worklist: companies/huadong_jiuyuan/_worklist_pending_huadong.md
+      - kind: html
+        url: https://www.china-gene.com/product/index.htm
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|upload/file"
+        title_filter: "PEG-loxenatide|PEX168|Fulaimei|Jinglixin|GLP-1|洛塞那肽|福来美"
+        discovery_only: true
+        dest_worklist: companies/huadong_jiuyuan/_worklist_pending_jiuyuan.md
+
+  - id: innogen
+    name: Innogen Pharmaceutical
+    folder: companies/innogen
+    tier: 4
+    sources:
+      - kind: html
+        url: https://www.innogenpharm.com/newsinfo/877504.html?templateId=202607
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|newsinfo"
+        title_filter: "efsubaglutide|supaglutide|Yinuoqing|Diabegone|GLP-1|伊诺轻"
+        discovery_only: true
+        dest_worklist: companies/innogen/_worklist_pending_news.md
+      - kind: pubmed
+        terms: ["efsubaglutide", "supaglutide", "Innogen", "GLP-1"]
+        affiliations: ["Innogen"]
+        date_min: "2020/01/01"
+        prefer_pmc: true
+        dest: companies/innogen/efsubaglutide-alfa/published_manuscripts
+
+  - id: gan_and_lee
+    name: Gan & Lee Pharmaceuticals
+    folder: companies/gan_and_lee
+    tier: 3
+    sources:
+      - kind: html
+        url: https://www.ganlee.com/detail/782.html
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/uploads/files/"
+        title_filter: "GZR18|bofanglutide|GLP-1|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/gan_and_lee/_worklist_pending_gzr18.md
+      - kind: html
+        url: https://www.ganlee.com/detail/836.html
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/uploads/files/"
+        title_filter: "GZR18|bofanglutide|GLP-1|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/gan_and_lee/_worklist_pending_publications.md
+
+  - id: hengrui
+    name: Hengrui Pharma
+    folder: companies/hengrui
+    tier: 3
+    sources:
+      - kind: html
+        url: https://www.hengrui.com/en/media/detail-136.html
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|media/detail|images/investor"
+        title_filter: "noiiglutide|SHR20004|SHR-20004|GLP-1|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/hengrui/_worklist_pending_english.md
+      - kind: html
+        url: https://www.hengrui.com/media/detail-800.html
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|media/detail|images/investor"
+        title_filter: "HRS9531|SHR20004|SHR-20004|GLP-1|GLP－1|减重|糖尿病"
+        discovery_only: true
+        dest_worklist: companies/hengrui/_worklist_pending_media.md
+
+  - id: kailera
+    name: Kailera Therapeutics
+    folder: companies/kailera
+    tier: 1
+    sources:
+      - kind: html
+        url: https://www.kailera.com/wp-content/uploads/2025/06/Phase_2_clinical_trial_of_HRS9531_in_adults_with_obesity_without_diabetes_up-to_52_weeks_ADA2025.pdf
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)"
+        title_filter: "HRS9531|ribupatide|KAI-9531|GLP-1|GIP|obesity|ADA"
+        dest: companies/kailera/ribupatide/presentations_posters
+      - kind: html
+        url: https://www.kailera.com/ribupatide/
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|wp-content/uploads"
+        title_filter: "ribupatide|KAI-9531|HRS9531|GLP-1|GIP|obesity|diabetes|ADA"
+        dest: companies/kailera/ribupatide/presentations_posters
+      - kind: html
+        url: https://investors.kailera.com/news-releases/news-release-details/hengrui-pharma-and-kailera-therapeutics-announce-clinical-data
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|news-release"
+        title_filter: "ribupatide|KAI-9531|HRS9531|GLP-1|GIP|obesity|diabetes|ADA"
+        discovery_only: true
+        dest_worklist: companies/kailera/_worklist_pending_investor.md
+
+  - id: hanmi
+    name: Hanmi Pharmaceutical
+    folder: companies/hanmi
+    tier: 1
+    sources:
+      - kind: html
+        url: https://www.hanmipharm.com/science-pdf/HM15211/2020_EASL_Poster_efocipegtrutide.pdf
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)"
+        title_filter: "HM15211|efocipegtrutide|GLP-1|glucagon|GIP|EASL|MASH|NASH"
+        dest: companies/hanmi/efocipegtrutide/presentations_posters
+      - kind: html
+        url: https://www.hanmipharm.com/science/pipeline/focused/efocipegtrutide.hm
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/science-pdf/"
+        title_filter: "HM15211|efocipegtrutide|efpeglenatide|efinopegdutide|GLP-1|glucagon|GIP|MASH|NASH|obesity"
+        dest: companies/hanmi/efocipegtrutide/presentations_posters
+        dest_router:
+          - pattern: "efpeglenatide|HM11260C"
+            dest: companies/hanmi/efpeglenatide/presentations_posters
+          - pattern: "efinopegdutide|HM12525A"
+            dest: companies/hanmi/efinopegdutide/presentations_posters
+
+  - id: structure_therapeutics
+    name: Structure Therapeutics
+    folder: companies/structure_therapeutics
+    tier: 1
+    sources:
+      - kind: html
+        url: https://structuretx.com/wp-content/uploads/2024/12/2024OW_1290-12-weeks-poster_Seman.pdf
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)"
+        title_filter: "1290|GSBR-1290|aleniglipron|GLP-1|obesity|ObesityWeek"
+        dest: companies/structure_therapeutics/aleniglipron/presentations_posters
+      - kind: html
+        url: https://structuretx.com/wp-content/uploads/2024/12/SRTX2304B_ADA_SAD_Coll_PRINT_0623_FIN3.pdf
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)"
+        title_filter: "GSBR-1290|aleniglipron|GLP-1|ADA"
+        dest: companies/structure_therapeutics/aleniglipron/presentations_posters
+      - kind: html
+        url: https://structuretx.com/wp-content/uploads/2024/12/SRTX2304B_ADA_PreClin_Mao_ePOSTER_0623_FIN.pdf
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)"
+        title_filter: "GSBR-1290|aleniglipron|GLP-1|ADA"
+        dest: companies/structure_therapeutics/aleniglipron/presentations_posters
+      - kind: html
+        url: https://structuretx.com/publications/
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|wp-content/uploads"
+        title_filter: "aleniglipron|GSBR-1290|GLP-1|ACCESS|obesity|diabetes"
+        dest: companies/structure_therapeutics/aleniglipron/presentations_posters
+      - kind: html
+        url: https://structuretx.gcs-web.com/news-releases
+        fetcher: requests
+        link_pattern: "/node/[0-9]+/pdf|\\.pdf(\\?|$)|news-release"
+        title_filter: "aleniglipron|GSBR-1290|GLP-1|ACCESS|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/structure_therapeutics/_worklist_pending_ir.md
+
+  - id: eccogene_astrazeneca
+    name: Eccogene / AstraZeneca
+    folder: companies/eccogene_astrazeneca
+    tier: 1
+    sources:
+      - kind: html
+        url: https://www.eccogene.com/wp-content/uploads/OW-2024_ECC5004_SAD_MAD-Poster_FINAL_28Oct2024-1.pdf
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)"
+        title_filter: "ECC5004|AZD5004|elecoglipron|GLP-1|obesity|diabetes|poster"
+        dest: companies/eccogene_astrazeneca/elecoglipron/presentations_posters
+      - kind: html
+        url: https://www.eccogene.com/eccogene-enters-exclusive-license-agreement-with-astrazeneca-to-develop-and-commercialize-small-molecule-glp-1-receptor-agonist-ecc5004-for-cardiometabolic-diseases/
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|wp-content/uploads"
+        title_filter: "ECC5004|AZD5004|elecoglipron|GLP-1|obesity|diabetes|poster"
+        dest: companies/eccogene_astrazeneca/elecoglipron/presentations_posters
+      - kind: html
+        url: https://www.astrazeneca.com/what-science-can-do/topics/disease-understanding/creating-better-health-outcomes-holistic-approach-weight-management.html
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|content/dam|article"
+        title_filter: "AZD5004|ECC5004|elecoglipron|GLP-1|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/eccogene_astrazeneca/_worklist_pending_astrazeneca.md
+
+  - id: roche_carmot
+    name: Roche / Carmot Therapeutics
+    folder: companies/roche_carmot
+    tier: 3
+    sources:
+      - kind: html
+        url: https://medically.roche.com/global/en/metabolism/easd-2024/medical-material/EASD-2024-presentation-chakravarthy-ct-996-an-oral-small-molecule-signal-biased-pdf.html
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|content/dam/pdmahub"
+        title_filter: "CT-996|CT996|GLP-1|obesity|diabetes|EASD"
+        discovery_only: true
+        dest_worklist: companies/roche_carmot/_worklist_pending_roche_medically.md
+      - kind: html
+        url: https://www.roche.com/media/releases/med-cor-2024-07-17
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|media/releases"
+        title_filter: "CT-996|CT996|GLP-1|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/roche_carmot/_worklist_pending_roche_news.md
+
+  - id: viking_therapeutics
+    name: Viking Therapeutics
+    folder: companies/viking_therapeutics
+    tier: 1
+    sources:
+      - kind: html
+        url: https://vikingtherapeutics.com/wp-content/uploads/2026/05/Treatment-with-Oral-VK2735-Results-in-Significant-Weight-Loss-The-Randomized-Placebo-Controlled-Dose-Finding-VENTURE-Oral-Study.pdf
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)"
+        title_filter: "VK2735|GLP-1|GIP|VENTURE|obesity"
+        dest: companies/viking_therapeutics/vk2735/presentations_posters
+      - kind: html
+        url: https://vikingtherapeutics.com/pipeline/publications/
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|wp-content/uploads"
+        title_filter: "VK2735|GLP-1|GIP|VENTURE|VANQUISH|obesity|diabetes"
+        dest: companies/viking_therapeutics/vk2735/presentations_posters
+      - kind: html
+        url: https://ir.vikingtherapeutics.com/2026-01-12-Viking-Therapeutics-Announces-Publication-of-Results-from-Phase-2-VENTURE-Trial-of-Dual-GLP-1-GIP-Receptor-Agonist-VK2735-in-the-Journal-Obesity
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|journal|publication"
+        title_filter: "VK2735|GLP-1|GIP|VENTURE|obesity"
+        discovery_only: true
+        dest_worklist: companies/viking_therapeutics/_worklist_pending_ir.md
+
+  - id: boehringer_zealand
+    name: Boehringer Ingelheim / Zealand Pharma
+    folder: companies/boehringer_zealand
+    tier: 2
+    sources:
+      - kind: html
+        url: https://medinfo.boehringer-ingelheim.com/us/sites/default/files/2023-11/treatment%20with%20survodutide%20improves%20eating%20behavior%20in%20people%20overweight-obesity_bushnell_0.pdf
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)"
+        title_filter: "survodutide|BI 456906|GLP-1|glucagon|obesity"
+        dest: companies/boehringer_zealand/survodutide/presentations_posters
+      - kind: html
+        url: https://medinfo.boehringer-ingelheim.com/us/scientific-materials
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|sites/default/files"
+        title_filter: "survodutide|BI 456906|GLP-1|glucagon|MASH|obesity"
+        dest: companies/boehringer_zealand/survodutide/presentations_posters
+      - kind: html
+        url: https://www.zealandpharma.com/pipeline/survodutide/
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)"
+        title_filter: "survodutide|BI 456906|GLP-1|glucagon|MASH|obesity"
+        discovery_only: true
+        dest_worklist: companies/boehringer_zealand/_worklist_pending_zealand.md
+
+  - id: altimmune
+    name: Altimmune
+    folder: companies/altimmune
+    tier: 1
+    sources:
+      - kind: html
+        url: https://ir.altimmune.com/investors/scientific-posters-and-presentations?mobile=1&page=1
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/node/[0-9]+/pdf|static-files"
+        title_filter: "pemvidutide|GLP-1|glucagon|MASH|NASH|obesity|liver"
+        dest: companies/altimmune/pemvidutide/presentations_posters
+      - kind: html
+        url: https://ir.altimmune.com/news-releases
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/node/[0-9]+/pdf|news-release"
+        title_filter: "pemvidutide|GLP-1|glucagon|MASH|NASH|obesity|liver"
+        discovery_only: true
+        dest_worklist: companies/altimmune/_worklist_pending_ir.md
+
+  - id: merck_hanmi
+    name: Merck / Hanmi
+    folder: companies/merck_hanmi
+    tier: 3
+    sources:
+      - kind: html
+        url: https://www.merck.com/news/merck-to-present-data-for-efinopegdutide-mk-6024-an-investigational-glp-1-glucagon-receptor-co-agonist-in-patients-with-nonalcoholic-fatty-liver-disease-nafld-at-easl-2023/
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|/files/doc_news/.*pdf"
+        title_filter: "efinopegdutide|MK-6024|HM12525A|GLP-1|glucagon|MASH|NASH|liver"
+        discovery_only: true
+        dest_worklist: companies/merck_hanmi/_worklist_pending_merck.md
+      - kind: html
+        url: https://www.hanmipharm.com/about/investor-relations/press/detail-11.hm
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|science-pdf|press"
+        title_filter: "efinopegdutide|MK-6024|HM12525A|GLP-1|glucagon|MASH|NASH|liver"
+        discovery_only: true
+        dest_worklist: companies/merck_hanmi/_worklist_pending_hanmi.md
+
+  - id: united_labs_novo
+    name: United Laboratories / Novo Nordisk
+    folder: companies/united_labs_novo
+    tier: 3
+    sources:
+      - kind: html
+        url: https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=915958
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)|news-details"
+        title_filter: "UBT251|GLP-1|GIP|glucagon|obesity|diabetes"
+        discovery_only: true
+        dest_worklist: companies/united_labs_novo/_worklist_pending_novo.md
+      - kind: html
+        url: https://doc.irasia.com/listco/hk/unitedlab/press/p260325.pdf
+        fetcher: requests
+        link_pattern: "\\.pdf(\\?|$)"
+        title_filter: "UBT251|GLP-1|GIP|glucagon|obesity|diabetes"
+        dest: companies/united_labs_novo/ubt251/presentations_posters
