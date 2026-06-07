@@ -13,7 +13,6 @@ description: Utreglutide / GL0034 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Pure GLP-1 receptor agonist</span>
     </div>
     <h1>Utreglutide / GL0034</h1>
-    <p class="lead">Utreglutide / GL0034 is tracked as investigational for Metabolic disease / obesity.</p>
   </div>
 </section>
 

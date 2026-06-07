@@ -13,7 +13,6 @@ description: Noiiglutide / SHR20004 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Pure GLP-1 receptor agonist</span>
     </div>
     <h1>Noiiglutide / SHR20004</h1>
-    <p class="lead">Noiiglutide / SHR20004 is tracked as investigational for Obesity.</p>
   </div>
 </section>
 

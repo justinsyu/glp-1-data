@@ -12,14 +12,12 @@ description: External source document index for the GLP-1 archive.
 
 <section class="hero">
   <h1>Documents</h1>
-  <p class="lead">Publications, posters, and presentations with parsed source pages in the archive. Regulatory decisions, sponsor news, topline updates, and generic approval evidence now live on News.</p>
 </section>
 
-<section class="summary-grid" aria-label="Document source summary">
-  <div><strong>Documents</strong><span>{{ actual_document_count }}</span></div>
-  <div><strong>Poster and presentation rows</strong><span>{{ presentation_documents | size }}</span></div>
-  <div><strong>Publication rows</strong><span>{{ manuscript_documents | size }}</span></div>
-  <div><strong>Other source rows</strong><span><a href="{{ '/news/' | relative_url }}">News</a></span></div>
+<section class="summary-grid summary-grid-no-top summary-grid-toolbar-aligned" aria-label="Document source summary">
+  <div><strong>Total</strong><span>{{ actual_document_count }}</span></div>
+  <div><strong>Posters and Presentations</strong><span>{{ presentation_documents | size }}</span></div>
+  <div><strong>Publications</strong><span>{{ manuscript_documents | size }}</span></div>
 </section>
 
 {% include document_list.html documents=actual_documents sort_by="year" sort_dir="desc" %}

@@ -13,7 +13,6 @@ description: Orforglipron GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Oral small-molecule GLP-1 receptor agonist</span>
     </div>
     <h1>Foundayo</h1>
-    <p class="lead">Orforglipron is tracked as approved branded for Obesity/overweight with comorbidity.</p>
   </div>
 </section>
 

@@ -13,7 +13,6 @@ description: PEG-loxenatide / PEX168 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Pure GLP-1 receptor agonist</span>
     </div>
     <h1>Fulaimei / Jinglixin</h1>
-    <p class="lead">PEG-loxenatide / PEX168 is tracked as approved branded for T2D.</p>
   </div>
 </section>
 

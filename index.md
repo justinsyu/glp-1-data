@@ -10,7 +10,6 @@ description: Open index of branded and investigational GLP-1-containing treatmen
 
 <section class="hero">
   <h1>Branded and investigational GLP-1 treatment landscape</h1>
-  <p class="lead">A GitHub Pages archive of in-scope GLP-1-containing treatments from the supplied research file, excluding discontinued products and monotherapy families with generic versions. The site keeps sponsor-specific styling, source trails, and automation-ready press/publication monitoring in the same structural pattern as the reference archive.</p>
 </section>
 
 <section class="summary-grid" aria-label="Archive summary">

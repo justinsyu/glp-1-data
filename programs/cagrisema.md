@@ -13,7 +13,6 @@ description: CagriSema GLP-1 treatment profile.
       <span class="brand-chip-sponsor">GLP-1/amylin combination</span>
     </div>
     <h1>CagriSema</h1>
-    <p class="lead">CagriSema is tracked as investigational filed/late-stage for Obesity/overweight; T2D.</p>
   </div>
 </section>
 

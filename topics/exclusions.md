@@ -7,7 +7,6 @@ description: GLP-1 treatments excluded from the focused archive.
 
 <section class="hero">
   <h1>Exclusions</h1>
-  <p class="lead">Products excluded from this focused archive because they are discontinued, withdrawn, or have generic versions at the molecule/product-family level.</p>
 </section>
 
 | Treatment | Brand(s) / code(s) | Rationale |

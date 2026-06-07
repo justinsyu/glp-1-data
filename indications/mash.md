@@ -7,7 +7,6 @@ description: GLP-1 treatments tracked for MASH.
 
 <section class="hero">
   <h1>MASH</h1>
-  <p class="lead">In-scope branded and investigational GLP-1-containing treatments with source-backed status tracking.</p>
 </section>
 
 <section>

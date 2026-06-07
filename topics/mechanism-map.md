@@ -7,7 +7,6 @@ description: Mechanism-level map of GLP-1-containing treatments.
 
 <section class="hero">
   <h1>Mechanism Map</h1>
-  <p class="lead">The GLP-1 landscape now spans mono-agonists, oral small molecules, dual incretins, GLP-1/glucagon duals, triple agonists, amylin combinations, and insulin fixed-dose combinations.</p>
 </section>
 <section>
   <h2>Dual GIP/GLP-1 receptor agonist</h2>

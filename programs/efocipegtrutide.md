@@ -13,7 +13,6 @@ description: Efocipegtrutide / HM15211 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Triple GIP/GLP-1/glucagon receptor agonist</span>
     </div>
     <h1>Efocipegtrutide / HM15211</h1>
-    <p class="lead">Efocipegtrutide / HM15211 is tracked as investigational for MASH.</p>
   </div>
 </section>
 

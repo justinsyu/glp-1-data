@@ -13,7 +13,6 @@ description: Bofanglutide / GZR18 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Pure GLP-1 receptor agonist</span>
     </div>
     <h1>Bofanglutide / GZR18</h1>
-    <p class="lead">Bofanglutide / GZR18 is tracked as investigational for Obesity/overweight; T2D.</p>
   </div>
 </section>
 

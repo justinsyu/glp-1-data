@@ -13,7 +13,6 @@ description: Efinopegdutide / MK-6024 / HM12525A GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Dual GLP-1/glucagon receptor agonist</span>
     </div>
     <h1>Efinopegdutide / MK-6024 / HM12525A</h1>
-    <p class="lead">Efinopegdutide / MK-6024 / HM12525A is tracked as investigational for MASH / metabolic disease.</p>
   </div>
 </section>
 

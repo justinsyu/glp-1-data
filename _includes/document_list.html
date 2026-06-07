@@ -11,7 +11,7 @@
   {% assign all_infographics = site.pages | where_exp: "p", "p.layout == 'document_infographic'" %}
 {% endif %}
 
-<div class="document-list-block" data-document-list-block>
+<div class="document-list-block{% if include.match_summary_spacing %} document-list-block-summary-spaced{% endif %}" data-document-list-block>
   <div class="sort-toolbar" aria-label="Document sorting controls">
     <label>
       <span>Sort by</span>

@@ -7,7 +7,6 @@ description: GLP-1 treatments tracked for Type 2 Diabetes.
 
 <section class="hero">
   <h1>Type 2 Diabetes</h1>
-  <p class="lead">In-scope branded and investigational GLP-1-containing treatments with source-backed status tracking.</p>
 </section>
 
 <section>

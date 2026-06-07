@@ -706,7 +706,6 @@ def write_program_pages(treatments: list[dict]) -> None:
       <span class="brand-chip-sponsor">{treatment['mechanism']}</span>
     </div>
     <h1>{treatment['brand'] or treatment['name']}</h1>
-    <p class="lead">{treatment['name']} is tracked as {treatment['status'].lower()} for {treatment['indication']}.</p>
   </div>
 </section>
 
@@ -749,7 +748,6 @@ def write_indication_pages(treatments: list[dict]) -> None:
             front_matter(layout="default", title=title, permalink=f"/indications/{slug}/", description=f"GLP-1 treatments tracked for {title}.")
             + f"""<section class="hero">
   <h1>{title}</h1>
-  <p class="lead">In-scope branded and investigational GLP-1-containing treatments with source-backed status tracking.</p>
 </section>
 
 <section>
@@ -769,7 +767,6 @@ def write_topic_pages(treatments: list[dict]) -> None:
     content = front_matter(layout="default", title="Mechanism Map", permalink="/topics/mechanism-map/", description="Mechanism-level map of GLP-1-containing treatments.")
     content += """<section class="hero">
   <h1>Mechanism Map</h1>
-  <p class="lead">The GLP-1 landscape now spans mono-agonists, oral small molecules, dual incretins, GLP-1/glucagon duals, triple agonists, amylin combinations, and insulin fixed-dose combinations.</p>
 </section>
 """
     for mechanism, rows in sorted(mechanisms.items()):
@@ -797,7 +794,6 @@ def write_index_pages(treatments: list[dict], profiles: list[dict], programs: li
 
 <section class="hero">
   <h1>Branded and investigational GLP-1 treatment landscape</h1>
-  <p class="lead">A GitHub Pages archive of in-scope GLP-1-containing treatments from the supplied research file, excluding discontinued products and monotherapy families with generic versions. The site keeps sponsor-specific styling, source trails, and automation-ready press/publication monitoring in the same structural pattern as the reference archive.</p>
 </section>
 
 <section class="summary-grid" aria-label="Archive summary">
@@ -842,10 +838,9 @@ def write_index_pages(treatments: list[dict], profiles: list[dict], programs: li
     )
     write("treatments.md", front_matter(layout="default", title="Treatments", permalink="/treatments/", description="Complete GLP-1 treatment index.") + """<section class="hero">
   <h1>Treatments</h1>
-  <p class="lead">Complete in-scope list of branded approved and investigational GLP-1-containing treatments from the supplied research file. Discontinued products and monotherapy families with generic versions are excluded.</p>
 </section>
 
-{% include treatment_list.html treatments=site.data.treatments sort_by="name" sort_dir="asc" %}
+{% include treatment_list.html treatments=site.data.treatments sort_by="name" sort_dir="asc" match_summary_spacing=true %}
 """)
     write("documents.md", front_matter(layout="default", title="Documents", permalink="/documents/", description="External source document index for the GLP-1 archive.") + """{% assign presentation_documents = site.data.company_documents | where: "document_type", "Presentation/Poster" %}
 {% assign manuscript_documents = site.data.company_documents | where: "document_type", "Published Manuscript" %}
@@ -854,14 +849,12 @@ def write_index_pages(treatments: list[dict], profiles: list[dict], programs: li
 
 <section class="hero">
   <h1>Documents</h1>
-  <p class="lead">Publications, posters, and presentations with parsed source pages in the archive. Regulatory decisions, sponsor news, topline updates, and generic approval evidence now live on News.</p>
 </section>
 
-<section class="summary-grid" aria-label="Document source summary">
-  <div><strong>Documents</strong><span>{{ actual_document_count }}</span></div>
-  <div><strong>Poster and presentation rows</strong><span>{{ presentation_documents | size }}</span></div>
-  <div><strong>Publication rows</strong><span>{{ manuscript_documents | size }}</span></div>
-  <div><strong>Other source rows</strong><span><a href="{{ '/news/' | relative_url }}">News</a></span></div>
+<section class="summary-grid summary-grid-no-top summary-grid-toolbar-aligned" aria-label="Document source summary">
+  <div><strong>Total</strong><span>{{ actual_document_count }}</span></div>
+  <div><strong>Posters and Presentations</strong><span>{{ presentation_documents | size }}</span></div>
+  <div><strong>Publications</strong><span>{{ manuscript_documents | size }}</span></div>
 </section>
 
 {% include document_list.html documents=actual_documents sort_by="year" sort_dir="desc" %}
@@ -875,11 +868,10 @@ def write_index_pages(treatments: list[dict], profiles: list[dict], programs: li
 
 <section class="hero">
   <h1>News</h1>
-  <p class="lead">Non-document source rows used by the archive, separated from publications, posters, and presentations. Sort by type to distinguish regulatory decisions, filings, clinical data, company updates, and generic approvals.</p>
 </section>
 
-<section class="summary-grid" aria-label="News source summary">
-  <div><strong>News rows</strong><span>{{ news_count }}</span></div>
+<section class="summary-grid summary-grid-six summary-grid-no-top summary-grid-toolbar-aligned" aria-label="News source summary">
+  <div><strong>Articles</strong><span>{{ news_count }}</span></div>
   <div><strong>Regulatory decisions</strong><span>{{ regulatory_decisions | size }}</span></div>
   <div><strong>Regulatory filings</strong><span>{{ regulatory_filings | size }}</span></div>
   <div><strong>Clinical data</strong><span>{{ clinical_data | size }}</span></div>
@@ -891,12 +883,10 @@ def write_index_pages(treatments: list[dict], profiles: list[dict], programs: li
 """)
     write("companies.md", front_matter(layout="default", title="Companies", permalink="/companies/", description="Company-level entry points for the GLP-1 archive.") + """<section class="hero">
   <h1>Companies</h1>
-  <p class="lead">Sponsor entry points for the GLP-1 archive. Each card uses the company's palette and links to treatment and source rows.</p>
 </section>
 
 {% assign companies = site.data.company_profiles | sort: "name" %}
 <section>
-  <h2>Company landing pages</h2>
   <ul class="document-list company-card-grid">
     {% for company in companies %}
       <li data-company-color="true" style="--card-primary: {{ company.primary }}; --card-secondary: {{ company.secondary }}; --card-accent: {{ company.accent }};">
@@ -922,12 +912,10 @@ def write_index_pages(treatments: list[dict], profiles: list[dict], programs: li
 """)
     write("programs.md", front_matter(layout="default", title="Programs", permalink="/programs/", description="Product and pipeline entry points for GLP-1 treatment records.") + """<section class="hero">
   <h1>Programs</h1>
-  <p class="lead">Product and pipeline cards are colored by their sponsoring company's palette and link to treatment-level pages.</p>
 </section>
 
 {% assign program_cards = site.data.company_programs | sort: "program" %}
 <section>
-  <h2>Program / Product Landing Pages</h2>
   <ul class="document-list">
     {% for program in program_cards %}
       <li data-company-color="true" style="--card-primary: {{ program.primary_color }}; --card-secondary: {{ program.secondary_color }}; --card-accent: {{ program.accent_color }};">
@@ -943,11 +931,9 @@ def write_index_pages(treatments: list[dict], profiles: list[dict], programs: li
 """)
     write("indications.md", front_matter(layout="default", title="Indications", permalink="/indications/", description="Indication entry points for GLP-1 treatments.") + """<section class="hero">
   <h1>Indications</h1>
-  <p class="lead">Disease and use-case entry points across in-scope GLP-1-containing therapies.</p>
 </section>
 
 <section>
-  <h2>Browse by indication</h2>
   <ul class="document-list">
     <li><a class="topic-card-link" href="{{ '/indications/obesity/' | relative_url }}"><span class="topic-card-title">Obesity and Weight Management</span><span class="topic-card-description">Approved and investigational therapies for obesity, overweight, and chronic weight management.</span></a></li>
     <li><a class="topic-card-link" href="{{ '/indications/t2d/' | relative_url }}"><span class="topic-card-title">Type 2 Diabetes</span><span class="topic-card-description">GLP-1-containing products and combinations for glycemic control.</span></a></li>
@@ -957,13 +943,11 @@ def write_index_pages(treatments: list[dict], profiles: list[dict], programs: li
   </ul>
 </section>
 """)
-    write("topics.md", front_matter(layout="default", title="Topic Pages", permalink="/topics/", description="Topic syntheses for the GLP-1 archive.") + """<section class="hero">
-  <h1>Topic Pages</h1>
-  <p class="lead">Cross-treatment views for mechanism classes, excluded products, and monitoring scope.</p>
+    write("topics.md", front_matter(layout="default", title="Topics", permalink="/topics/", description="Topic syntheses for the GLP-1 archive.") + """<section class="hero">
+  <h1>Topics</h1>
 </section>
 
 <section>
-  <h2>Topics</h2>
   <ul class="document-list">
     <li><a class="topic-card-link" href="{{ '/topics/mechanism-map/' | relative_url }}"><span class="topic-card-title">Mechanism Map</span><span class="topic-card-description">Treatment classes from mono-agonists through triple agonists and fixed-dose combinations.</span></a></li>
     <li><a class="topic-card-link" href="{{ '/topics/exclusions/' | relative_url }}"><span class="topic-card-title">Exclusions</span><span class="topic-card-description">Discontinued and generic-exposed products excluded from the focused archive.</span></a></li>
@@ -976,7 +960,6 @@ def write_exclusions_page() -> None:
     rows = "\n".join(f"| {name} | {brands} | {why} |" for name, brands, why in EXCLUSIONS)
     write("topics/exclusions.md", front_matter(layout="default", title="Exclusions", permalink="/topics/exclusions/", description="GLP-1 treatments excluded from the focused archive.") + f"""<section class="hero">
   <h1>Exclusions</h1>
-  <p class="lead">Products excluded from this focused archive because they are discontinued, withdrawn, or have generic versions at the molecule/product-family level.</p>
 </section>
 
 | Treatment | Brand(s) / code(s) | Rationale |
@@ -988,7 +971,6 @@ def write_exclusions_page() -> None:
 def write_methodology_and_ops() -> None:
     write("methodology.md", front_matter(layout="default", title="Methodology", permalink="/methodology/", description="Scope and source methodology for the GLP-1 archive.") + """<section class="hero">
   <h1>Methodology</h1>
-  <p class="lead">The archive starts from the supplied GLP-1 research attachment and keeps only active branded or investigational GLP-1-containing treatments.</p>
 </section>
 
 ## Inclusion rules
@@ -1006,20 +988,60 @@ Primary source preference is regulator pages, sponsor press releases, trial regi
 {% assign summary = audit.summary %}
 {% assign latest_run = audit.runs | first %}
 
-<section class="hero">
-  <p class="eyebrow">Operations audit</p>
+<section class="hero audit-index-hero">
   <h1>Automation Audit</h1>
-  <p class="lead">This dashboard tracks expected source rosters, source-level terminal status, press release rows, publication/congress candidates, deferred review items, and run outcomes. Generated {{ audit.generated_at_utc }}.</p>
 </section>
 
 <section class="summary-grid audit-summary-grid" aria-label="Automation audit summary">
   <div><strong>Companies</strong><span>{{ summary.in_scope_companies }}</span></div>
   <div><strong>Expected Sources</strong><span>{{ summary.expected_sources }}</span></div>
-  <div><strong>Publication Sources</strong><span>{{ summary.publication_expected_sources }}</span></div>
+  <div><strong>Pub Sources</strong><span>{{ summary.publication_expected_sources }}</span></div>
   <div><strong>Press Sources</strong><span>{{ summary.press_release_expected_sources }}</span></div>
   <div><strong>Latest Coverage</strong><span>{{ summary.latest_checked_sources }} / {{ summary.latest_expected_sources }}</span></div>
   <div><strong>Latest Status</strong><span>{{ summary.latest_run_status_label | default: summary.latest_run_status }}</span></div>
   <div><strong>Open Findings</strong><span>{{ summary.open_findings }}</span></div>
+</section>
+
+<section class="audit-panel">
+  <h2>Latest Run</h2>
+  {% if latest_run %}
+    <dl class="metadata">
+      <div>
+        <dt>Run ID</dt>
+        <dd><code>{{ latest_run.run_id }}</code></dd>
+      </div>
+      <div>
+        <dt>Started</dt>
+        <dd><code>{{ latest_run.started_at | default: "(not recorded)" }}</code></dd>
+      </div>
+      <div>
+        <dt>Type</dt>
+        <dd>{{ latest_run.run_type_label | default: latest_run.run_type }}</dd>
+      </div>
+      <div>
+        <dt>Mode</dt>
+        <dd>{% if latest_run.dry_run %}<span class="status-pill status-warning">Dry Run</span>{% else %}<span class="status-pill status-ok">Live Run</span>{% endif %}</dd>
+      </div>
+      <div>
+        <dt>Status</dt>
+        <dd><span class="status-pill status-{{ latest_run.status }}">{{ latest_run.status_label | default: latest_run.status }}</span></dd>
+      </div>
+      <div>
+        <dt>Coverage</dt>
+        <dd>{{ latest_run.checked_sources_count }} / {{ latest_run.expected_sources_count }}</dd>
+      </div>
+      <div>
+        <dt>Worklist</dt>
+        <dd>{{ latest_run.worklist_items_count }}</dd>
+      </div>
+      <div>
+        <dt>Errors</dt>
+        <dd>{{ latest_run.error_sources_count }}</dd>
+      </div>
+    </dl>
+  {% else %}
+    <p class="lead">No automation run records found.</p>
+  {% endif %}
 </section>
 
 <section>

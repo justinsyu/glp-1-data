@@ -13,7 +13,6 @@ description: Maridebart cafraglutide / MariTide / AMG 133 GLP-1 treatment profil
       <span class="brand-chip-sponsor">Dual GIP/GLP-1 receptor agonist</span>
     </div>
     <h1>Maridebart cafraglutide / MariTide / AMG 133</h1>
-    <p class="lead">Maridebart cafraglutide / MariTide / AMG 133 is tracked as investigational for Obesity and obesity-related conditions.</p>
   </div>
 </section>
 

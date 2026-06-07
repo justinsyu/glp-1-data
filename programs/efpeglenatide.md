@@ -13,7 +13,6 @@ description: Efpeglenatide GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Pure GLP-1 receptor agonist</span>
     </div>
     <h1>Efpeglenatide</h1>
-    <p class="lead">Efpeglenatide is tracked as investigational for Obesity; T2D.</p>
   </div>
 </section>
 

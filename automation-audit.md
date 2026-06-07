@@ -9,20 +9,60 @@ description: Run-level audit dashboard for GLP-1 publication and press release a
 {% assign summary = audit.summary %}
 {% assign latest_run = audit.runs | first %}
 
-<section class="hero">
-  <p class="eyebrow">Operations audit</p>
+<section class="hero audit-index-hero">
   <h1>Automation Audit</h1>
-  <p class="lead">This dashboard tracks expected source rosters, source-level terminal status, press release rows, publication/congress candidates, deferred review items, and run outcomes. Generated {{ audit.generated_at_utc }}.</p>
 </section>
 
 <section class="summary-grid audit-summary-grid" aria-label="Automation audit summary">
   <div><strong>Companies</strong><span>{{ summary.in_scope_companies }}</span></div>
   <div><strong>Expected Sources</strong><span>{{ summary.expected_sources }}</span></div>
-  <div><strong>Publication Sources</strong><span>{{ summary.publication_expected_sources }}</span></div>
+  <div><strong>Pub Sources</strong><span>{{ summary.publication_expected_sources }}</span></div>
   <div><strong>Press Sources</strong><span>{{ summary.press_release_expected_sources }}</span></div>
   <div><strong>Latest Coverage</strong><span>{{ summary.latest_checked_sources }} / {{ summary.latest_expected_sources }}</span></div>
   <div><strong>Latest Status</strong><span>{{ summary.latest_run_status_label | default: summary.latest_run_status }}</span></div>
   <div><strong>Open Findings</strong><span>{{ summary.open_findings }}</span></div>
+</section>
+
+<section class="audit-panel">
+  <h2>Latest Run</h2>
+  {% if latest_run %}
+    <dl class="metadata">
+      <div>
+        <dt>Run ID</dt>
+        <dd><code>{{ latest_run.run_id }}</code></dd>
+      </div>
+      <div>
+        <dt>Started</dt>
+        <dd><code>{{ latest_run.started_at | default: "(not recorded)" }}</code></dd>
+      </div>
+      <div>
+        <dt>Type</dt>
+        <dd>{{ latest_run.run_type_label | default: latest_run.run_type }}</dd>
+      </div>
+      <div>
+        <dt>Mode</dt>
+        <dd>{% if latest_run.dry_run %}<span class="status-pill status-warning">Dry Run</span>{% else %}<span class="status-pill status-ok">Live Run</span>{% endif %}</dd>
+      </div>
+      <div>
+        <dt>Status</dt>
+        <dd><span class="status-pill status-{{ latest_run.status }}">{{ latest_run.status_label | default: latest_run.status }}</span></dd>
+      </div>
+      <div>
+        <dt>Coverage</dt>
+        <dd>{{ latest_run.checked_sources_count }} / {{ latest_run.expected_sources_count }}</dd>
+      </div>
+      <div>
+        <dt>Worklist</dt>
+        <dd>{{ latest_run.worklist_items_count }}</dd>
+      </div>
+      <div>
+        <dt>Errors</dt>
+        <dd>{{ latest_run.error_sources_count }}</dd>
+      </div>
+    </dl>
+  {% else %}
+    <p class="lead">No automation run records found.</p>
+  {% endif %}
 </section>
 
 <section>

@@ -13,7 +13,6 @@ description: Ecnoglutide / XW003 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Pure GLP-1 receptor agonist</span>
     </div>
     <h1>Xianyida; Xianweiying</h1>
-    <p class="lead">Ecnoglutide / XW003 is tracked as approved branded for T2D; obesity/overweight.</p>
   </div>
 </section>
 

@@ -13,7 +13,6 @@ description: Elecoglipron / ECC5004 / AZD5004 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Oral small-molecule GLP-1 receptor agonist</span>
     </div>
     <h1>Elecoglipron / ECC5004 / AZD5004</h1>
-    <p class="lead">Elecoglipron / ECC5004 / AZD5004 is tracked as investigational for Obesity; T2D.</p>
   </div>
 </section>
 

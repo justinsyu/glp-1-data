@@ -13,7 +13,6 @@ description: Ribupatide / HRS9531 / KAI-9531 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Dual GIP/GLP-1 receptor agonist</span>
     </div>
     <h1>Ribupatide / HRS9531 / KAI-9531</h1>
-    <p class="lead">Ribupatide / HRS9531 / KAI-9531 is tracked as investigational for Obesity/overweight.</p>
   </div>
 </section>
 

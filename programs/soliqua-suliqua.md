@@ -13,7 +13,6 @@ description: Insulin glargine / lixisenatide GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Insulin + GLP-1 fixed-dose combination</span>
     </div>
     <h1>Soliqua; Suliqua</h1>
-    <p class="lead">Insulin glargine / lixisenatide is tracked as approved branded fdc for T2D.</p>
   </div>
 </section>
 

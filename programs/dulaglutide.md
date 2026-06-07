@@ -13,7 +13,6 @@ description: Dulaglutide GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Pure GLP-1 receptor agonist</span>
     </div>
     <h1>Trulicity</h1>
-    <p class="lead">Dulaglutide is tracked as approved branded for T2D; CV risk reduction in T2D.</p>
   </div>
 </section>
 

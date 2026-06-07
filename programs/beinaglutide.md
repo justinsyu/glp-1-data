@@ -13,7 +13,6 @@ description: Beinaglutide GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Pure GLP-1 receptor agonist</span>
     </div>
     <h1>Yishengtai; Feisumei</h1>
-    <p class="lead">Beinaglutide is tracked as approved branded for T2D; obesity/overweight.</p>
   </div>
 </section>
 

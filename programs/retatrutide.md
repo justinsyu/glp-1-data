@@ -13,7 +13,6 @@ description: Retatrutide / LY3437943 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Triple GIP/GLP-1/glucagon receptor agonist</span>
     </div>
     <h1>Retatrutide / LY3437943</h1>
-    <p class="lead">Retatrutide / LY3437943 is tracked as investigational for Obesity/overweight; T2D; obesity-related comorbidities.</p>
   </div>
 </section>
 

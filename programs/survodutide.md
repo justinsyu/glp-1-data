@@ -13,7 +13,6 @@ description: Survodutide / BI 456906 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Dual GLP-1/glucagon receptor agonist</span>
     </div>
     <h1>Survodutide / BI 456906</h1>
-    <p class="lead">Survodutide / BI 456906 is tracked as investigational for Obesity; T2D; MASH.</p>
   </div>
 </section>
 

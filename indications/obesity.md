@@ -7,7 +7,6 @@ description: GLP-1 treatments tracked for Obesity and Weight Management.
 
 <section class="hero">
   <h1>Obesity and Weight Management</h1>
-  <p class="lead">In-scope branded and investigational GLP-1-containing treatments with source-backed status tracking.</p>
 </section>
 
 <section>

@@ -13,7 +13,6 @@ description: Aleniglipron / GSBR-1290 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Oral small-molecule GLP-1 receptor agonist</span>
     </div>
     <h1>Aleniglipron / GSBR-1290</h1>
-    <p class="lead">Aleniglipron / GSBR-1290 is tracked as investigational for Obesity; T2D.</p>
   </div>
 </section>
 

@@ -7,12 +7,10 @@ description: Company-level entry points for the GLP-1 archive.
 
 <section class="hero">
   <h1>Companies</h1>
-  <p class="lead">Sponsor entry points for the GLP-1 archive. Each card uses the company's palette and links to treatment and source rows.</p>
 </section>
 
 {% assign companies = site.data.company_profiles | sort: "name" %}
 <section>
-  <h2>Company landing pages</h2>
   <ul class="document-list company-card-grid">
     {% for company in companies %}
       <li data-company-color="true" style="--card-primary: {{ company.primary }}; --card-secondary: {{ company.secondary }}; --card-accent: {{ company.accent }};">

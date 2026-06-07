@@ -13,7 +13,6 @@ description: Efsubaglutide alfa / supaglutide GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Pure GLP-1 receptor agonist</span>
     </div>
     <h1>Yinuoqing / Diabegone</h1>
-    <p class="lead">Efsubaglutide alfa / supaglutide is tracked as approved branded for T2D.</p>
   </div>
 </section>
 

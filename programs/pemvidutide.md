@@ -13,7 +13,6 @@ description: Pemvidutide GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Dual GLP-1/glucagon receptor agonist</span>
     </div>
     <h1>Pemvidutide</h1>
-    <p class="lead">Pemvidutide is tracked as investigational for MASH; obesity.</p>
   </div>
 </section>
 

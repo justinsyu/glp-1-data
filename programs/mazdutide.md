@@ -13,7 +13,6 @@ description: Mazdutide / IBI362 / LY3305677 GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Dual GLP-1/glucagon receptor agonist</span>
     </div>
     <h1>Mazdutide / IBI362 / LY3305677</h1>
-    <p class="lead">Mazdutide / IBI362 / LY3305677 is tracked as approved branded for Obesity/overweight; T2D.</p>
   </div>
 </section>
 

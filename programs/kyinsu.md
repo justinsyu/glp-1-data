@@ -13,7 +13,6 @@ description: Insulin icodec / semaglutide GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Insulin + GLP-1 fixed-dose combination</span>
     </div>
     <h1>Kyinsu</h1>
-    <p class="lead">Insulin icodec / semaglutide is tracked as approved branded fdc for T2D.</p>
   </div>
 </section>
 

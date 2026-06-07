@@ -13,7 +13,6 @@ description: Tirzepatide GLP-1 treatment profile.
       <span class="brand-chip-sponsor">Dual GIP/GLP-1 receptor agonist</span>
     </div>
     <h1>Mounjaro; Zepbound</h1>
-    <p class="lead">Tirzepatide is tracked as approved branded for T2D; obesity/overweight; OSA with obesity.</p>
   </div>
 </section>
 

@@ -13,7 +13,6 @@ description: Amycretin / zenagamtide GLP-1 treatment profile.
       <span class="brand-chip-sponsor">GLP-1/amylin combination</span>
     </div>
     <h1>Amycretin / zenagamtide</h1>
-    <p class="lead">Amycretin / zenagamtide is tracked as investigational for Obesity/overweight.</p>
   </div>
 </section>
 

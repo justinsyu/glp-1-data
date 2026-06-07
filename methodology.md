@@ -7,7 +7,6 @@ description: Scope and source methodology for the GLP-1 archive.
 
 <section class="hero">
   <h1>Methodology</h1>
-  <p class="lead">The archive starts from the supplied GLP-1 research attachment and keeps only active branded or investigational GLP-1-containing treatments.</p>
 </section>
 
 ## Inclusion rules
